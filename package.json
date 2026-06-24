@@ -1,0 +1,11 @@
+{
+  "name": "boats-data",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "fetch": "node fetch-boats.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0"
+  }
+}

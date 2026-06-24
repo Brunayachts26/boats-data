@@ -1,0 +1,37 @@
+name: Fetch Boats Data
+
+on:
+  schedule:
+    - cron: "0 */1 * * *" # Every hour
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch boat data
+        run: node fetch-boats.js
+        env:
+          BOATS_API_KEY: ${{ secrets.BOATS_API_KEY }}
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --staged --quiet || git commit -m "Update boat listings $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push

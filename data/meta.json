@@ -1,0 +1,9 @@
+{
+  "lastUpdated": "pending",
+  "statuses": [
+    {"status": "Active", "file": "active.json"},
+    {"status": "on-order", "file": "on-order.json"},
+    {"status": "sale pending", "file": "sale-pending.json"},
+    {"status": "Inactive", "file": "inactive.json"}
+  ]
+}
