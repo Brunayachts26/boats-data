@@ -8,7 +8,7 @@ if (!API_KEY) {
   process.exit(1);
 }
 const BASE_URL = "https://api.boats.com/inventory/search";
-const DATA_DIR = path.join(__dirname, "data");
+const DATA_DIR = path.join(__dirname, "docs");
 
 const STATUSES = ["Active", "on-order", "sale pending", "Inactive"];
 
