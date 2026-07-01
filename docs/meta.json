@@ -1,9 +1,21 @@
 {
-  "lastUpdated": "pending",
+  "lastUpdated": "2026-07-01T17:08:55.669Z",
   "statuses": [
-    {"status": "Active", "file": "active.json"},
-    {"status": "on-order", "file": "on-order.json"},
-    {"status": "sale pending", "file": "sale-pending.json"},
-    {"status": "Inactive", "file": "inactive.json"}
+    {
+      "status": "Active",
+      "file": "active.json"
+    },
+    {
+      "status": "on-order",
+      "file": "on-order.json"
+    },
+    {
+      "status": "sale pending",
+      "file": "sale-pending.json"
+    },
+    {
+      "status": "Inactive",
+      "file": "inactive.json"
+    }
   ]
 }

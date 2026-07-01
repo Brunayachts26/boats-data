@@ -1,1 +1,3154 @@
-{"numResults": 0, "results": []}
+{
+  "numResults": 6,
+  "results": [
+    {
+      "Source": "IMT",
+      "DocumentID": "10228119",
+      "SalesStatus": "Active",
+      "CoOpIndicator": "true",
+      "NumberOfEngines": 3,
+      "RegistrationCountryCode": "0",
+      "Owner": {
+        "PartyId": "879366"
+      },
+      "SalesRep": {
+        "PartyId": "879383",
+        "Name": "Esteban Bruna"
+      },
+      "CompanyName": "Bruna Yacht Group",
+      "Office": {
+        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
+        "City": "Coral Gables",
+        "State": "FL",
+        "PostCode": "33134",
+        "Country": "US",
+        "Email": "esteban@brunayachtgroup.com",
+        "Phone": "3054315855",
+        "Name": "Bruna Yacht Group"
+      },
+      "LastModificationDate": "2026-06-22",
+      "ItemReceivedDate": "2026-06-22",
+      "OriginalPrice": "425000 USD",
+      "Price": "425000.00 USD",
+      "PriceHideInd": false,
+      "EmbeddedVideoPresent": false,
+      "Image360PhotoPresent": false,
+      "ImmersiveTourPresent": false,
+      "BoatLocation": {
+        "BoatCityName": "Coral Gables",
+        "BoatCountryID": "US",
+        "BoatStateCode": "FL"
+      },
+      "BoatCityNameNoCaseAlnumOnly": "Coral Gables",
+      "MakeString": "Cruisers Yachts",
+      "MakeStringExact": "Cruisers Yachts",
+      "MakeStringNoCaseAlnumOnly": "Cruisers Yachts",
+      "ModelYear": 2020,
+      "SaleClassCode": "Used",
+      "Model": "38 GLS OB",
+      "ModelExact": "38 GLS OB",
+      "ModelNoCaseAlnumOnly": "38 GLS OB",
+      "BoatCategoryCode": "Power",
+      "BoatName": "",
+      "BoatNameNoCaseAlnumOnly": "",
+      "BuilderName": "",
+      "DesignerName": "",
+      "CruisingSpeedMeasure": null,
+      "PropellerCruisingSpeed": "",
+      "MaximumSpeedMeasure": "46.06 kn",
+      "RangeMeasure": null,
+      "BridgeClearanceMeasure": "12.75 ft",
+      "BeamMeasure": "12.5 ft",
+      "FreeBoardMeasure": null,
+      "CabinHeadroomMeasure": null,
+      "WaterTankCountNumeric": 1,
+      "WaterTankCapacityMeasure": "50|gallon",
+      "WaterTankMaterialCode": "",
+      "FuelTankCountNumeric": 1,
+      "FuelTankCapacityMeasure": "335|gallon",
+      "FuelTankMaterialCode": "",
+      "HoldingTankCountNumeric": 1,
+      "HoldingTankCapacityMeasure": "31|gallon",
+      "HoldingTankMaterialCode": "",
+      "DryWeightMeasure": "23,916 lb",
+      "BallastWeightMeasure": null,
+      "DisplacementMeasure": null,
+      "DisplacementTypeCode": "",
+      "TotalEnginePowerQuantity": "900 hp",
+      "DriveTypeCode": "",
+      "BoatKeelCode": "",
+      "ConvertibleSaloonIndicator": false,
+      "WindlassTypeCode": "",
+      "DeadriseMeasure": null,
+      "ElectricalCircuitMeasure": null,
+      "TrimTabsIndicator": false,
+      "HeadsCountNumeric": 1,
+      "CabinsCountNumeric": 2,
+      "BoatHullMaterialCode": "Fiberglass",
+      "BoatHullID": "CRSBE102E920",
+      "StockNumber": "",
+      "NominalLength": "38 ft",
+      "LengthOverall": "38 ft",
+      "ListingTitle": "New arrival",
+      "BcnaID": "10228119",
+      "BtolID": "105873690",
+      "YachtWorldID": "10228119",
+      "MaxDraft": "3.67 ft",
+      "TaxStatusCode": "",
+      "IMTTimeStamp": "2026-06-22T18:07:29Z",
+      "HasBoatHullID": true,
+      "IsAvailableForPls": true,
+      "NormNominalLength": 11.58,
+      "NormPrice": 425000,
+      "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "Mercury",
+          "Model": "V8 Verado DTS",
+          "Fuel": "unleaded",
+          "EnginePower": "300|horsepower",
+          "Type": "Outboard",
+          "Year": 2020,
+          "Hours": 500
+        },
+        {
+          "Make": "Mercury",
+          "Model": "V8 Verado DTS",
+          "Fuel": "unleaded",
+          "EnginePower": "300|horsepower",
+          "Type": "Outboard",
+          "Year": 2020,
+          "Hours": 500
+        },
+        {
+          "Make": "Mercury",
+          "Model": "V8 Verado DTS",
+          "Fuel": "unleaded",
+          "EnginePower": "300|horsepower",
+          "Type": "Outboard",
+          "Year": 2020,
+          "Hours": 500
+        }
+      ],
+      "Service": [
+        "yachtcloser.navbar",
+        "package.advantage.select",
+        "bw3.provisioning",
+        "verified-popup",
+        "verifiedcustomer",
+        "mobile-phone-popup",
+        "bwreports.searchdemand",
+        "bwreports.listingoptimizer",
+        "bwreports.marketinsights",
+        "proseller.market.eval",
+        "btol.homepage.rotational.listings",
+        "yw.homepage.rotational.listings",
+        "btol.enhanced.all.listings",
+        "yw.enhanced.all.listings",
+        "btol.sponsored.all.listings",
+        "yw.sponsored.all.listings",
+        "btol.advantagesort.select",
+        "yw.advantagesort.select",
+        "trident.hidetridentfeatures",
+        "btol.advantageemail",
+        "yw.advantageemail",
+        "boats.com.callrecording",
+        "yw.callrecording",
+        "btol.callrecording",
+        "boats.com.calltracking",
+        "yw.calltracking",
+        "btol.calltracking",
+        "import.yachtcloser",
+        "imt.beta",
+        "branding.imt.features.boats.display",
+        "imt.product.boat",
+        "imt.vbs.auto",
+        "lead.export.leadsmart.premium.buyerintent",
+        "lead.export.leadsmart.premium",
+        "lead.export.leadsmart",
+        "lead.export.dealer",
+        "imt.expiry",
+        "btol.callbuttonimtreporting",
+        "btol.inventorylistingpage",
+        "btol.dealergallary",
+        "btol.dealerreporting",
+        "btol",
+        "export.yw",
+        "boats.com.service.level.premium",
+        "branding.imt.features.trailers.display",
+        "branding.imt.features.engines.display",
+        "account.type.dealer",
+        "account.type.broker",
+        "lm.pbs",
+        "soldboats",
+        "soldboats.contracted",
+        "yw",
+        "imt.product.trailer",
+        "imt.product.engine",
+        "imt.vbs",
+        "boats.com.c2a.buy",
+        "boats.com.c2a.more",
+        "boats.com.c2a.brochure",
+        "boats.com.c2a.appointment",
+        "boats.com.c2a.tradein",
+        "boats.com",
+        "branding.imt.bw",
+        "export.btol",
+        "export.boats",
+        "imt.tracker.regular"
+      ],
+      "GeneralBoatDescription": [
+        "<p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\"><strong>2020 Cruisers 38 GLS Outboard</strong></p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">The 38 GLS combines the bold styling and performance of the Cantius series with the versatility of outboard power. Designed for both adventure and comfort, this yacht features a unique fold-down beach door that expands your swim platform and offers unmatched water access. Below deck, the spacious cabin includes a private aft stateroom and a U-shaped dinette that easily converts into an additional berth. Whether you're entertaining dockside or cruising offshore, this 2020 38 GLS delivers a premium yachting experience with style, performance, and comfort. Her current owner has his sights set on a new vessel and is offering this 2020 38 GLS at a fraction of its replacement cost. </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Notable features include:</p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- (3) Mercury V8 Verado 300 </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Mercury JPO Joystick and Autopilot </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Seakeeper Equipped</p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Dual Simrad EVO Displays </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Simrad Closed Array Radar </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Exterior Wet Bar with Stools </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Canvas Sunroof</p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Folding Beach Door </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Helm A/C</p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Cockpit Grill</p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Cockpit Refrigeration</p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Cockpit Seating with Tables </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Rockford Fosgate Audio </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">- Custom Upholstery Covers </p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Conveniently located and available for showings in Coral Gables, FL. </p>"
+      ],
+      "BoatClassCode": [
+        "Bowrider",
+        "Cruisers",
+        "Walkarounds"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Bowrider",
+        "Cruisers",
+        "Walkarounds"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB on open water, side view.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429102014373-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB on open water, front view.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429102021360-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB on open water under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429102019348-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB on water, rear view with triple outboard engines.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429102017378-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB on open water, featuring triple outboard engines.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429102016334-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "Triple Mercury outboard engines on a 2020 Cruisers Yachts 38 GLS OB, docked on water.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101911325-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB boat seating area with gray cushions and deck view.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101915251-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "Deck of 2020 Cruisers Yachts 38 GLS OB, overlooking water.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429102011386-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB interior with sleek seating and modern design on open water.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101919106-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "Outdoor kitchen on 2020 Cruisers Yachts 38 GLS OB, featuring grill and sink.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101923125-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "Cruisers Yachts 38 GLS OB 2020 boat interior with seating and table.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101939068-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB with gray seating, overlooking the ocean.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101927300-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "Luxurious seating area on 2020 Cruisers Yachts 38 GLS OB with sleek table design.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101931188-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB interior with modern helm and seating, overlooking the water.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101943102-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "Helm of 2020 Cruisers Yachts 38 GLS OB with dual displays and controls.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101935230-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB deck with sleek design and modern features.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429102007082-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "Luxurious seating area on 2020 Cruisers Yachts 38 GLS OB, overlooking serene blue waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101951263-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "Luxury seating area on 2020 Cruisers Yachts 38 GLS OB with wooden table and cup holders.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101958955-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB boat with gray seating and clear windshield on a sunny day.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429102003323-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "Manufacturer Provided Image: Manufacturer Provided Image",
+          "Uri": "https://images.boatsgroup.com/images/1/29/49/7212949_20191213083023237_1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "Manufacturer Provided Image: Manufacturer Provided Image",
+          "Uri": "https://images.boatsgroup.com/images/1/29/49/7212949_20191213083013177_1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:43-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "Interior of 2020 Cruisers Yachts 38 GLS OB with cozy seating and amenities.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101905444-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "2020 Cruisers Yachts 38 GLS OB bathroom with modern sink and toilet.",
+          "Uri": "https://images.boatsgroup.com/images/1/55/40/2023-cruisers-yachts-38-gls-ob--power-9775540-20250429101908494-1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "Manufacturer Provided Image: Manufacturer Provided Image",
+          "Uri": "https://images.boatsgroup.com/images/1/7/1/7630701_20201020092534973_1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "Manufacturer Provided Image: Manufacturer Provided Image",
+          "Uri": "https://images.boatsgroup.com/images/1/7/1/7630701_20201020092509489_1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-22T11:03:44-08:00"
+        }
+      ],
+      "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "New arrival",
+          "ProgramID": "TagLine",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "boats",
+          "MarketingID": "10228119"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "btol",
+          "MarketingID": "105873690"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "yw",
+          "MarketingID": "10228119"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "adobe.saint",
+          "MarketingID": "10228119"
+        }
+      ],
+      "TotalEngineHoursNumeric": 1500
+    },
+    {
+      "Source": "IMT",
+      "DocumentID": "10227814",
+      "SalesStatus": "Active",
+      "CoOpIndicator": "true",
+      "NumberOfEngines": 4,
+      "RegistrationCountryCode": "0",
+      "Owner": {
+        "PartyId": "879366"
+      },
+      "SalesRep": {
+        "PartyId": "879383",
+        "Name": "Esteban Bruna"
+      },
+      "CompanyName": "Bruna Yacht Group",
+      "Office": {
+        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
+        "City": "Coral Gables",
+        "State": "FL",
+        "PostCode": "33134",
+        "Country": "US",
+        "Email": "esteban@brunayachtgroup.com",
+        "Phone": "3054315855",
+        "Name": "Bruna Yacht Group"
+      },
+      "LastModificationDate": "2026-06-22",
+      "ItemReceivedDate": "2026-06-22",
+      "OriginalPrice": "799000 USD",
+      "Price": "799000.00 USD",
+      "PriceHideInd": false,
+      "EmbeddedVideoPresent": false,
+      "Image360PhotoPresent": false,
+      "ImmersiveTourPresent": false,
+      "BoatLocation": {
+        "BoatCityName": "Coral Gables",
+        "BoatCountryID": "US",
+        "BoatStateCode": "FL"
+      },
+      "BoatCityNameNoCaseAlnumOnly": "Coral Gables",
+      "MakeString": "HCB",
+      "MakeStringExact": "HCB",
+      "MakeStringNoCaseAlnumOnly": "HCB",
+      "ModelYear": 2019,
+      "SaleClassCode": "Used",
+      "Model": "53 Suenos",
+      "ModelExact": "53 Suenos",
+      "ModelNoCaseAlnumOnly": "53 Suenos",
+      "BoatCategoryCode": "Power",
+      "BoatName": "HCB 53 Sueños",
+      "BoatNameNoCaseAlnumOnly": "HCB 53 Sueños",
+      "BuilderName": "",
+      "DesignerName": "",
+      "CruisingSpeedMeasure": null,
+      "PropellerCruisingSpeed": "",
+      "MaximumSpeedMeasure": null,
+      "RangeMeasure": null,
+      "BridgeClearanceMeasure": "10.17 ft",
+      "BeamMeasure": "13 ft",
+      "FreeBoardMeasure": null,
+      "CabinHeadroomMeasure": null,
+      "WaterTankCountNumeric": 1,
+      "WaterTankCapacityMeasure": "100|gallon",
+      "WaterTankMaterialCode": "",
+      "FuelTankCountNumeric": 1,
+      "FuelTankCapacityMeasure": "1000|gallon",
+      "FuelTankMaterialCode": "",
+      "DryWeightMeasure": "28,323 lb",
+      "BallastWeightMeasure": null,
+      "DisplacementMeasure": null,
+      "DisplacementTypeCode": "",
+      "TotalEnginePowerQuantity": "1,700 hp",
+      "DriveTypeCode": "",
+      "BoatKeelCode": "",
+      "ConvertibleSaloonIndicator": false,
+      "WindlassTypeCode": "",
+      "DeadriseMeasure": "23 °",
+      "ElectricalCircuitMeasure": null,
+      "TrimTabsIndicator": false,
+      "BoatHullMaterialCode": "Composite",
+      "BoatHullID": "VHS53A1ZK819",
+      "StockNumber": "",
+      "NominalLength": "53 ft",
+      "LengthOverall": "53 ft",
+      "BcnaID": "10227814",
+      "BtolID": "105873685",
+      "YachtWorldID": "10227814",
+      "DriveUp": "2 ft",
+      "TaxStatusCode": "",
+      "IMTTimeStamp": "2026-06-22T17:57:15Z",
+      "HasBoatHullID": true,
+      "IsAvailableForPls": true,
+      "NormNominalLength": 16.15,
+      "NormPrice": 799000,
+      "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "Yamaha",
+          "Model": "425 XTO",
+          "Fuel": "unleaded",
+          "EnginePower": "425|horsepower",
+          "Type": "Outboard",
+          "Year": 2026
+        },
+        {
+          "Make": "Yamaha",
+          "Model": "425 XTO",
+          "Fuel": "unleaded",
+          "EnginePower": "425|horsepower",
+          "Type": "Outboard",
+          "Year": 2026
+        },
+        {
+          "Make": "Yamaha",
+          "Model": "425 XTO",
+          "Fuel": "unleaded",
+          "EnginePower": "425|horsepower",
+          "Type": "Outboard",
+          "Year": 2026
+        },
+        {
+          "Make": "Yamaha",
+          "Model": "425 XTO",
+          "Fuel": "unleaded",
+          "EnginePower": "425|horsepower",
+          "Type": "Outboard",
+          "Year": 2026
+        }
+      ],
+      "Service": [
+        "yachtcloser.navbar",
+        "package.advantage.select",
+        "bw3.provisioning",
+        "verified-popup",
+        "verifiedcustomer",
+        "mobile-phone-popup",
+        "bwreports.searchdemand",
+        "bwreports.listingoptimizer",
+        "bwreports.marketinsights",
+        "proseller.market.eval",
+        "btol.homepage.rotational.listings",
+        "yw.homepage.rotational.listings",
+        "btol.enhanced.all.listings",
+        "yw.enhanced.all.listings",
+        "btol.sponsored.all.listings",
+        "yw.sponsored.all.listings",
+        "btol.advantagesort.select",
+        "yw.advantagesort.select",
+        "trident.hidetridentfeatures",
+        "btol.advantageemail",
+        "yw.advantageemail",
+        "boats.com.callrecording",
+        "yw.callrecording",
+        "btol.callrecording",
+        "boats.com.calltracking",
+        "yw.calltracking",
+        "btol.calltracking",
+        "import.yachtcloser",
+        "imt.beta",
+        "branding.imt.features.boats.display",
+        "imt.product.boat",
+        "imt.vbs.auto",
+        "lead.export.leadsmart.premium.buyerintent",
+        "lead.export.leadsmart.premium",
+        "lead.export.leadsmart",
+        "lead.export.dealer",
+        "imt.expiry",
+        "btol.callbuttonimtreporting",
+        "btol.inventorylistingpage",
+        "btol.dealergallary",
+        "btol.dealerreporting",
+        "btol",
+        "export.yw",
+        "boats.com.service.level.premium",
+        "branding.imt.features.trailers.display",
+        "branding.imt.features.engines.display",
+        "account.type.dealer",
+        "account.type.broker",
+        "lm.pbs",
+        "soldboats",
+        "soldboats.contracted",
+        "yw",
+        "imt.product.trailer",
+        "imt.product.engine",
+        "imt.vbs",
+        "boats.com.c2a.buy",
+        "boats.com.c2a.more",
+        "boats.com.c2a.brochure",
+        "boats.com.c2a.appointment",
+        "boats.com.c2a.tradein",
+        "boats.com",
+        "branding.imt.bw",
+        "export.btol",
+        "export.boats",
+        "imt.tracker.regular"
+      ],
+      "GeneralBoatDescription": [
+        "<p style=\"margin: 0.0px 0.0px 3.0px 0.0px; font: 12.5px Helvetica; color: #000000;\" id=\"isPasted\"><strong>2019/2026 HCB 53 Sueños </strong></p> <p style=\"margin: 0.0px 0.0px 3.0px 0.0px; font: 12.5px Helvetica; color: #000000;\"><strong>(New Quad Yamaha 425 XTO)</strong></p> <p style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000; min-height: 16.0px;\"><br /></p> <p style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Unique opportunity to acquire fully updated HCB 53 Sueños for a fraction of the price a new build. Fresh off an extensive refit, this particular 53 is turn-key condition and ready for its new owner. Sporting brand new Yamaha 425 XTOs, a fresh whisper grey paint job, New Seakeeper 6, new generator, new Garmin electronics and a full teak deck with covering boards - there is not a comparable 53 Sueños on the current market. Whether it’s tendering to a superyacht, tournament fishing or anything in between, this vessel checks every box possible and is available for immediate delivery. </p> <p style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000; min-height: 16.0px;\"><br /></p> <p style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Notable features and updates include:</p> <ul> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">New Yamaha 425 XTOS (7 Years of YES Warranty)</li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">New Seakeeper 6 (2 Years of Manufacturer Warranty)</li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">New Westerberke Generator </li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">New Whisper Grey Hull Paint </li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">New Medium Grey Hardtop and Metal Paint </li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Upgraded Diamond Stitch Upholstery</li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Custom Teak Deck and Covering Boards</li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">New Suite of Garmin Electronics </li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Dual Row Seating with Teak Helm Chairs</li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Forward Seating with High/Low Table</li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Leaning Post Refrigeration </li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Forward Freezer Box </li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Forward Lounge Seating </li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Extreme Audio Package </li> <li style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Dual Side Dive Doors</li> </ul> <p style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000; min-height: 16.0px;\"><br /></p> <p style=\"margin: 0.0px 0.0px 0.0px 0.0px; font: 12.5px Helvetica; color: #000000;\">Available for showing by appointment in Coral Gables, FL</p>"
+      ],
+      "BoatClassCode": [
+        "Center Consoles",
+        "Sports Fishing Boats"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Center Consoles",
+        "Sports Fishing Boats"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
+      ],
+      "ExternalLink": [
+        {
+          "Uri": "http://www.hcbyachts.com",
+          "Text": "",
+          "Type": "Manufacturer Website"
+        }
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "2019 HCB 53 Suenos boat with four engines on a calm waterway.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090544891-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "2019 HCB 53 Suenos boat cruising on calm water with lush greenery background.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090545651-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "2019 HCB 53 Suenos boat cruising on calm water near lush greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090546533-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2019 HCB 53 Suenos boat with four outboard engines on a calm waterway.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090547447-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2019 HCB 53 Suenos boat cruising on a serene waterway with lush greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090548677-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "2019 HCB 53 Suenos boat on calm water with lush greenery background.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090549328-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "2019 HCB 53 Suenos boat on calm water with lush greenery background.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090550065-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "2019 HCB 53 Suenos boat cruising on clear blue water near lush greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090550795-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2019 HCB 53 Suenos boat cruising on clear blue water, surrounded by greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090552027-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "Aerial view of 2019 HCB 53 Suenos luxury boat on green water.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511093935002-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "2019 HCB 53 Suenos boat cruising on blue ocean near coastline.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511093935328-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "Top view of a 2019 HCB 53 Suenos boat cruising on green water.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511093935858-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "2019 HCB 53 Suenos boat cruising on open water with city skyline in background.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511093936256-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "Four Yamaha XTO V8 outboard engines on a 2019 HCB 53 Suenos boat.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090553012-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "2019 HCB 53 Suenos boat with four Yamaha V8 engines on a serene water backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090554010-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "2019 HCB 53 Suenos boat deck with sleek cabinetry and wood accents.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090555019-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "2019 HCB 53 Suenos boat deck with sleek cabinetry and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090556532-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "2019 HCB 53 Suenos boat deck with seating and water view.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090557532-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "2019 HCB 53 Suenos boat deck with sleek design and luxurious features.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090558568-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "Interior view of 2019 HCB 53 Suenos boat with luxurious seating and control panel.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090559543-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "2019 HCB 53 Suenos boat interior with luxurious seating and advanced navigation system.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090601007-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "2019 HCB 53 Suenos helm with advanced navigation displays and controls.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090602582-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "2019 HCB 53 Suenos boat dashboard with advanced navigation and control systems.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090603616-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "Luxurious seating on 2019 HCB 53 Suenos boat, featuring white upholstery and scenic water backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090604548-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "2019 HCB 53 Suenos boat interior with white seating and wooden deck.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090606104-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "25",
+          "Caption": "Luxurious seating area on 2019 HCB 53 Suenos boat with scenic water view.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090607149-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "26",
+          "Caption": "Luxurious seating on 2019 HCB 53 Suenos boat with sleek white upholstery and wooden deck.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090608158-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "27",
+          "Caption": "Luxurious seating on 2019 HCB 53 Suenos boat with cup holders and beige accents.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090609060-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "28",
+          "Caption": "Luxurious seating on 2019 HCB 53 Suenos boat, featuring white leather upholstery and teak decking.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090610643-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "29",
+          "Caption": "Luxurious seating on 2019 HCB 53 Suenos boat with teak deck and elegant design.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090611498-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "30",
+          "Caption": "2019 HCB 53 Suenos boat deck with wooden finish and metal fittings.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090612376-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "31",
+          "Caption": "2019 HCB 53 Suenos boat deck with wooden railing and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090613345-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "32",
+          "Caption": "2019 HCB 53 Suenos boat deck with wood finish and built-in speakers.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090614979-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "33",
+          "Caption": "2019 HCB 53 Suenos boat deck with sleek wood finish and modern design.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090615791-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "34",
+          "Caption": "Luxury seating on 2019 HCB 53 Suenos boat with wooden accents and modern controls.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090616746-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "35",
+          "Caption": "Luxurious white seating on 2019 HCB 53 Suenos boat, surrounded by lush greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090617641-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "36",
+          "Caption": "2019 HCB 53 Suenos boat interior with white seating and wooden deck.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090621532-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        },
+        {
+          "Priority": "37",
+          "Caption": "2019 HCB 53 Suenos boat on water, featuring sleek design and modern cockpit.",
+          "Uri": "https://images.boatsgroup.com/images/1/97/31/2019-hcb-53-suenos-power-10179731-20260511090622478-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:00:05-08:00"
+        }
+      ],
+      "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "boats",
+          "MarketingID": "10227814"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "btol",
+          "MarketingID": "105873685"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "yw",
+          "MarketingID": "10227814"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "adobe.saint",
+          "MarketingID": "10227814"
+        },
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "NAME_ACCESS",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        }
+      ]
+    },
+    {
+      "Source": "IMT",
+      "DocumentID": "10231771",
+      "SalesStatus": "Active",
+      "CoOpIndicator": "true",
+      "NumberOfEngines": 2,
+      "RegistrationCountryCode": "0",
+      "Owner": {
+        "PartyId": "879366"
+      },
+      "SalesRep": {
+        "PartyId": "879383",
+        "Name": "Esteban Bruna"
+      },
+      "CompanyName": "Bruna Yacht Group",
+      "Office": {
+        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
+        "City": "Coral Gables",
+        "State": "FL",
+        "PostCode": "33134",
+        "Country": "US",
+        "Email": "esteban@brunayachtgroup.com",
+        "Phone": "3054315855",
+        "Name": "Bruna Yacht Group"
+      },
+      "LastModificationDate": "2026-06-29",
+      "ItemReceivedDate": "2026-06-25",
+      "OriginalPrice": "1199000 USD",
+      "Price": "1199000.00 USD",
+      "PriceHideInd": false,
+      "EmbeddedVideoPresent": false,
+      "Image360PhotoPresent": false,
+      "ImmersiveTourPresent": false,
+      "BoatLocation": {
+        "BoatCityName": "Coral Gables",
+        "BoatCountryID": "US",
+        "BoatStateCode": "FL"
+      },
+      "BoatCityNameNoCaseAlnumOnly": "Coral Gables",
+      "MakeString": "Sunseeker",
+      "MakeStringExact": "Sunseeker",
+      "MakeStringNoCaseAlnumOnly": "Sunseeker",
+      "ModelYear": 2018,
+      "SaleClassCode": "Used",
+      "Model": "Predator 68",
+      "ModelExact": "Predator 68",
+      "ModelNoCaseAlnumOnly": "Predator 68",
+      "BoatCategoryCode": "Power",
+      "BoatName": "",
+      "BoatNameNoCaseAlnumOnly": "",
+      "BuilderName": "",
+      "DesignerName": "",
+      "CruisingSpeedMeasure": null,
+      "PropellerCruisingSpeed": "",
+      "MaximumSpeedMeasure": "42 kn",
+      "RangeMeasure": "345.23 mi",
+      "BridgeClearanceMeasure": null,
+      "BeamMeasure": "16.75 ft",
+      "FreeBoardMeasure": null,
+      "CabinHeadroomMeasure": null,
+      "WaterTankCountNumeric": 1,
+      "WaterTankCapacityMeasure": "211|gallon",
+      "WaterTankMaterialCode": "",
+      "FuelTankCountNumeric": 1,
+      "FuelTankCapacityMeasure": "925|gallon",
+      "FuelTankMaterialCode": "",
+      "DryWeightMeasure": "82,209 lb",
+      "BallastWeightMeasure": null,
+      "DisplacementMeasure": null,
+      "DisplacementTypeCode": "",
+      "TotalEnginePowerQuantity": "3,100 hp",
+      "DriveTypeCode": "Direct",
+      "BoatKeelCode": "",
+      "ConvertibleSaloonIndicator": false,
+      "WindlassTypeCode": "",
+      "DeadriseMeasure": null,
+      "ElectricalCircuitMeasure": null,
+      "TrimTabsIndicator": false,
+      "HeadsCountNumeric": 3,
+      "CabinsCountNumeric": 3,
+      "BoatHullMaterialCode": "Fiberglass",
+      "BoatHullID": "XSK07015F718",
+      "StockNumber": "",
+      "NominalLength": "68 ft",
+      "LengthOverall": "71.17 ft",
+      "BcnaID": "10231771",
+      "BtolID": "105877682",
+      "YachtWorldID": "10231771",
+      "MaxDraft": "5.17 ft",
+      "TaxStatusCode": "",
+      "IMTTimeStamp": "2026-06-29T18:23:25Z",
+      "HasBoatHullID": true,
+      "IsAvailableForPls": true,
+      "NormNominalLength": 20.73,
+      "NormPrice": 1199000,
+      "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "MAN",
+          "Model": "V12-1550",
+          "DriveTransmissionDescription": "Direct",
+          "Fuel": "diesel",
+          "EnginePower": "1550|horsepower",
+          "Type": "Inboard",
+          "Year": 2028,
+          "Hours": 1050
+        },
+        {
+          "Make": "MAN",
+          "Model": "v12-1550",
+          "DriveTransmissionDescription": "Direct",
+          "Fuel": "diesel",
+          "EnginePower": "1550|horsepower",
+          "Type": "Inboard",
+          "Year": 2018,
+          "Hours": 1050
+        }
+      ],
+      "Service": [
+        "yachtcloser.navbar",
+        "package.advantage.select",
+        "bw3.provisioning",
+        "verified-popup",
+        "verifiedcustomer",
+        "mobile-phone-popup",
+        "bwreports.searchdemand",
+        "bwreports.listingoptimizer",
+        "bwreports.marketinsights",
+        "proseller.market.eval",
+        "btol.homepage.rotational.listings",
+        "yw.homepage.rotational.listings",
+        "btol.enhanced.all.listings",
+        "yw.enhanced.all.listings",
+        "btol.sponsored.all.listings",
+        "yw.sponsored.all.listings",
+        "btol.advantagesort.select",
+        "yw.advantagesort.select",
+        "trident.hidetridentfeatures",
+        "btol.advantageemail",
+        "yw.advantageemail",
+        "boats.com.callrecording",
+        "yw.callrecording",
+        "btol.callrecording",
+        "boats.com.calltracking",
+        "yw.calltracking",
+        "btol.calltracking",
+        "import.yachtcloser",
+        "imt.beta",
+        "branding.imt.features.boats.display",
+        "imt.product.boat",
+        "imt.vbs.auto",
+        "lead.export.leadsmart.premium.buyerintent",
+        "lead.export.leadsmart.premium",
+        "lead.export.leadsmart",
+        "lead.export.dealer",
+        "imt.expiry",
+        "btol.callbuttonimtreporting",
+        "btol.inventorylistingpage",
+        "btol.dealergallary",
+        "btol.dealerreporting",
+        "btol",
+        "export.yw",
+        "boats.com.service.level.premium",
+        "branding.imt.features.trailers.display",
+        "branding.imt.features.engines.display",
+        "account.type.dealer",
+        "account.type.broker",
+        "lm.pbs",
+        "soldboats",
+        "soldboats.contracted",
+        "yw",
+        "imt.product.trailer",
+        "imt.product.engine",
+        "imt.vbs",
+        "boats.com.c2a.buy",
+        "boats.com.c2a.more",
+        "boats.com.c2a.brochure",
+        "boats.com.c2a.appointment",
+        "boats.com.c2a.tradein",
+        "boats.com",
+        "branding.imt.bw",
+        "export.btol",
+        "export.boats",
+        "imt.tracker.regular"
+      ],
+      "GeneralBoatDescription": [
+        "<p style=\"text-align: center;\" id=\"isPasted\"><strong>2018 Sunseeker Predator 68</strong></p><p>This 2018 Sunseeker Predator 68 represents an excellent opportunity to own one of the most sought-after express sport yachts in her class. Combining unmistakable British styling with top tier performance, luxurious accommodations, and impressive entertaining spaces, this Predator 68 has been exceptionally maintained and it shows.  Fresh off an extensive yard period in May of 2026 - she is in turn key condition for her next owner. She is currently the most aggressively priced 2018 Predator 68 in the world. </p><p>Her sleek profile is complemented by an expansive retractable glass sunroof, opening and retracting salon doors, and a seamless indoor/outdoor layout that makes entertaining effortless. Whether enjoying a weekend getaway or an extended vacation cruise, the Predator 68 delivers a refined yachting experience that will keep her guests wanting more.</p><p>The spacious cockpit features generous sunbrella seating, a folding teak dining table, wet bar, grill, and large sun pad aft, while the hydraulic swim platform provides easy access to the water and tender garage.</p><p>Below deck, the contemporary interior is finished in a light wood with panoramic hull windows that fill the cabin with natural light. The all en-suite three-stateroom, three-head layout includes a full-beam master suite, a forward VIP stateroom, and a twin guest cabin, all complemented by a fully equipped galley and spacious salon.</p><p>Highlights</p><ul> <li>Upgraded Twin MAN V12 1550 HP </li> <li>Retractable glass hardtop sunroof</li> <li>Hydraulic swim platform</li> <li>Side Power Stabilizers</li> <li>Full suite of Simrad electronics</li> <li>Xenta Joystick </li> <li>Yacht Controller </li> <li>Hydraulic Bow and Stern thrusters</li> <li>Flex-Teak cockpit and swim platform</li> <li>Cockpit wet bar with grill and refrigerator/freezer</li> <li>Captain maintained</li></ul><p><br /></p><p><br /></p>"
+      ],
+      "BoatClassCode": [
+        "Sports Cruiser",
+        "Motor Yachts"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Sports Cruiser",
+        "Motor Yachts"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Steering System</strong><br>Joystick Control",
+        "<strong>Construction</strong><br><ul> <li>Hand-laid GRP</li> <li>Gel coat including stripes</li> <li>Vinylester skin coat with powderbound mat</li> <li>Stitched multi-axial reinforced single skin bottom</li> <li>Balsa cored hull topsides</li> <li>PVC foam cored deck and superstructure</li> <li>Hull stiffened with longitudinal stringers supported by transverse bulkheads and floors</li></ul>",
+        "<strong>Deck</strong><br><ul> <li>Fittings all in stainless steel</li> <li>8 x stainless steel deck cleats</li> <li>Pulpit and cockpit rails</li> <li>Stainless steel fendering with rubber insert</li> <li>Curved safety glass windscreen</li> <li>Stainless steel bow roller with anchor stop</li> <li>Stainless steel bow plate</li> <li>Delta anchor and 60m chain (galvanised)</li> <li>Electric winch and capstan with deck and Interior helm controls</li> <li>Chain locker/fender stowage</li> <li>Fender tie bar under anchor locker lid</li> <li>Fore deck coach-roof storage lockers</li> <li>Fuel fillers port and starboard</li> <li>Fresh-water filler</li> <li>IMCOnavigation lights</li> <li>2 x Pantograph windscreen wipers and washers</li> <li>Garage for tender</li> <li>Ensign staff and socket</li></ul>",
+        "<strong>Aft Cockpit</strong><br><ul> <li>Self draining</li> <li>Teak-laid Cockpit Decking</li> <li>Stern safety door</li> <li>Cockpit speakers</li> <li>Wetbar sink with cockpit grill and refrigerator </li> <li>Sunbrella Upholstered seating around cockpit table</li> <li>Large stern sunbather</li> <li>Lockers beneath seating</li> <li>Overhead cockpit lights 24v</li> <li>Low-level courtesy lights 24v</li> <li>Engine room access hatch</li></ul>",
+        "<strong>Accommodations</strong><br><p><strong>Deck saloon</strong></p><ul> <li>Separate dining area with table</li> <li>Stowage beneath seats</li> <li>55” Television on fall and rise system</li> <li>Drinks cupboard</li> <li>Overhead lighting LED 24v</li> <li>Stainless steel sliding door to cockpit</li> <li>Main control panel (AC/DC)</li> <li>Generator controls</li> <li>Air Conditioning</li> <li>3 x Double AC sockets</li> <li>Wood flooring</li> <li>Choice of interior finishes and veneers</li> <li>Scatter cushion</li></ul><p><strong>Forward stateroom</strong></p><ul> <li>Double berth</li> <li>Storage beneath</li> <li>Drawer in base-end</li> <li>2 x reading lights 24v</li> <li>Outboard shelving and cupboards</li> <li>Overhead bedside cupboards</li> <li>Hanging wardrobes with mirrored panel</li> <li>Overhead lights LED 24v</li> <li>2 x opening portholes with mosquito screens</li> <li>Port-light blinds</li> <li>Deck hatch with blind and mosquito screen</li> <li>Sky-light</li> <li>2 x Double AC sockets</li> <li>Door to shower room</li> <li>Fitted carpet</li> <li>Air Conditioning</li> <li>32” television</li> <li>Blu-ray/DVD/CD player with speakers</li></ul><p><strong>Forward en suite shower room</strong></p><ul> <li>Washbasin</li> <li>Taps and accessories</li> <li>Hot and cold water supply</li> <li>Separate shower compartment</li> <li>Electric toilet</li> <li>Extractor fan</li> <li>Mirrored vanity unit</li> <li>Shelved cupboard</li> <li>Toothbrush and glass holder</li> <li>Soap dispenser</li> <li>Towel ring and towels</li> <li>Overhead lights</li> <li>Opening porthole with mosquito screen and blind</li> <li>Razor socket 240/110v</li></ul><p><strong>Starboard guest cabin</strong></p><ul> <li>2 x single berths</li> <li>Under berth storage</li> <li>2 x reading lights 24v</li> <li>Hanging wardrobe</li> <li>Overhead lighting LED 24v</li> <li>Opening porthole with mosquito screen and blinds</li> <li>Double AC socket</li> <li>Fitted carpet</li> <li>Air Conditioning</li> <li>22” television</li> <li>Blu-ray/DVD/CD player with speakers</li></ul><p><strong>Starboard en suite shower room</strong></p><ul> <li>Washbasin</li> <li>Taps and accessories</li> <li>Hot and cold water supply</li> <li>Separate shower compartment</li> <li>Electric toilet</li> <li>Extractor fan</li> <li>Mirrored vanity unit</li> <li>Shelved cupboard</li> <li>Toothbrush and glass holder</li> <li>Soap dispenser</li> <li>Towel ring and towels</li> <li>Overhead lights LED</li> <li>Opening porthole with mosquito screen and blind</li> <li>Razor socket 240/110v</li></ul><p><strong>Master aft stateroom</strong></p><ul> <li>Double berth</li> <li>Cupboard and drawer stowage</li> <li>2 x reading lights 24v</li> <li>Bedside drawers</li> <li>Walk-in wardrobe</li> <li>Overhead lights LED 24v</li> <li>2 x large windows with opening portholes, mosquito screens and blinds</li> <li>Two Double AC sockets</li> <li>Door to shower room</li> <li>Fitted carpet</li> <li>Settee</li> <li>Air Conditioning</li> <li>32” television</li> <li>Blu-ray/DVD/CD player with speakers</li></ul><p><strong>Aft en suite shower room</strong></p><ul> <li>Washbasin</li> <li>Taps and accessories</li> <li>Hot and cold water supply</li> <li>Separate shower compartment</li> <li>Electric toilet</li> <li>Extractor fan</li> <li>Mirrored vanity unit</li> <li>Shelved cupboard</li> <li>Toothbrush and glass holder</li> <li>Soap dispenser</li> <li>Towel ring and towels</li> <li>Overhead lights LED</li> <li>Opening porthole with mosquito screen and blind</li> <li>Razor socket 240/110vs</li></ul><p> </p>",
+        "<strong>Galley</strong><br><ul> <li>Sink and drainer</li> <li>3 ring ceramic touch control hob and extractor fan</li> <li>Electric refrigerator</li> <li>Electric freezer</li> <li>Microwave convection oven</li> <li>Hot and cold water</li> <li>Rubbish bin</li> <li>Cupboard and drawer storage</li> <li>8 place crockery set</li> <li>8 place cutlery set</li> <li>2 x Double AC sockets</li> <li>Hand-held fire extinguisher</li> <li>First aid kit</li> <li>Wood flooring</li></ul>",
+        "<strong>Engines</strong><br><ul> <li>Soundproofing throughout</li> <li>Fuel filters/water separators to engines</li> <li>Fuel filters/water separators to generators</li> <li>Automatic bilge and flood pumps with high level alarms</li> <li>Generator exhaust silencers and water separators</li> <li>Engine exhaust dry risers and water injection</li> <li>Strainers to all raw water inlets</li> <li>Power steering - hydraulic control steering</li> <li>Garage door and trim tabs hydraulic control unit</li> <li>Lifting platform hydraulic control unit</li> <li>Air intakes fitted with emergency shut down flaps (automatically operated)</li> <li>Air extraction fans (AC) fitted with butterfly shutdown dampers</li> <li>Exhaust gas temperature sensor</li> <li>Fluorescent lights (AC)</li> <li>Engine room fire extinguishing system (FM200)</li> <li>1 x AC 220V Socket</li> <li>1 x 24v Socket</li> <li>Portable C02 fire extinguisher</li> <li>Inspection Lamp</li></ul>",
+        "<strong>Electrical</strong><br><ul> <li>MAN V12 1550</li> <li>19kw 50hz generator with underwater silent exhaust and sound shield</li> <li>AC dockside connection</li> <li>Galvanic isolator</li> <li>24v and 12v DC electrical system with full circuit breaker protection</li> <li>8 x engine batteries 24v circuit</li> <li>4 x domestic batteries 24v circuit</li> <li>2 x generator batteries 12v circuit</li> <li>Alternator split charging system</li> <li>Remote battery switches controlled from locker in cockpit</li> <li>Batterycharger for 24v circuits</li> <li>Batterycharger for 12v circuits</li> <li>Water heater</li> <li>AC electrical sockets through out the boat</li> <li>24v hand light and cable</li></ul>",
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
+      ],
+      "ExternalLink": [
+        {
+          "Uri": "http://www.sunseeker.com",
+          "Text": "",
+          "Type": "Manufacturer Website"
+        }
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "Luxury Sunseeker Predator 68 yacht, 2018 model, cruising on calm waters under a clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095237096-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm water with city skyline and clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095244688-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "Luxury Sunseeker Predator 68 yacht, 2018 model, cruising on calm waters under a blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095235981-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm ocean waters under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095238160-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:40-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean under blue sky with clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095239024-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:40-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht cruising on calm waters under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095240556-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:42-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht cruising on a serene, sunny day.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095241410-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:43-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm water under a blue sky with clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095242270-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:44-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean with city skyline in background.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095243082-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:45-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean with blue sky and clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095245504-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095246331-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "Top view of a 2018 Sunseeker Predator 68 yacht on dark water.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095246949-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095248636-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm water under a blue sky with clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095249519-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm waters under a blue sky with clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095250350-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht cruising under a vibrant blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095251230-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm ocean waters under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095253083-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm blue waters under clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095254087-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm waters under a blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095255191-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean waters under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095256304-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm water under blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095258260-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "Luxury Sunseeker Predator 68 yacht on calm sea, 2018 model, under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095259532-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm blue waters under a clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095300625-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with elegant seating and wooden table, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095301544-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with cushioned seating, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095303385-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "25",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean with clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095304279-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "26",
+          "Caption": "2018 Sunseeker Predator 68 yacht with outdoor seating, cruising on calm waters under a blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095305197-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "27",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht with spacious outdoor seating and dining area.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095306058-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "28",
+          "Caption": "Sunseeker Predator 68 yacht, 2018 model, featuring TracVision satellite domes against a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095307861-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "29",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht deck with seating and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095308732-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "30",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with ocean view, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095309615-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "31",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht interior with wooden table and ocean view, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095310557-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "32",
+          "Caption": "Outdoor kitchen on 2018 Sunseeker Predator 68 yacht, featuring grill and sink, ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095312361-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "33",
+          "Caption": "Sunseeker Predator 68 yacht deck, 2018 model, overlooking calm blue water.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095313248-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "34",
+          "Caption": "Staircase on 2018 Sunseeker Predator 68 yacht with sleek design and teak decking.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095314053-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "35",
+          "Caption": "Sunseeker Predator 68 yacht deck, 2018 model, featuring sleek design and teak flooring.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095314961-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "36",
+          "Caption": "2018 Sunseeker Predator 68 yacht with extended swim platform on calm sea.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095316965-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "37",
+          "Caption": "Sunseeker Predator 68 yacht, 2018 model, overlooking serene ocean waters under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095317873-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "38",
+          "Caption": "2018 Sunseeker Predator 68 yacht interior with storage compartment and hydraulic system.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095318731-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "39",
+          "Caption": "Sunseeker Predator 68 yacht's spacious sunbathing deck, 2018 model, on calm waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095319611-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "40",
+          "Caption": "Sunseeker Predator 68 yacht's sunbed area, 2018 model, with ocean view in the background.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095321714-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "41",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm ocean waters under clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095322616-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "42",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm sea under blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095323506-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "43",
+          "Caption": "2018 Sunseeker Predator 68 yacht deck with open storage compartment and sunbathing area.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095324417-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "44",
+          "Caption": "Sunseeker Predator 68 yacht deck, 2018 model, overlooking calm ocean and cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095326353-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "45",
+          "Caption": "Sunseeker Predator 68 yacht, 2018 model, cruising on calm waters under a cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095327277-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "46",
+          "Caption": "Sunseeker Predator 68 yacht, 2018 model, featuring advanced Simrad and TracVision technology on open water.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095328164-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "47",
+          "Caption": "2018 Sunseeker Predator 68 yacht's swim platform on calm water.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095329059-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "48",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with ocean view and American flag, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095331103-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "49",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht interior with ocean view, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095332055-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "50",
+          "Caption": "Luxurious interior view of 2018 Sunseeker Predator 68 yacht with ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095337409-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "51",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with ocean view, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095333186-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "52",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with modern seating and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095357942-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "53",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with modern design and spacious seating.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095431478-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "54",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095428243-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "55",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with elegant white seating and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095420686-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "56",
+          "Caption": "Cockpit of 2018 Sunseeker Predator 68 yacht with advanced navigation systems and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095353355-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "57",
+          "Caption": "Interior view of 2018 Sunseeker Predator 68 yacht cockpit with ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095401244-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "58",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht cockpit with modern navigation systems and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095425077-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "59",
+          "Caption": "Cockpit of 2018 Sunseeker Predator 68 yacht with navigation equipment and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095400134-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "60",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with panoramic windows and elegant seating.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095427184-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "61",
+          "Caption": "Interior view of 2018 Sunseeker Predator 68 yacht, showcasing sleek wooden stairs and modern design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095430275-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "62",
+          "Caption": "Luxurious interior staircase of 2018 Sunseeker Predator 68 yacht, featuring sleek wooden design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095336272-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "63",
+          "Caption": "Interior of 2018 Sunseeker Predator 68 yacht, featuring modern kitchen and wooden staircase.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095343790-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "64",
+          "Caption": "Modern kitchen interior on 2018 Sunseeker Predator 68 yacht with sleek cabinetry and appliances.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095416390-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "65",
+          "Caption": "Modern kitchen interior of 2018 Sunseeker Predator 68 yacht with sleek appliances and wood finishes.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095338503-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "66",
+          "Caption": "Luxurious kitchen interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095352294-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "67",
+          "Caption": "Modern kitchen interior of 2018 Sunseeker Predator 68 yacht with sleek black countertops.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095414314-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "68",
+          "Caption": "Modern kitchen interior of 2018 Sunseeker Predator 68 yacht with sleek black countertops.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095408771-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "69",
+          "Caption": "Interior view of 2018 Sunseeker Predator 68 yacht with ocean view through window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095339510-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "70",
+          "Caption": "Luxurious cabin interior of 2018 Sunseeker Predator 68 yacht with twin beds and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095341643-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "71",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095342716-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "72",
+          "Caption": "Luxurious bathroom on 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095344811-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "73",
+          "Caption": "Luxurious cabin interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095346798-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "74",
+          "Caption": "Luxurious bathroom in 2018 Sunseeker Predator 68 yacht with modern fixtures and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095347950-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "75",
+          "Caption": "Luxurious bathroom in 2018 Sunseeker Predator 68 yacht with modern fixtures and glass shower.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095349045-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "76",
+          "Caption": "Luxurious bedroom interior of 2018 Sunseeker Predator 68 yacht with elegant furnishings.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095350057-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "77",
+          "Caption": "Luxurious bedroom interior of 2018 Sunseeker Predator 68 yacht with skylight and modern design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095354491-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "78",
+          "Caption": "Luxurious bathroom on 2018 Sunseeker Predator 68 yacht with ocean view porthole.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095334224-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "79",
+          "Caption": "Luxurious bedroom interior of 2018 Sunseeker Predator 68 yacht with ocean view windows.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095355634-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "80",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095359059-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "81",
+          "Caption": "Luxurious twin cabin interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095403583-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "82",
+          "Caption": "Luxurious twin cabin interior of 2018 Sunseeker Predator 68 yacht, featuring modern design and amenities.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095404625-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "83",
+          "Caption": "Luxurious bathroom in 2018 Sunseeker Predator 68 yacht, featuring modern shower and sleek sink design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095405698-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "84",
+          "Caption": "Luxurious bathroom interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095406699-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "85",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095409815-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "86",
+          "Caption": "Luxurious cabin interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095411887-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "87",
+          "Caption": "Luxurious bathroom on 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095415310-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "88",
+          "Caption": "Luxurious bathroom interior of 2018 Sunseeker Predator 68 yacht with glass shower enclosure.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095417384-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "89",
+          "Caption": "Luxurious bathroom on 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095419621-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "90",
+          "Caption": "Luxurious bathroom in 2018 Sunseeker Predator 68 yacht with modern shower and sleek sink design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095421703-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "91",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095426120-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        }
+      ],
+      "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "boats",
+          "MarketingID": "10231771"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "btol",
+          "MarketingID": "105877682"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "yw",
+          "MarketingID": "10231771"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "adobe.saint",
+          "MarketingID": "10231771"
+        }
+      ],
+      "TotalEngineHoursNumeric": 2100
+    },
+    {
+      "Source": "IMT",
+      "DocumentID": "10233087",
+      "SalesStatus": "Active",
+      "CoOpIndicator": "true",
+      "NumberOfEngines": 4,
+      "RegistrationCountryCode": "0",
+      "Owner": {
+        "PartyId": "879366"
+      },
+      "SalesRep": {
+        "PartyId": "879383",
+        "Name": "Esteban Bruna"
+      },
+      "CompanyName": "Bruna Yacht Group",
+      "Office": {
+        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
+        "City": "Coral Gables",
+        "State": "FL",
+        "PostCode": "33134",
+        "Country": "US",
+        "Email": "esteban@brunayachtgroup.com",
+        "Phone": "3054315855",
+        "Name": "Bruna Yacht Group"
+      },
+      "LastModificationDate": "2026-07-01",
+      "ItemReceivedDate": "2026-06-26",
+      "OriginalPrice": "410000 USD",
+      "Price": "410000.00 USD",
+      "PriceHideInd": false,
+      "EmbeddedVideoPresent": false,
+      "Image360PhotoPresent": false,
+      "ImmersiveTourPresent": false,
+      "BoatLocation": {
+        "BoatCityName": "Coral Gables",
+        "BoatCountryID": "US",
+        "BoatStateCode": "FL"
+      },
+      "BoatCityNameNoCaseAlnumOnly": "Coral Gables",
+      "MakeString": "Invincible",
+      "MakeStringExact": "Invincible",
+      "MakeStringNoCaseAlnumOnly": "Invincible",
+      "ModelYear": 2018,
+      "SaleClassCode": "Used",
+      "Model": "40 Catamaran",
+      "ModelExact": "40 Catamaran",
+      "ModelNoCaseAlnumOnly": "40 Catamaran",
+      "BoatCategoryCode": "Power",
+      "BoatName": "",
+      "BoatNameNoCaseAlnumOnly": "",
+      "BuilderName": "",
+      "DesignerName": "",
+      "CruisingSpeedMeasure": null,
+      "PropellerCruisingSpeed": "",
+      "MaximumSpeedMeasure": null,
+      "RangeMeasure": null,
+      "BridgeClearanceMeasure": null,
+      "BeamMeasure": "12 ft",
+      "FreeBoardMeasure": null,
+      "CabinHeadroomMeasure": null,
+      "FuelTankCountNumeric": 1,
+      "FuelTankCapacityMeasure": "640|gallon",
+      "FuelTankMaterialCode": "",
+      "DryWeightMeasure": "15,000 lb",
+      "BallastWeightMeasure": null,
+      "DisplacementMeasure": null,
+      "DisplacementTypeCode": "",
+      "TotalEnginePowerQuantity": "1,400 hp",
+      "DriveTypeCode": "",
+      "BoatKeelCode": "",
+      "ConvertibleSaloonIndicator": false,
+      "WindlassTypeCode": "",
+      "DeadriseMeasure": null,
+      "ElectricalCircuitMeasure": null,
+      "TrimTabsIndicator": false,
+      "HeadsCountNumeric": 1,
+      "BoatHullMaterialCode": "Fiberglass",
+      "BoatHullID": "IVBC0030J718",
+      "StockNumber": "",
+      "NominalLength": "40 ft",
+      "LengthOverall": "40 ft",
+      "BcnaID": "10233087",
+      "TaxStatusCode": "",
+      "IMTTimeStamp": "2026-07-01T16:50:27Z",
+      "HasBoatHullID": true,
+      "IsAvailableForPls": false,
+      "NormNominalLength": 12.19,
+      "NormPrice": 410000,
+      "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "Mercury",
+          "Model": "Verado 350",
+          "EnginePower": "350|horsepower",
+          "Type": "Outboard",
+          "Year": 2019,
+          "Hours": 1250
+        },
+        {
+          "Make": "Mercury",
+          "Model": "Verado 350",
+          "EnginePower": "350|horsepower",
+          "Type": "Outboard",
+          "Year": 2019,
+          "Hours": 1250
+        },
+        {
+          "Make": "Mercury",
+          "Model": "Verado 350",
+          "EnginePower": "350|horsepower",
+          "Type": "Outboard",
+          "Year": 2019,
+          "Hours": 1250
+        },
+        {
+          "Make": "Mercury",
+          "Model": "Verado 350",
+          "EnginePower": "350|horsepower",
+          "Type": "Outboard",
+          "Year": 2019,
+          "Hours": 1250
+        }
+      ],
+      "Service": [
+        "yachtcloser.navbar",
+        "package.advantage.select",
+        "bw3.provisioning",
+        "verified-popup",
+        "verifiedcustomer",
+        "mobile-phone-popup",
+        "bwreports.searchdemand",
+        "bwreports.listingoptimizer",
+        "bwreports.marketinsights",
+        "proseller.market.eval",
+        "btol.homepage.rotational.listings",
+        "yw.homepage.rotational.listings",
+        "btol.enhanced.all.listings",
+        "yw.enhanced.all.listings",
+        "btol.sponsored.all.listings",
+        "yw.sponsored.all.listings",
+        "btol.advantagesort.select",
+        "yw.advantagesort.select",
+        "trident.hidetridentfeatures",
+        "btol.advantageemail",
+        "yw.advantageemail",
+        "boats.com.callrecording",
+        "yw.callrecording",
+        "btol.callrecording",
+        "boats.com.calltracking",
+        "yw.calltracking",
+        "btol.calltracking",
+        "import.yachtcloser",
+        "imt.beta",
+        "branding.imt.features.boats.display",
+        "imt.product.boat",
+        "imt.vbs.auto",
+        "lead.export.leadsmart.premium.buyerintent",
+        "lead.export.leadsmart.premium",
+        "lead.export.leadsmart",
+        "lead.export.dealer",
+        "imt.expiry",
+        "btol.callbuttonimtreporting",
+        "btol.inventorylistingpage",
+        "btol.dealergallary",
+        "btol.dealerreporting",
+        "btol",
+        "export.yw",
+        "boats.com.service.level.premium",
+        "branding.imt.features.trailers.display",
+        "branding.imt.features.engines.display",
+        "account.type.dealer",
+        "account.type.broker",
+        "lm.pbs",
+        "soldboats",
+        "soldboats.contracted",
+        "yw",
+        "imt.product.trailer",
+        "imt.product.engine",
+        "imt.vbs",
+        "boats.com.c2a.buy",
+        "boats.com.c2a.more",
+        "boats.com.c2a.brochure",
+        "boats.com.c2a.appointment",
+        "boats.com.c2a.tradein",
+        "boats.com",
+        "branding.imt.bw",
+        "export.btol",
+        "export.boats",
+        "imt.tracker.regular"
+      ],
+      "GeneralBoatDescription": [
+        "<p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" id=\"isPasted\"><strong>2018 Invincible 40 Catamaran</strong></p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Offered by a knowledgeable, multi-boat owner and professionally captain maintained since new, this Invincible 40 Cat represents one of the best values currently available in the catamaran center console market. Finished in a timeless Whisper Grey and White color scheme, she boasts an impressive Garmin electronics package, recent upgrades and updates throughout, and a level of care that's immediately evident from the moment you step aboard.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Whether your mission is offshore fishing, cruising the islands, or entertaining family and friends, this Invincible 40 Cat is equipped to do it all. Fresh off a recent yard period, all preventative maintenance is up to date making this vessel ready for immediate delivery. </p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\"><strong>Notable Features Include:</strong></p><ul> <li>Quad Mercury 350 Verados</li> <li>Brand-new upholstery throughout</li> <li>New Starlink Satellite Internet</li> <li>Extensive Garmin electronics suite featuring: <ul> <li>(2) Garmin GPSMAP 8622 multifunction displays</li> <li>Garmin GPSMAP 1242xsv dedicated forward-facing sonar display</li> <li>Garmin 12kW Open Array Radar</li> <li>Numerous transducers</li> </ul></li> <li>FLIR night vision system</li> <li>Premium JL Audio system</li> <li>Gemlux carbon fiber outriggers with Gemlux bases</li> <li>Side dive door</li> <li>Removable aft bench seating</li> <li>Custom covers</li> <li>4 electric reel plugs </li></ul><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Conveniently located in Coral Gables, Florida, this exceptional Invincible 40 Catamaran is available for private showings by appointment only.</p>"
+      ],
+      "BoatClassCode": [
+        "Power Catamarans",
+        "Sports Fishing Boats",
+        "Center Consoles"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Power Catamarans",
+        "Sports Fishing Boats",
+        "Center Consoles"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
+      ],
+      "ExternalLink": [
+        {
+          "Uri": "https://www.invincibleboats.com",
+          "Text": "",
+          "Type": "Manufacturer Website"
+        }
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "2019 Invincible 40 Catamaran on calm ocean waters under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100832463-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:34-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "2019 Invincible 40 Catamaran cruising on calm blue ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100833675-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:36-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "2019 Invincible 40 Catamaran on calm ocean waters under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100834897-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:38-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2019 Invincible 40 Catamaran on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100836084-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:40-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2019 Invincible 40 Catamaran on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100838084-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:40-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "2019 Invincible 40 Catamaran on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100839426-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:41-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "Invincible 40 Catamaran 2019 cruising on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100840674-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:42-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "Invincible 40 Catamaran 2019 cruising on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100841931-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:43-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2019 Invincible 40 Catamaran cruising on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100844016-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:46-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "2019 Invincible 40 Catamaran cruising on calm blue waters under a clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100845387-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:47-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "2019 Invincible 40 Catamaran cruising on calm waters under a partly cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100846667-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:52-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "2019 Invincible 40 Catamaran cruising on calm blue ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100847943-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:53-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "2019 Invincible 40 Catamaran cruising on calm ocean waters under clear blue skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100850275-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:58-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "2019 Invincible 40 Catamaran cruising on calm ocean waters under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100851531-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:56-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "2019 Invincible 40 Catamaran with four Mercury outboard engines on calm ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100852786-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:54-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "2019 Invincible 40 Catamaran with quad engines on calm ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100853969-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:00-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "2019 Invincible 40 Catamaran with quad engines, spacious deck, and ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100856172-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:23:58-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "2019 Invincible 40 Catamaran deck overlooking calm ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100857324-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:03-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "Four Mercury outboard engines on a 2019 Invincible 40 Catamaran, floating on calm water.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100858561-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:03-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "Invincible 40 Catamaran 2019 on calm ocean, showcasing fishing rods and clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100859838-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:03-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "Bow view of 2019 Invincible 40 Catamaran on calm ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100903151-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:05-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "2019 Invincible 40 Catamaran deck with storage compartments and speakers on calm water.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100904440-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:06-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "2019 Invincible 40 Catamaran with Garmin xHD2 radar on calm water, clear sky background.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100905704-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:07-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "2019 Invincible 40 Catamaran with Garmin radar on calm sea under blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100906855-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:08-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "2019 Invincible 40 Catamaran on calm water, showcasing sleek white deck design.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100908847-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:10-08:00"
+        },
+        {
+          "Priority": "25",
+          "Caption": "2019 Invincible 40 Catamaran deck with white seating, calm waters, and city skyline.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100910034-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:12-08:00"
+        },
+        {
+          "Priority": "26",
+          "Caption": "Luxurious seating on 2019 Invincible 40 Catamaran, featuring diamond-stitched upholstery.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100911219-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:13-08:00"
+        },
+        {
+          "Priority": "27",
+          "Caption": "2019 Invincible 40 Catamaran with sleek canopy against clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100912351-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:17-08:00"
+        },
+        {
+          "Priority": "28",
+          "Caption": "Luxurious seating on 2019 Invincible 40 Catamaran, with serene ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100914373-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:16-08:00"
+        },
+        {
+          "Priority": "29",
+          "Caption": "Cockpit of 2019 Invincible 40 Catamaran with advanced navigation displays and controls.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100915499-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:17-08:00"
+        },
+        {
+          "Priority": "30",
+          "Caption": "Control panel of 2019 Invincible 40 Catamaran with dual screens and steering wheel.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100916593-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:18-08:00"
+        },
+        {
+          "Priority": "31",
+          "Caption": "2019 Invincible 40 Catamaran with luxurious white seating, cruising on calm waters under a blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100917705-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:19-08:00"
+        },
+        {
+          "Priority": "32",
+          "Caption": "Luxurious seating on 2019 Invincible 40 Catamaran against serene ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100919906-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:21-08:00"
+        },
+        {
+          "Priority": "33",
+          "Caption": "2019 Invincible 40 Catamaran deck with speakers, calm ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100921021-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:22-08:00"
+        },
+        {
+          "Priority": "34",
+          "Caption": "2019 Invincible 40 Catamaran deck view, showcasing sleek design and open sea backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100922191-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:24-08:00"
+        },
+        {
+          "Priority": "35",
+          "Caption": "Open storage compartment on 2019 Invincible 40 Catamaran, with seating and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/30/87/2019-invincible-40-catamaran-power-10233087-20260626100923267-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:24:25-08:00"
+        },
+        {
+          "Priority": "36",
+          "Caption": "Manufacturer Provided Image: Top view layout of a 2019 Invincible 40 Catamaran, highlighting storage and access points.",
+          "Uri": "https://images.boatsgroup.com/images/1/59/85/7115985_20190614134820016_1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:09:43-08:00"
+        }
+      ],
+      "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "boats",
+          "MarketingID": "10233087"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "adobe.saint",
+          "MarketingID": "10233087"
+        }
+      ],
+      "TotalEngineHoursNumeric": 5000
+    },
+    {
+      "Source": "IMT",
+      "DocumentID": "10227834",
+      "SalesStatus": "Active",
+      "CoOpIndicator": "true",
+      "NumberOfEngines": 2,
+      "RegistrationCountryCode": "0",
+      "Owner": {
+        "PartyId": "879366"
+      },
+      "SalesRep": {
+        "PartyId": "879383",
+        "Name": "Esteban Bruna"
+      },
+      "CompanyName": "Bruna Yacht Group",
+      "Office": {
+        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
+        "City": "Coral Gables",
+        "State": "FL",
+        "PostCode": "33134",
+        "Country": "US",
+        "Email": "esteban@brunayachtgroup.com",
+        "Phone": "3054315855",
+        "Name": "Bruna Yacht Group"
+      },
+      "LastModificationDate": "2026-06-22",
+      "ItemReceivedDate": "2026-06-22",
+      "OriginalPrice": "535000 USD",
+      "Price": "535000.00 USD",
+      "PriceHideInd": false,
+      "EmbeddedVideoPresent": false,
+      "Image360PhotoPresent": false,
+      "ImmersiveTourPresent": false,
+      "BoatLocation": {
+        "BoatCityName": "Key Largo",
+        "BoatCountryID": "US",
+        "BoatStateCode": "FL"
+      },
+      "BoatCityNameNoCaseAlnumOnly": "Key Largo",
+      "MakeString": "Aquila",
+      "MakeStringExact": "Aquila",
+      "MakeStringNoCaseAlnumOnly": "Aquila",
+      "ModelYear": 2016,
+      "SaleClassCode": "Used",
+      "Model": "44 Yacht",
+      "ModelExact": "44 Yacht",
+      "ModelNoCaseAlnumOnly": "44 Yacht",
+      "BoatCategoryCode": "Power",
+      "BoatName": "Sandals",
+      "BoatNameNoCaseAlnumOnly": "Sandals",
+      "BuilderName": "",
+      "DesignerName": "",
+      "CruisingSpeedMeasure": null,
+      "PropellerCruisingSpeed": "",
+      "MaximumSpeedMeasure": null,
+      "RangeMeasure": null,
+      "BridgeClearanceMeasure": "18.67 ft",
+      "BeamMeasure": "21.5 ft",
+      "FreeBoardMeasure": null,
+      "CabinHeadroomMeasure": null,
+      "WaterTankCountNumeric": 1,
+      "WaterTankCapacityMeasure": "180|gallon",
+      "WaterTankMaterialCode": "",
+      "FuelTankCountNumeric": 1,
+      "FuelTankCapacityMeasure": "290|gallon",
+      "FuelTankMaterialCode": "",
+      "HoldingTankCountNumeric": 1,
+      "HoldingTankCapacityMeasure": "63|gallon",
+      "HoldingTankMaterialCode": "",
+      "DryWeightMeasure": "35,053 lb",
+      "BallastWeightMeasure": null,
+      "DisplacementMeasure": null,
+      "DisplacementTypeCode": "",
+      "TotalEnginePowerQuantity": "520 hp",
+      "DriveTypeCode": "",
+      "BoatKeelCode": "",
+      "ConvertibleSaloonIndicator": false,
+      "WindlassTypeCode": "",
+      "DeadriseMeasure": null,
+      "ElectricalCircuitMeasure": null,
+      "TrimTabsIndicator": false,
+      "HeadsCountNumeric": 3,
+      "CabinsCountNumeric": 3,
+      "BoatHullMaterialCode": "Fiberglass",
+      "BoatHullID": "SEYA4428E616",
+      "StockNumber": "",
+      "NominalLength": "44 ft",
+      "LengthOverall": "44 ft",
+      "BcnaID": "10227834",
+      "BtolID": "105873678",
+      "YachtWorldID": "10227834",
+      "MaxDraft": "3.83 ft",
+      "DriveUp": "3.25 ft",
+      "TaxStatusCode": "",
+      "IMTTimeStamp": "2026-06-22T17:57:15Z",
+      "HasBoatHullID": true,
+      "IsAvailableForPls": true,
+      "NormNominalLength": 13.41,
+      "NormPrice": 535000,
+      "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "Volvo Penta",
+          "Model": "D4",
+          "EnginePower": "260|horsepower",
+          "Type": "Inboard",
+          "Hours": 1800
+        },
+        {
+          "Make": "Volvo Penta",
+          "Model": "D4",
+          "EnginePower": "260|horsepower",
+          "Type": "Inboard",
+          "Hours": 1800
+        }
+      ],
+      "Service": [
+        "yachtcloser.navbar",
+        "package.advantage.select",
+        "bw3.provisioning",
+        "verified-popup",
+        "verifiedcustomer",
+        "mobile-phone-popup",
+        "bwreports.searchdemand",
+        "bwreports.listingoptimizer",
+        "bwreports.marketinsights",
+        "proseller.market.eval",
+        "btol.homepage.rotational.listings",
+        "yw.homepage.rotational.listings",
+        "btol.enhanced.all.listings",
+        "yw.enhanced.all.listings",
+        "btol.sponsored.all.listings",
+        "yw.sponsored.all.listings",
+        "btol.advantagesort.select",
+        "yw.advantagesort.select",
+        "trident.hidetridentfeatures",
+        "btol.advantageemail",
+        "yw.advantageemail",
+        "boats.com.callrecording",
+        "yw.callrecording",
+        "btol.callrecording",
+        "boats.com.calltracking",
+        "yw.calltracking",
+        "btol.calltracking",
+        "import.yachtcloser",
+        "imt.beta",
+        "branding.imt.features.boats.display",
+        "imt.product.boat",
+        "imt.vbs.auto",
+        "lead.export.leadsmart.premium.buyerintent",
+        "lead.export.leadsmart.premium",
+        "lead.export.leadsmart",
+        "lead.export.dealer",
+        "imt.expiry",
+        "btol.callbuttonimtreporting",
+        "btol.inventorylistingpage",
+        "btol.dealergallary",
+        "btol.dealerreporting",
+        "btol",
+        "export.yw",
+        "boats.com.service.level.premium",
+        "branding.imt.features.trailers.display",
+        "branding.imt.features.engines.display",
+        "account.type.dealer",
+        "account.type.broker",
+        "lm.pbs",
+        "soldboats",
+        "soldboats.contracted",
+        "yw",
+        "imt.product.trailer",
+        "imt.product.engine",
+        "imt.vbs",
+        "boats.com.c2a.buy",
+        "boats.com.c2a.more",
+        "boats.com.c2a.brochure",
+        "boats.com.c2a.appointment",
+        "boats.com.c2a.tradein",
+        "boats.com",
+        "branding.imt.bw",
+        "export.btol",
+        "export.boats",
+        "imt.tracker.regular"
+      ],
+      "GeneralBoatDescription": [
+        "<p><span>2016 Aquila 44</span></p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Exceptional opportunity to own a <span>captain-maintained 2016 Aquila 44</span>, meticulously cared for and thoughtfully upgraded throughout her ownership.</p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Featuring the highly sought-after <span>3-cabin, 3-head layout</span>, this vessel offers unmatched interior volume and comfort for a 44-foot yacht.</p> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Enjoy a <span>panoramic 360° view</span> from the expansive salon and galley, designed with a spacious seating area, hidden TV compartment, and abundant storage—ideal for both liveaboard living and extended cruising.</p> <p><span>Interior Highlights</span></p> <ul> <li>Elegant <span>Corian countertops</span></li> <li><span>Electric refrigerator and freezer</span>, stove, and <span>stainless steel microwave</span></li> <li><span>Double stainless steel sink</span></li> <li>Luxurious staterooms with <span>ample headroom</span> and large <span>panoramic windows</span></li> <li><span>Separate shower stalls</span>, <span>freshwater flush heads</span>, and <span>teak flooring</span> add comfort and style</li> </ul> <p><span>Exterior & Deck Features</span></p> <ul> <li>Expansive <span>flybridge</span> with <span>new full enclosure</span></li> <li><span>Electric grill</span> and <span>sunpad seating</span> flanking the central helm</li> <li><span>Bridge-to-bow direct access</span></li> <li><span>Custom aft sunshade</span> for added sun protection</li> </ul> <p><span>Notable Updates</span></p> <ul> <li>All services up to date</li> <li>New A/C systems</li> <li>New radar</li> <li>New turbos</li> <li>New exterior upholstery</li> <li>New flybridge enclosure</li> <li>Custom aft sunshade</li> <li>Tender included</li> <li>New satellite TV dome</li> </ul> <p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-tap-highlight-color: rgba(26, 26, 26, 0.3); -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">This Aquila 44 is <span>available for private showings by appointment</span> in <span>Key Largo, Florida</span>.</p>"
+      ],
+      "BoatClassCode": [
+        "Power Catamarans",
+        "Flybridge",
+        "Motor Yachts"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Power Catamarans",
+        "Flybridge",
+        "Motor Yachts"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "2017 Aquila 44 Yacht cruising on calm waters under a cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082456719-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "Front view of a 2017 Aquila 44 Yacht cruising on the ocean.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082457674-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "2017 Aquila 44 Yacht cruising on open water under cloudy skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082458581-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2017 Aquila 44 Yacht cruising on open water under a cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082459542-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2017 Aquila 44 Yacht cruising on open water under a cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082501269-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "Aquila 44 Yacht 2017 on water, rear view with inflatable boat.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082502420-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "Aquila 44 Yacht 2017 deck view with ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082503465-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "2017 Aquila 44 Yacht deck with ocean view under cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082504535-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2017 Aquila 44 Yacht on calm waters under a partly cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082506215-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "Side view of 2017 Aquila 44 Yacht on open sea under cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082507222-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "2017 Aquila 44 Yacht cruising on open sea under cloudy skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082508223-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "2017 Aquila 44 Yacht cruising on calm waters with scenic shoreline view.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082509324-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "Staircase on 2017 Aquila 44 Yacht with ocean view in background.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082510940-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "2017 Aquila 44 Yacht with outdoor seating and table on calm waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082512031-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "Aquila 44 Yacht 2017 with sleek black canopy against a cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082513009-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "2017 Aquila 44 Yacht deck with bar stools and glass doors.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082513842-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "Interior view of 2017 Aquila 44 Yacht with modern seating and kitchen area.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082515554-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "Luxurious 2017 Aquila 44 Yacht with spacious outdoor seating and dining area.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082522243-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "2017 Aquila 44 Yacht with elegant outdoor seating and table, overlooking serene ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082527401-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "2017 Aquila 44 Yacht helm with navigation controls and seating, overlooking the ocean.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082523330-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "Cockpit of 2017 Aquila 44 Yacht with navigation controls and display screens.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082525023-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "Aquila 44 Yacht 2017 helm with ocean view, featuring modern seating and navigation controls.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082526262-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "Interior of 2017 Aquila 44 Yacht with dining area and cabin view.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082516600-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "Luxurious kitchen interior of 2017 Aquila 44 Yacht with wooden cabinetry and modern appliances.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082517579-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "Interior of 2017 Aquila 44 Yacht with wooden cabinetry and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082518566-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "25",
+          "Caption": "Luxurious interior of 2017 Aquila 44 Yacht with ocean view and cozy seating area.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082520162-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "26",
+          "Caption": "Luxurious interior of 2017 Aquila 44 Yacht with TV and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082521197-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "27",
+          "Caption": "Interior hallway of 2017 Aquila 44 Yacht with wooden paneling and modern design.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082528381-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "28",
+          "Caption": "Luxurious cabin interior of 2017 Aquila 44 Yacht with cozy bedding and wooden finish.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082530286-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "29",
+          "Caption": "Luxurious 2017 Aquila 44 Yacht bedroom with wood paneling and skylights.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082531033-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "30",
+          "Caption": "Interior of 2017 Aquila 44 Yacht with wooden cabinetry and window view.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082531880-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "31",
+          "Caption": "2017 Aquila 44 Yacht interior with wooden desk, chair, and window view.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082532781-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "32",
+          "Caption": "Luxurious bathroom in 2017 Aquila 44 Yacht with modern fixtures and elegant design.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082534526-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "33",
+          "Caption": "Luxurious cabin interior of 2017 Aquila 44 Yacht with nautical-themed bedding.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082535732-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "34",
+          "Caption": "Interior of 2017 Aquila 44 Yacht cabin with bed, window view, and wooden decor.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082536604-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "35",
+          "Caption": "Luxurious bathroom in 2017 Aquila 44 Yacht with modern fixtures and sunset artwork.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082537716-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "36",
+          "Caption": "Engine room of 2017 Aquila 44 Yacht featuring Volvo Penta D4-260 engine.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082539506-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        },
+        {
+          "Priority": "37",
+          "Caption": "Engine room of 2017 Aquila 44 Yacht with Volvo Penta D4-260 engine.",
+          "Uri": "https://images.boatsgroup.com/images/1/13/55/2017-aquila-44-yacht-power-10081355-20260212082540536-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:04:10-08:00"
+        }
+      ],
+      "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "boats",
+          "MarketingID": "10227834"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "btol",
+          "MarketingID": "105873678"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "yw",
+          "MarketingID": "10227834"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "adobe.saint",
+          "MarketingID": "10227834"
+        },
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "NAME_ACCESS",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        }
+      ],
+      "TotalEngineHoursNumeric": 3600
+    },
+    {
+      "Source": "IMT",
+      "DocumentID": "10227895",
+      "SalesStatus": "Active",
+      "CoOpIndicator": "true",
+      "NumberOfEngines": 3,
+      "RegistrationCountryCode": "0",
+      "Owner": {
+        "PartyId": "879366"
+      },
+      "SalesRep": {
+        "PartyId": "879383",
+        "Name": "Esteban Bruna"
+      },
+      "CompanyName": "Bruna Yacht Group",
+      "Office": {
+        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
+        "City": "Coral Gables",
+        "State": "FL",
+        "PostCode": "33134",
+        "Country": "US",
+        "Email": "esteban@brunayachtgroup.com",
+        "Phone": "3054315855",
+        "Name": "Bruna Yacht Group"
+      },
+      "LastModificationDate": "2026-06-22",
+      "ItemReceivedDate": "2026-06-22",
+      "OriginalPrice": "249000 USD",
+      "Price": "249000.00 USD",
+      "PriceHideInd": false,
+      "EmbeddedVideoPresent": false,
+      "Image360PhotoPresent": false,
+      "ImmersiveTourPresent": false,
+      "BoatLocation": {
+        "BoatCityName": "Coral Gables",
+        "BoatCountryID": "US",
+        "BoatStateCode": "FL"
+      },
+      "BoatCityNameNoCaseAlnumOnly": "Coral Gables",
+      "MakeString": "Contender",
+      "MakeStringExact": "Contender",
+      "MakeStringNoCaseAlnumOnly": "Contender",
+      "ModelYear": 2013,
+      "SaleClassCode": "Used",
+      "Model": "35 LS",
+      "ModelExact": "35 LS",
+      "ModelNoCaseAlnumOnly": "35 LS",
+      "BoatCategoryCode": "Power",
+      "BoatName": "",
+      "BoatNameNoCaseAlnumOnly": "",
+      "BuilderName": "",
+      "DesignerName": "",
+      "CruisingSpeedMeasure": null,
+      "PropellerCruisingSpeed": "",
+      "MaximumSpeedMeasure": null,
+      "RangeMeasure": null,
+      "BridgeClearanceMeasure": null,
+      "BeamMeasure": "10 ft",
+      "FreeBoardMeasure": null,
+      "CabinHeadroomMeasure": null,
+      "WaterTankCountNumeric": 1,
+      "WaterTankCapacityMeasure": "30|gallon",
+      "WaterTankMaterialCode": "",
+      "FuelTankCountNumeric": 1,
+      "FuelTankCapacityMeasure": "400|gallon",
+      "FuelTankMaterialCode": "",
+      "DryWeightMeasure": "5,850 lb",
+      "BallastWeightMeasure": null,
+      "DisplacementMeasure": null,
+      "DisplacementTypeCode": "",
+      "TotalEnginePowerQuantity": "900 hp",
+      "DriveTypeCode": "",
+      "BoatKeelCode": "",
+      "ConvertibleSaloonIndicator": false,
+      "WindlassTypeCode": "",
+      "DeadriseMeasure": null,
+      "ElectricalCircuitMeasure": null,
+      "TrimTabsIndicator": false,
+      "HeadsCountNumeric": 1,
+      "BoatHullMaterialCode": "Fiberglass",
+      "BoatHullID": "JDJ5L002S213",
+      "StockNumber": "",
+      "NominalLength": "35 ft",
+      "LengthOverall": "35 ft",
+      "ListingTitle": "Available now",
+      "BcnaID": "10227895",
+      "BtolID": "105873677",
+      "YachtWorldID": "10227895",
+      "DriveUp": "1.75 ft",
+      "TaxStatusCode": "",
+      "IMTTimeStamp": "2026-06-22T17:57:15Z",
+      "HasBoatHullID": true,
+      "IsAvailableForPls": true,
+      "NormNominalLength": 10.67,
+      "NormPrice": 249000,
+      "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "Yamaha",
+          "Model": "F300",
+          "Fuel": "unleaded",
+          "EnginePower": "300|horsepower",
+          "Hours": 580
+        },
+        {
+          "Make": "Yamaha",
+          "Model": "F300",
+          "Fuel": "unleaded",
+          "EnginePower": "300|horsepower",
+          "PropellerType": "Stainless Steel",
+          "Hours": 575
+        },
+        {
+          "Make": "Yamaha",
+          "Model": "F300",
+          "Fuel": "unleaded",
+          "EnginePower": "300|horsepower",
+          "PropellerType": "Stainless Steel",
+          "Hours": 575
+        }
+      ],
+      "Service": [
+        "yachtcloser.navbar",
+        "package.advantage.select",
+        "bw3.provisioning",
+        "verified-popup",
+        "verifiedcustomer",
+        "mobile-phone-popup",
+        "bwreports.searchdemand",
+        "bwreports.listingoptimizer",
+        "bwreports.marketinsights",
+        "proseller.market.eval",
+        "btol.homepage.rotational.listings",
+        "yw.homepage.rotational.listings",
+        "btol.enhanced.all.listings",
+        "yw.enhanced.all.listings",
+        "btol.sponsored.all.listings",
+        "yw.sponsored.all.listings",
+        "btol.advantagesort.select",
+        "yw.advantagesort.select",
+        "trident.hidetridentfeatures",
+        "btol.advantageemail",
+        "yw.advantageemail",
+        "boats.com.callrecording",
+        "yw.callrecording",
+        "btol.callrecording",
+        "boats.com.calltracking",
+        "yw.calltracking",
+        "btol.calltracking",
+        "import.yachtcloser",
+        "imt.beta",
+        "branding.imt.features.boats.display",
+        "imt.product.boat",
+        "imt.vbs.auto",
+        "lead.export.leadsmart.premium.buyerintent",
+        "lead.export.leadsmart.premium",
+        "lead.export.leadsmart",
+        "lead.export.dealer",
+        "imt.expiry",
+        "btol.callbuttonimtreporting",
+        "btol.inventorylistingpage",
+        "btol.dealergallary",
+        "btol.dealerreporting",
+        "btol",
+        "export.yw",
+        "boats.com.service.level.premium",
+        "branding.imt.features.trailers.display",
+        "branding.imt.features.engines.display",
+        "account.type.dealer",
+        "account.type.broker",
+        "lm.pbs",
+        "soldboats",
+        "soldboats.contracted",
+        "yw",
+        "imt.product.trailer",
+        "imt.product.engine",
+        "imt.vbs",
+        "boats.com.c2a.buy",
+        "boats.com.c2a.more",
+        "boats.com.c2a.brochure",
+        "boats.com.c2a.appointment",
+        "boats.com.c2a.tradein",
+        "boats.com",
+        "branding.imt.bw",
+        "export.btol",
+        "export.boats",
+        "imt.tracker.regular"
+      ],
+      "GeneralBoatDescription": [
+        "<p>2013/2024 Contender 35 ST (LS)</p> <p>Unique opportunity to own one of Contenders most sought after hulls that has been adapted and perfected for family cruising or tender support. Using the same legendary hull bottom as the 35ST, the 35LS offers some of the best performance numbers in existence for a 35ft Center Console. </p> <p>This particular 35 LS has been completely refit by her sole owner in 2024. She received a complete  paint job, full rewire and a new suite of Garmin electronics just to name a few. </p> <p>Notable features and upgrades:</p> <p>- Triple Yamaha F300s with under 600 original hours</p> <p>- New Garmin 8600 Series Electronics </p> <p>- New Custom Black Acrylic Dash</p> <p>- New Switch Panel </p> <p>- New Yamaha Binnacle</p> <p>- New JL Audio Sound System </p> <p>- Awlgrip Snow White Paint Job (hull, interior, non-skid, piping, t-top and motors)</p> <p>- New Custom Upholstery </p> <p>- New Pumps </p> <p>- New Limited Lighting </p> <p>- New Spotlight </p> <p>- Cockpit Grill</p> <p>- Teak Interior Accents in Console </p> <p>- Custom Full Cover </p> <p><br /></p> <p>Lift kept and available to show by appointment only in Coral Gables, FL. </p>"
+      ],
+      "BoatClassCode": [
+        "Center Consoles",
+        "Sports Fishing Boats",
+        "Saltwater Fishing"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Center Consoles",
+        "Sports Fishing Boats",
+        "Saltwater Fishing"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Standard Equipment</strong><br><p><strong>Hull & Deck</strong></p> <ul> <li>Hand-Laid Fiberglass Throughout High Tech Construction Using Multi-Directional Fabric & Foam Cored Solid Glass Stringer System</li> <li>Foam Floatation</li> <li>Integral Dive Platform, Full Transom & Transom Door</li> <li>Self-Bailing Cockpit</li> <li>Non-Skid Cockpit Sole & Deck</li> <li>Heavy Duty Rub Rail</li> <li>Choice of Hull & Deck Gelcoat Colors</li> <li>Hand-Painted Boot & Pin Stripe</li> </ul> <p><strong>Cockpit Sole & Deck Compartments</strong></p> <ul> <li>Forward Anchor Locker w/Storage</li> <li>(1) 208 Gal. Fully Lined & Insulated Forward Fish Box</li> <li>(1) 115 Gal. Fully Lined & Insulated Forward Fish Box</li> <li>(2) 85 Gal. Fully Lined & Insulated Forward Aft Fish Boxes (Port & Strbd)</li> <li>(2) 40 Gal. Round Livewells, Aft Above Deck (Excludes Plumbing)</li> </ul> <p><strong>Console</strong></p> <ul> <li>Extra Large Walk-In Console w/Head Compartment</li> <li>Oversized Electronics Panel</li> <li>Molded in Front Console Seat</li> <li>Lockable Storage Inside Console</li> <li>Custom Helm Pod</li> </ul> <p><strong>Mechanical</strong></p> <ul> <li>International Lighting</li> <li>Recessed Pop-Up Bow Light</li> <li>Dual Hydraulic Steering w/Custom Steering Wheel</li> <li>Kiekaffer Recessed Trim Tabs</li> <li>Waterproof Switches & Breaker Panel w/Indicator Lights</li> <li>2000 GPH Auto/Manual Bilge Pump</li> <li>Compass</li> </ul> <p><strong>Hardware</strong></p> <ul> <li>Chrome on Bronze or Stainless Steel Hardware</li> <li>Heavy Duty Recessed Bow Lifting Ring w/Cleat (Pop-Up)</li> <li>(2) Heavy Duty Stern Lifting Rings</li> <li>(2) 10” Stern Cleats</li> <li>(2) 8” Spring Line Cleats with Hause Pipes - Midship</li> <li>(4) Lee’s Flush Mount Gunnel Rod Holders</li> <li>Recessed Bow Handrails</li> </ul>",
+        "<strong>Engine Notes</strong><br><p>Total Power: 900 hp</p>",
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "2013 Contender 35 LS boat on turquoise water, clear sky, lush green shoreline.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135903452-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "2013 Contender 35 LS boat with triple engines cruising on calm water.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135904385-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "2013 Contender 35 LS boat on turquoise water, with lush greenery in the background.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135905306-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2013 Contender 35 LS boat with triple engines on calm water, surrounded by greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135906169-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2013 Contender 35 LS boat on calm water with lush greenery background.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135907449-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "2013 Contender 35 LS boat on calm water with lush green shoreline.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135908374-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "2013 Contender 35 LS boat on calm water, surrounded by lush greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135909374-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "2013 Contender 35 LS boat cruising on open water under clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135910062-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2013 Contender 35 LS boat cruising on clear blue ocean under a sunny sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135910971-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "Aerial view of 2013 Contender 35 LS boat cruising on turquoise water.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135911323-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "Contender 35 LS 2013 boat cruising on open water under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135911572-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "2013 Contender 35 LS boat cruising on clear blue ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135911973-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "Triple outboard motors on a 2013 Contender 35 LS boat in clear water.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135912960-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "2013 Contender 35 LS boat with triple engines and white seating on calm water.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135913855-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "Contender 35 LS 2013 boat with white seating and triple outboard motors.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135914839-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "White seating area on 2013 Contender 35 LS boat, with storage compartments and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135915762-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "White seating on 2013 Contender 35 LS boat, overlooking calm water.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135917092-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "Contender 35 LS 2013 boat with open transom door, overlooking green water.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135917978-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "2013 Contender 35 LS boat interior with storage compartment, white seating, and rod holders.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135918838-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "2013 Contender 35 LS boat interior with white seating and steering wheel, near lush greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135919761-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "Contender 35 LS 2013 boat interior with white cushioned seating and steering wheel.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135921134-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "Center console of a 2013 Contender 35 LS boat with navigation screens and steering wheel.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135921980-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "2013 Contender 35 LS boat top view against a cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135922824-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "2013 Contender 35 LS boat interior with sleek white design and modern speakers.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135923679-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "Contender 35 LS 2013 boat interior with speakers, near lush green shoreline.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135925090-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "25",
+          "Caption": "2013 Contender 35 LS boat interior with white seating and speakers, near lush shoreline.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135925973-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "26",
+          "Caption": "2013 Contender 35 LS boat interior with white seating, on calm water near lush greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135926859-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "27",
+          "Caption": "2013 Contender 35 LS boat interior with white seating, calm water, and lush greenery.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135927759-4.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "28",
+          "Caption": "2013 Contender 35 LS boat with sleek white seating, cruising on calm waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135929176-1.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "29",
+          "Caption": "2013 Contender 35 LS boat bathroom with wooden flooring and compact design.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135930113-2.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        },
+        {
+          "Priority": "30",
+          "Caption": "Boat sink and grill on 2013 Contender 35 LS, with open cover, near water.",
+          "Uri": "https://images.boatsgroup.com/images/1/76/55/2013-contender-35-ls-power-10157655-20260421135930962-3.jpg",
+          "LastModifiedDateTime": "2026-06-22T08:08:55-08:00"
+        }
+      ],
+      "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "Available now",
+          "ProgramID": "TagLine",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "boats",
+          "MarketingID": "10227895"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "btol",
+          "MarketingID": "105873677"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "yw",
+          "MarketingID": "10227895"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "adobe.saint",
+          "MarketingID": "10227895"
+        }
+      ],
+      "TotalEngineHoursNumeric": 1730
+    }
+  ]
+}
