@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 */1 * * *" # Every hour
   workflow_dispatch: # Allow manual trigger
+    inputs:
+      force:
+        description: 'Force fetch'
+        default: 'false'
 
 permissions:
   contents: write
