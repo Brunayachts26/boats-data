@@ -202,13 +202,13 @@
       ],
       "BoatClassCode": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
@@ -2419,13 +2419,13 @@
       ],
       "BoatClassCode": [
         "Power Catamarans",
-        "Flybridge",
-        "Motor Yachts"
+        "Motor Yachts",
+        "Flybridge"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Power Catamarans",
-        "Flybridge",
-        "Motor Yachts"
+        "Motor Yachts",
+        "Flybridge"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
@@ -2743,10 +2743,10 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-06-22",
+      "LastModificationDate": "2026-07-14",
       "ItemReceivedDate": "2026-06-22",
-      "OriginalPrice": "249000 USD",
-      "Price": "249000.00 USD",
+      "OriginalPrice": "239000 USD",
+      "Price": "239000.00 USD",
       "PriceHideInd": false,
       "EmbeddedVideoPresent": false,
       "Image360PhotoPresent": false,
@@ -2802,17 +2802,17 @@
       "StockNumber": "",
       "NominalLength": "35 ft",
       "LengthOverall": "35 ft",
-      "ListingTitle": "Available now",
+      "ListingTitle": "Price just reduced",
       "BcnaID": "10227895",
       "BtolID": "105873677",
       "YachtWorldID": "10227895",
       "DriveUp": "1.75 ft",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-06-22T17:57:15Z",
+      "IMTTimeStamp": "2026-07-14T15:21:59Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": true,
       "NormNominalLength": 10.67,
-      "NormPrice": 249000,
+      "NormPrice": 239000,
       "OptionActiveIndicator": false,
       "Engines": [
         {
@@ -3115,7 +3115,7 @@
       "Marketing": [
         {
           "OpportunityType": "",
-          "OpportunityMethod": "Available now",
+          "OpportunityMethod": "Price just reduced",
           "ProgramID": "TagLine",
           "ProgramDescription": "",
           "ProgramOffer": "",
