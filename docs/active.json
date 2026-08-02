@@ -202,13 +202,13 @@
       ],
       "BoatClassCode": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
@@ -1940,13 +1940,13 @@
       ],
       "BoatClassCode": [
         "Power Catamarans",
-        "Center Consoles",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Center Consoles"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Power Catamarans",
-        "Center Consoles",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Center Consoles"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
