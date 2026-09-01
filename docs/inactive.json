@@ -1,5 +1,5 @@
 {
-  "numResults": 5,
+  "numResults": 6,
   "results": [
     {
       "Source": "IMT",
@@ -1799,6 +1799,501 @@
         }
       ],
       "TotalEngineHoursNumeric": 3600
+    },
+    {
+      "Source": "IMT",
+      "DocumentID": "10308357",
+      "SalesStatus": "Inactive",
+      "CoOpIndicator": "true",
+      "NumberOfEngines": 4,
+      "RegistrationCountryCode": "0",
+      "Owner": {
+        "PartyId": "879366"
+      },
+      "SalesRep": {
+        "PartyId": "879383",
+        "Name": "Esteban Bruna"
+      },
+      "CompanyName": "Bruna Yacht Group",
+      "Office": {
+        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
+        "City": "Coral Gables",
+        "State": "FL",
+        "PostCode": "33134",
+        "Country": "US",
+        "Email": "esteban@brunayachtgroup.com",
+        "Phone": "3054315855",
+        "Name": "Bruna Yacht Group"
+      },
+      "LastModificationDate": "2026-09-01",
+      "ItemReceivedDate": "2026-08-31",
+      "OriginalPrice": "450000 USD",
+      "Price": "450000.00 USD",
+      "PriceHideInd": false,
+      "EmbeddedVideoPresent": false,
+      "Image360PhotoPresent": false,
+      "ImmersiveTourPresent": false,
+      "BoatLocation": {
+        "BoatCityName": "Coral Gables",
+        "BoatCountryID": "US",
+        "BoatStateCode": "FL"
+      },
+      "BoatCityNameNoCaseAlnumOnly": "Coral Gables",
+      "MakeString": "Boston Whaler",
+      "MakeStringExact": "Boston Whaler",
+      "MakeStringNoCaseAlnumOnly": "Boston Whaler",
+      "ModelYear": 2016,
+      "SaleClassCode": "Used",
+      "Model": "420 Outrage",
+      "ModelExact": "420 Outrage",
+      "ModelNoCaseAlnumOnly": "420 Outrage",
+      "BoatCategoryCode": "Power",
+      "BoatName": "",
+      "BoatNameNoCaseAlnumOnly": "",
+      "BuilderName": "",
+      "DesignerName": "",
+      "CruisingSpeedMeasure": null,
+      "PropellerCruisingSpeed": "",
+      "MaximumSpeedMeasure": null,
+      "RangeMeasure": null,
+      "BridgeClearanceMeasure": "12.42 ft",
+      "BeamMeasure": "13 ft",
+      "FreeBoardMeasure": null,
+      "CabinHeadroomMeasure": null,
+      "WaterTankCountNumeric": 1,
+      "WaterTankCapacityMeasure": "60|gallon",
+      "WaterTankMaterialCode": "",
+      "FuelTankCountNumeric": 1,
+      "FuelTankCapacityMeasure": "600|gallon",
+      "FuelTankMaterialCode": "",
+      "HoldingTankCountNumeric": 1,
+      "HoldingTankCapacityMeasure": "20|gallon",
+      "HoldingTankMaterialCode": "",
+      "DryWeightMeasure": "22,000 lb",
+      "BallastWeightMeasure": null,
+      "DisplacementMeasure": null,
+      "DisplacementTypeCode": "",
+      "TotalEnginePowerQuantity": "1,350 hp",
+      "DriveTypeCode": "",
+      "BoatKeelCode": "",
+      "MaximumNumberOfPassengersNumeric": 20,
+      "ConvertibleSaloonIndicator": false,
+      "WindlassTypeCode": "",
+      "DeadriseMeasure": "22 °",
+      "ElectricalCircuitMeasure": null,
+      "TrimTabsIndicator": false,
+      "BoatHullMaterialCode": "Fiberglass",
+      "BoatHullID": "BWCE1526B616",
+      "StockNumber": "",
+      "NominalLength": "42 ft",
+      "LengthOverall": "42 ft",
+      "DriveUp": "2.58 ft",
+      "TaxStatusCode": "",
+      "IMTTimeStamp": "2026-09-01T22:11:46Z",
+      "HasBoatHullID": true,
+      "IsAvailableForPls": false,
+      "NormNominalLength": 12.8,
+      "NormPrice": 450000,
+      "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "Mercury",
+          "Model": "L6 Verado",
+          "Fuel": "unleaded",
+          "EnginePower": "350|horsepower",
+          "Type": "Outboard 4 Stroke",
+          "Year": 2016,
+          "Hours": 600
+        },
+        {
+          "Make": "Mercury",
+          "Model": "L6 Verado",
+          "Fuel": "unleaded",
+          "EnginePower": "350|horsepower",
+          "Type": "Outboard 4 Stroke",
+          "Year": 2016,
+          "Hours": 600
+        },
+        {
+          "Make": "Mercury",
+          "Model": "L6 Verado",
+          "Fuel": "unleaded",
+          "EnginePower": "350|horsepower",
+          "Type": "Outboard 4 Stroke",
+          "Year": 2016,
+          "Hours": 600
+        },
+        {
+          "Make": "Mercury",
+          "Model": "L6 Verado",
+          "Fuel": "unleaded",
+          "EnginePower": "300|horsepower",
+          "Type": "Outboard 4 Stroke",
+          "Year": 2016,
+          "Hours": 600
+        }
+      ],
+      "Service": [
+        "yachtcloser.navbar",
+        "package.advantage.select",
+        "bw3.provisioning",
+        "verified-popup",
+        "verifiedcustomer",
+        "mobile-phone-popup",
+        "bwreports.searchdemand",
+        "bwreports.listingoptimizer",
+        "bwreports.marketinsights",
+        "proseller.market.eval",
+        "btol.homepage.rotational.listings",
+        "yw.homepage.rotational.listings",
+        "btol.enhanced.all.listings",
+        "yw.enhanced.all.listings",
+        "btol.sponsored.all.listings",
+        "yw.sponsored.all.listings",
+        "btol.advantagesort.select",
+        "yw.advantagesort.select",
+        "trident.hidetridentfeatures",
+        "btol.advantageemail",
+        "yw.advantageemail",
+        "boats.com.callrecording",
+        "yw.callrecording",
+        "btol.callrecording",
+        "boats.com.calltracking",
+        "yw.calltracking",
+        "btol.calltracking",
+        "import.yachtcloser",
+        "imt.beta",
+        "branding.imt.features.boats.display",
+        "imt.product.boat",
+        "imt.vbs.auto",
+        "lead.export.leadsmart.premium.buyerintent",
+        "lead.export.leadsmart.premium",
+        "lead.export.leadsmart",
+        "lead.export.dealer",
+        "imt.expiry",
+        "btol.callbuttonimtreporting",
+        "btol.inventorylistingpage",
+        "btol.dealergallary",
+        "btol.dealerreporting",
+        "btol",
+        "export.yw",
+        "boats.com.service.level.premium",
+        "branding.imt.features.trailers.display",
+        "branding.imt.features.engines.display",
+        "account.type.dealer",
+        "account.type.broker",
+        "lm.pbs",
+        "soldboats",
+        "soldboats.contracted",
+        "yw",
+        "imt.product.trailer",
+        "imt.product.engine",
+        "imt.vbs",
+        "boats.com.c2a.buy",
+        "boats.com.c2a.more",
+        "boats.com.c2a.brochure",
+        "boats.com.c2a.appointment",
+        "boats.com.c2a.tradein",
+        "boats.com",
+        "branding.imt.bw",
+        "export.btol",
+        "export.boats",
+        "imt.tracker.regular"
+      ],
+      "GeneralBoatDescription": [
+        "<p style=\"margin: 0.0px 0.0px 14.9px 0.0px; font: 18.0px Times; color: #000000;\" id=\"isPasted\"><span style=\"font-size: 12pt;\">2016 Boston Whaler 420 Outrage</span></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000;\"><span style=\"font-size: 12pt;\">This 2016 Boston Whaler 420 Outrage is a well-equipped example of one of Boston Whaler’s most versatile offshore platforms. Finished in an aristo blue hull and powered by quad Mercury 350 Verados , she combines serious offshore capability with the comfort and amenities of even the highest pedigree cabin cruisers. She is currently the only 2016 420 Outrage on the market with a seakeeper.</span></p><p style=\"margin: 0.0px 0.0px 14.0px 0.0px; font: 14.0px Times; color: #000000;\"><span style=\"font-size: 12pt;\">Notable highlights:</span></p><ul> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Quad Mercury 350 Verados – Approximately 600 Hours</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Mercury JPO Joystick</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Seakeeper Equipped</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">New Generator</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Full Suite of Raymarine Electronics</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">FLIR Nightvision</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Full Tower with Lounger</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Rupp Spreader Outriggers</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Dual-Row Seating</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Air-Conditioned Helm</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Satellite TV</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Aft-Facing Bait Station Integrated into Leaning Post</li> <li style=\"margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-stretch: normal; font-size: 12pt; line-height: normal; font-family: Times; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-variant-emoji: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);\">Full Boat Cover</li></ul><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000; min-height: 14.0px;\"><span style=\"font-size: 12pt;\"><br></span></p><p style=\"margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000;\"><span style=\"font-size: 12pt;\">Conveniently located in Coral Gables, FL and available for showings by appointment. </span></p><p><span style=\"font-size: 12pt;\"><br></span></p><p><br></p>"
+      ],
+      "BoatClassCode": [
+        "Sports Fishing Boats",
+        "Saltwater Fishing",
+        "Cruisers"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Sports Fishing Boats",
+        "Saltwater Fishing",
+        "Cruisers"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Cabin Interior</strong><br><ul> <li>120-V receptacle - port side</li> <li>12-V USB charging ports - port and starboard sides</li> <li>26\" flat screen HDTV</li> <li>Air conditioner (16,000 BTU)</li> <li>Carbon monoxide detector</li> <li>Central vacuum system with hose and attachments with dedicated storage</li> <li>Console side windows with (2) opening port lights with shades</li> <li>Convertible double berth with filler cushion; comes with fitted sheet, comforter and two regular size pillowcases</li> <li>Convertible pull-out settee</li> <li>Easy to clean interior materials</li> <li>Hanging locker</li> <li>Hardwood cabin sole</li> <li>Hull side windows with shades</li> <li>Lighting - LED diffused courtesy lights (blue)</li> <li>Lighting - LED diffused overhead lights (white)</li> <li>Lighting - LED reading lights (2)</li> <li>Rod storage (4)</li> <li>Skylight with integrated shade system</li> <li>Stereo includes the following: (FUSION® integration into Raymarine with Navigation Package)<br>- FUSION® stereo DVD/CD/AMFM/VHF, USB AUX input<br>- iPod / iPhone / Android compatible via integrated Bluetooth<br>- Sirius XM option ready<br>- Stereo remote controls - helm and bow<br>- MP3/Aux input<br>- JL Audio waterproof speakers - exterior, 7.7\"aft cockpit (2), helm deck (4), bow (2), 10\" sub-woofer, helm deck (2)<br>- JL Audio amplifiers (2)<br>- JL Audio speakers - interior, 6.5\" cabin (4)</li> <li>Table - wood table that lowers to support filler cushion for forward double berth</li> <li>Throw pillows (3)</li></ul><p> </p>",
+        "<strong>Deck / Cockpit</strong><br><ul> <li>10\" stainless steel cleats (stern cockpit with gunnel board hawse pipe (2), anchor locker (1))</li> <li>10\" stainless steel pull-up cleats (bow (2), spring line (2), crosstie cleats at transom (2))</li> <li>28\" interior freeboard</li> <li>Acrylic transom door with stainless steel latch</li> <li>Anchor roller davit - stainless steel thru hull</li> <li>Boarding ladder at transom</li> <li>Bow tow eye - heavy duty polished stainless steel</li> <li>Chrome Boston Whaler logo/model designator</li> <li>Drink holders - stainless steel (4 in bow, 2 in hawse pipes, 6 at helm, 2 at console lounge, 2 at leaning post)</li> <li>Full coaming bolsters</li> <li>Heavy-duty rub rail</li> <li>Lighting - LED courtesy lighting in cockpit (blue)</li> <li>Livewell - pressurized insulated (24 gallons) in aft port corner with clear lid, blue interior and red and white LED lights</li> <li>Molded fiberglass boarding/dive door port side with removable stainless steel dive ladder with dedicated storage</li> <li>Rails - cockpit toe rails - stainless steel</li> <li>Rails - hand rails; companion way, boarding ladders, prep station - welded stainless steel</li> <li>Rails - low profile interior bow rails - welded stainless steel</li> <li>Rod holders - gunnel mounted (bow (4), aft cockpit starboard (4), port (1))</li> <li>Rod holders - transom mounted (5)</li> <li>Rod holders - under gunnel (3)</li> <li>Self-bailing cockpit sole</li> <li>Ship's bell</li> <li>Under gunnel storage shelf with downrigger weight holders (2 per side)</li> <li>Windlass with 400' rode and chain with handheld remote control, stainless steel swivel and polished stainless steel anchor (44 lbs)</li></ul><p> </p>",
+        "<strong>Deluxe Leaning Post / Bait Prep Center</strong><br><ul> <li>120-V outlets (2)</li> <li>Bait prep area with cutting board</li> <li>Drink holders (2)</li> <li>Electric grill with hinged solid surface lid over grill providing counter surface when not in use</li> <li>Freshwater sink with hot and cold water</li> <li>Leaning post cushion on forward side of prep-station that also converts to a 3 person bench seat providing a second row of seating</li> <li>Lighting - LED task lighting</li> <li>Livewell - pressurized with viewing window, clear lid, blue interior and red and white LED lights</li> <li>Pump switch panel with 12-V outlet</li> <li>Rail - grab rail - stainless steel</li> <li>Refrigerator/freezer - stainless steel drawer 12-V/120-V (2.3 cubic ft) (starboard side)</li> <li>Solid surface countertop</li> <li>Storage lid with tool holders, storage nets and leader holders</li> <li>Tackle storage drawers (3) (port side)</li></ul><p> </p>",
+        "<strong>Head</strong><br><ul> <li>Accent wall</li> <li>Electric Vacu-Flush® toilet, holding tank with vent filter, overboard discharge, dockside pump-out and tank level indicator</li> <li>Enclosed shower - rain shower head with hot and cold faucet and shower curtain providing protection of vanity area</li> <li>Flooring - solid surface tile</li> <li>Lighting - LED overhead light</li> <li>Mirror; full-length</li> <li>Opening port light</li> <li>Rail - hand rail - stainless steel</li> <li>Shower sump</li> <li>Solid surface pull-out countertop forward of vanity</li> <li>Toilet paper holder</li> <li>Vanity storage</li> <li>Vanity with sink, polished chrome faucet and backlit mirror</li></ul><p> </p>",
+        "<strong>Galley</strong><br><ul> <li>120-V receptacle</li> <li>12-V receptacle</li> <li>Coffeemaker</li> <li>Dedicated dish storage in pull-out drawer below sink and in a cabinet above the sink</li> <li>Microwave</li> <li>Pull-out waste receptacle</li> <li>Rail - hand rail - stainless steel</li> <li>Refrigerator/freezer - stainless steel 12-V/120-V (1.7 cubic ft)</li> <li>Sink filler - solid surface matching countertop with integral cutting board</li> <li>Sink with faucet and solid surface countertop</li></ul>",
+        "<strong>Helm Console</strong><br><ul> <li>A/C vents (2)</li> <li>Center helm layout</li> <li>Compass</li> <li>Dash visor</li> <li>Drink holders (2)</li> <li>Electrical switch panel with stainless steel switches with illuminated text</li> <li>Electronics mounting surface with space for triple 15\" displays</li> <li>Footrest - port side passenger fold-down footrest</li> <li>Footrest molded into console with fold-down standing platform and maintenance free, anti-fatigue synthetic surface</li> <li>Lockable acrylic sliding entry door with translucent skylight inset at the top of door for natural light Lockable glove box with 12-V receptacles and USB charging port</li> <li>Mercury DTS dual binnacle controls with integrated engine trim controls</li> <li>Mercury SmartCraft Vessel View 7\" color LCD Display (network connections to Raymarine with Navigation Package)</li> <li>Rails - grab rail - stainless steel</li> <li>Steering wheel - cast stainless steel with knob and tilt helm</li> <li>Stereo - FUSION® full function remote control</li> <li>Switches - remote ignition key switches in cabin with pushbutton start/stop at helm</li> <li>Windshield defogger with remote shutoff control</li></ul><p> </p>",
+        "<strong>Mechanical</strong><br><ul> <li>ACR spotlight (premium)</li> <li>Advanced battery management system; in cabin electric switches and charging relays with remote paralleling</li> <li>Air conditioner (cabin) (18,000 BTU) reverse cycle</li> <li>Air conditioner (helm deck) (12,000 BTU) reverse cycle</li> <li>Battery trays (7)</li> <li>Bilge pump - high water bilge pump with alarm (2,000 GPH)</li> <li>Bilge pumps - automatic (1,100 GPH forward, 2,000 GPH aft)</li> <li>Bonding system for underwater through hull fittings</li> <li>Bow thruster (6 kW) with dedicated battery bank and charging system (not available with Joystick Piloting)</li> <li>Dockside cable TV inlet</li> <li>Dual 30-amp shore power inlets with battery chargers, isolation transformers and 50' shore power cords</li> <li>Dual sounder transducer mount area</li> <li>Electric dual trumpet horn</li> <li>Electric trim tabs with indicator (auto glide, dynamic running surface, dual ram)</li> <li>Freshwater anchor washdown with integrated coiled hose system</li> <li>Freshwater hot and cold water system with dockside hookup and tank level indicator integrated into VesselView</li> <li>Freshwater pull-out hot and cold transom shower</li> <li>Freshwater system with 60-gallon tank</li> <li>Freshwater washdown hot and cold retractable hose reel at mid-ship</li> <li>Fuel tanks - dual 300-gallon aluminum fuel tanks</li> <li>Generator - low CO gas (10 kW) 120-V 60 Hz with fire suppression system, automatic with manual override</li> <li>Lighting - LED cockpit and machinery space lighting</li> <li>Manifold plumbing system with individual valve per circuit</li> <li>Raw-water washdown with retractable hose reel at mid-ship</li> <li>Stainless steel propellers</li> <li>Thru hulls - cast bronze thru hulls (below waterline)</li> <li>Thru hulls - cast stainless steel thru hulls (above waterline)</li> <li>Water heater</li></ul><p> </p>",
+        "<strong>Hardtop / Windshield System</strong><br><ul> <li>Custom powder coated frame integrated into the deck providing clean unobstructed walkways</li> <li>Electronics box with locking latch above helm</li> <li>Ladder access to hardtop integrated into hardtop frame, port side</li> <li>Lighting - LED flood lights bow (1), cockpit (2)</li> <li>Lighting - LED navigation lights</li> <li>Lighting - LED overhead courtesy/chart light (red and white)</li> <li>Lighting - LED overhead lighting (blue)</li> <li>Open tempered side glass with upper removable rigid acrylic canvas curtain</li> <li>Outrigger ready</li> <li>Rod holders integrated onto hardtop supports (6)</li> <li>Sunshade for cockpit - telescoping polished stainless steel frame retracts and deploys electrically (black Sunbrella® canvas)</li> <li>Windshield - full tempered glass, full height with electric actuated center vent</li> <li>Windshield wipers - (1) stainless steel pantograph with wash-system</li></ul><p> </p>",
+        "<strong>Seating</strong><br><ul> <li>Flip-up backrest at forward end of lounge providing wraparound seating</li> <li>Fold-away stern bench seat</li> <li>Forward console lounge with fold-down armrests, drink holders (4), backrests and removable cushion</li> <li>Forward port and starboard seats with folding backrests and drink holders (4) with stereo remote and 12-V receptacle on port side</li> <li>Helm and companion bolster style seats (3) with fold-down armrests (center seat is electrically actuated) (port and starboard seats rotate to rear facing seat)</li> <li>Leaning post cushion on forward side of the prep station that also converts to 3 person bench seat providing a second row of seating behind the helm</li></ul><p> </p>",
+        "<strong>Storage Exterior</strong><br><ul> <li>Bilge storage aft</li> <li>Bow anchor locker with drains</li> <li>Coaming storage pockets with acrylic doors in port and starboard fore deck area</li> <li>Coaming storage pockets with net retainers in port and starboard helm deck area</li> <li>Forward lounge storage - miscellaneous gear, fender storage or optional dive tank storage</li> <li>Insulated built-in storage/cooler compartment at forward end of the console lounge</li> <li>Insulated in-floor fishboxes with drains, helm deck (2)</li> <li>Insulated in-floor storage/fishbox with drains, fore deck (2)</li> <li>Insulated in-floor storage/fishboxes with pump-out, cockpit (2)</li> <li>Lifejacket storage in overhead hardtop storage compartment</li> <li>Lighting - LED lighting in storage compartments</li> <li>Lockable electronics box in hardtop</li> <li>Lockable glove box</li> <li>Prep station side pocket</li> <li>Prep station storage drawers</li> <li>Storage under bow seating</li></ul><p> </p>",
+        "<strong>Storage Interior</strong><br><ul> <li>Companionway hanging locker</li> <li>Galley - cabinet aft of microwave</li> <li>Galley - hinged lid integrated into countertop providing access to storage compartment</li> <li>Galley - pull-out waste receptacle and dish storage</li> <li>Head cabinetry</li> <li>Storage under interior seating</li></ul>",
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
+      ],
+      "ExternalLink": [
+        {
+          "Uri": "https://www.bostonwhaler.com",
+          "Text": "Manufacturer Website",
+          "Type": "Manufacturer Website"
+        }
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "2016 Boston Whaler 420 Outrage boat on open sea under clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123445214-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "2016 Boston Whaler 420 Outrage boat on open water under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123444515-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "2016 Boston Whaler 420 Outrage on open sea with clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123445846-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2016 Boston Whaler 420 Outrage boat on open water under blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123446518-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2016 Boston Whaler 420 Outrage boat on open water under blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123447874-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "2016 Boston Whaler 420 Outrage boat on open water under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123448511-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "2016 Boston Whaler 420 Outrage cruising on open water under a blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123449270-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "2016 Boston Whaler 420 Outrage on open water under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123449918-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2016 Boston Whaler 420 Outrage cruising on open water under a clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123451121-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "2016 Boston Whaler 420 Outrage cruising on open water under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123451613-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "2016 Boston Whaler 420 Outrage cruising on open water under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123452168-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "2016 Boston Whaler 420 Outrage cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123452730-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "Aerial view of 2016 Boston Whaler 420 Outrage boat on water.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123453937-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "Aerial view of 2016 Boston Whaler 420 Outrage boat on dark water.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123454425-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "Boston Whaler 420 Outrage 2016 cruising on open sea, showcasing sleek deck design.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123455227-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "2016 Boston Whaler 420 Outrage cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123456469-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "2016 Boston Whaler 420 Outrage boat interior with cushioned seating and wooden table on open sea.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123458843-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "2016 Boston Whaler 420 Outrage boat on open sea under a cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123459845-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "2016 Boston Whaler 420 Outrage boat with radar and antennas against a cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123500860-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "2016 Boston Whaler 420 Outrage boat with four Mercury engines on open sea.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123502044-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "Boston Whaler 420 Outrage 2016 boat deck overlooking the ocean.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123504542-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "Four Mercury outboard engines on a 2016 Boston Whaler 420 Outrage boat.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123505613-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "2016 Boston Whaler 420 Outrage interior with seating and storage compartments.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123506611-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "2016 Boston Whaler 420 Outrage boat interior with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123507590-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "Boston Whaler 420 Outrage 2016 boat kitchen area with sink and storage.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123509502-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "25",
+          "Caption": "Interior of 2016 Boston Whaler 420 Outrage boat with modern helm seating.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123510507-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "26",
+          "Caption": "Control panel of 2016 Boston Whaler 420 Outrage with advanced navigation displays.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123511700-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "27",
+          "Caption": "2016 Boston Whaler 420 Outrage helm seating with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123512696-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "28",
+          "Caption": "Boston Whaler 420 Outrage 2016 boat interior with cushioned seating and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123515329-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "29",
+          "Caption": "Luxurious seating on 2016 Boston Whaler 420 Outrage boat, overlooking the ocean.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123516442-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "30",
+          "Caption": "Boston Whaler 420 Outrage 2016 boat on open water under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123517465-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "31",
+          "Caption": "Luxurious seating on 2016 Boston Whaler 420 Outrage boat, featuring beige upholstery.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123518484-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "32",
+          "Caption": "2016 Boston Whaler 420 Outrage boat bow with cushioned seating on water.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123520671-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "33",
+          "Caption": "Helm of 2016 Boston Whaler 420 Outrage with steering wheel and navigation controls.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123521677-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "34",
+          "Caption": "2016 Boston Whaler 420 Outrage boat with four powerful outboard engines on water.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123522716-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "35",
+          "Caption": "2016 Boston Whaler 420 Outrage boat with cushioned seating and powerful outboard engines.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123523761-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "36",
+          "Caption": "2016 Boston Whaler 420 Outrage boat seating area with ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123525652-1.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "37",
+          "Caption": "2016 Boston Whaler 420 Outrage boat with upper deck and contact sign, viewed from below.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123526577-2.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "38",
+          "Caption": "Luxurious interior of 2016 Boston Whaler 420 Outrage with cozy seating and modern amenities.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123527577-3.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "39",
+          "Caption": "Luxurious bathroom interior of 2016 Boston Whaler 420 Outrage boat, featuring modern amenities.",
+          "Uri": "https://images.boatsgroup.com/images/1/83/57/2016-boston-whaler-420-outrage-power-10308357-20260831123528682-4.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        },
+        {
+          "Priority": "40",
+          "Caption": "Manufacturer Provided Image: Top view schematic of a 2016 Boston Whaler 420 Outrage boat.",
+          "Uri": "https://images.boatsgroup.com/images/1/93/64/5409364_20151008070224516_1_XLARGE.jpg",
+          "LastModifiedDateTime": "2026-08-31T13:29:58-08:00"
+        }
+      ],
+      "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        }
+      ],
+      "TotalEngineHoursNumeric": 2400
     },
     {
       "Source": "IMT",
