@@ -1437,13 +1437,13 @@
       ],
       "BoatClassCode": [
         "Power Catamarans",
-        "Sports Fishing Boats",
-        "Center Consoles"
+        "Center Consoles",
+        "Sports Fishing Boats"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Power Catamarans",
-        "Sports Fishing Boats",
-        "Center Consoles"
+        "Center Consoles",
+        "Sports Fishing Boats"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
@@ -1916,13 +1916,13 @@
       ],
       "BoatClassCode": [
         "Power Catamarans",
-        "Flybridge",
-        "Motor Yachts"
+        "Motor Yachts",
+        "Flybridge"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Power Catamarans",
-        "Flybridge",
-        "Motor Yachts"
+        "Motor Yachts",
+        "Flybridge"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
@@ -2302,11 +2302,14 @@
       "StockNumber": "",
       "NominalLength": "42 ft",
       "LengthOverall": "42 ft",
+      "BcnaID": "10308357",
+      "BtolID": "105936590",
+      "YachtWorldID": "10308357",
       "DriveUp": "2.58 ft",
       "TaxStatusCode": "",
       "IMTTimeStamp": "2026-08-31T20:32:56Z",
       "HasBoatHullID": true,
-      "IsAvailableForPls": false,
+      "IsAvailableForPls": true,
       "NormNominalLength": 12.8,
       "NormPrice": 450000,
       "OptionActiveIndicator": false,
@@ -2420,13 +2423,13 @@
       ],
       "BoatClassCode": [
         "Sports Fishing Boats",
-        "Cruisers",
-        "Saltwater Fishing"
+        "Saltwater Fishing",
+        "Cruisers"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Sports Fishing Boats",
-        "Cruisers",
-        "Saltwater Fishing"
+        "Saltwater Fishing",
+        "Cruisers"
       ],
       "AdditionalDetailDescription": [
         "<strong>Cabin Interior</strong><br><ul> <li>120-V receptacle - port side</li> <li>12-V USB charging ports - port and starboard sides</li> <li>26\" flat screen HDTV</li> <li>Air conditioner (16,000 BTU)</li> <li>Carbon monoxide detector</li> <li>Central vacuum system with hose and attachments with dedicated storage</li> <li>Console side windows with (2) opening port lights with shades</li> <li>Convertible double berth with filler cushion; comes with fitted sheet, comforter and two regular size pillowcases</li> <li>Convertible pull-out settee</li> <li>Easy to clean interior materials</li> <li>Hanging locker</li> <li>Hardwood cabin sole</li> <li>Hull side windows with shades</li> <li>Lighting - LED diffused courtesy lights (blue)</li> <li>Lighting - LED diffused overhead lights (white)</li> <li>Lighting - LED reading lights (2)</li> <li>Rod storage (4)</li> <li>Skylight with integrated shade system</li> <li>Stereo includes the following: (FUSION® integration into Raymarine with Navigation Package)<br>- FUSION® stereo DVD/CD/AMFM/VHF, USB AUX input<br>- iPod / iPhone / Android compatible via integrated Bluetooth<br>- Sirius XM option ready<br>- Stereo remote controls - helm and bow<br>- MP3/Aux input<br>- JL Audio waterproof speakers - exterior, 7.7\"aft cockpit (2), helm deck (4), bow (2), 10\" sub-woofer, helm deck (2)<br>- JL Audio amplifiers (2)<br>- JL Audio speakers - interior, 6.5\" cabin (4)</li> <li>Table - wood table that lowers to support filler cushion for forward double berth</li> <li>Throw pillows (3)</li></ul><p> </p>",
@@ -2706,6 +2709,42 @@
           "ProgramOffer": "",
           "PublicationID": "",
           "MarketingID": ""
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "boats",
+          "MarketingID": "10308357"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "btol",
+          "MarketingID": "105936590"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "yw",
+          "MarketingID": "10308357"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "adobe.saint",
+          "MarketingID": "10308357"
         }
       ],
       "TotalEngineHoursNumeric": 2400
@@ -2903,13 +2942,13 @@
       ],
       "BoatClassCode": [
         "Center Consoles",
-        "Sports Fishing Boats",
-        "Saltwater Fishing"
+        "Saltwater Fishing",
+        "Sports Fishing Boats"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Center Consoles",
-        "Sports Fishing Boats",
-        "Saltwater Fishing"
+        "Saltwater Fishing",
+        "Sports Fishing Boats"
       ],
       "AdditionalDetailDescription": [
         "<strong>Standard Equipment</strong><br><p><strong>Hull & Deck</strong></p> <ul> <li>Hand-Laid Fiberglass Throughout High Tech Construction Using Multi-Directional Fabric & Foam Cored Solid Glass Stringer System</li> <li>Foam Floatation</li> <li>Integral Dive Platform, Full Transom & Transom Door</li> <li>Self-Bailing Cockpit</li> <li>Non-Skid Cockpit Sole & Deck</li> <li>Heavy Duty Rub Rail</li> <li>Choice of Hull & Deck Gelcoat Colors</li> <li>Hand-Painted Boot & Pin Stripe</li> </ul> <p><strong>Cockpit Sole & Deck Compartments</strong></p> <ul> <li>Forward Anchor Locker w/Storage</li> <li>(1) 208 Gal. Fully Lined & Insulated Forward Fish Box</li> <li>(1) 115 Gal. Fully Lined & Insulated Forward Fish Box</li> <li>(2) 85 Gal. Fully Lined & Insulated Forward Aft Fish Boxes (Port & Strbd)</li> <li>(2) 40 Gal. Round Livewells, Aft Above Deck (Excludes Plumbing)</li> </ul> <p><strong>Console</strong></p> <ul> <li>Extra Large Walk-In Console w/Head Compartment</li> <li>Oversized Electronics Panel</li> <li>Molded in Front Console Seat</li> <li>Lockable Storage Inside Console</li> <li>Custom Helm Pod</li> </ul> <p><strong>Mechanical</strong></p> <ul> <li>International Lighting</li> <li>Recessed Pop-Up Bow Light</li> <li>Dual Hydraulic Steering w/Custom Steering Wheel</li> <li>Kiekaffer Recessed Trim Tabs</li> <li>Waterproof Switches & Breaker Panel w/Indicator Lights</li> <li>2000 GPH Auto/Manual Bilge Pump</li> <li>Compass</li> </ul> <p><strong>Hardware</strong></p> <ul> <li>Chrome on Bronze or Stainless Steel Hardware</li> <li>Heavy Duty Recessed Bow Lifting Ring w/Cleat (Pop-Up)</li> <li>(2) Heavy Duty Stern Lifting Rings</li> <li>(2) 10” Stern Cleats</li> <li>(2) 8” Spring Line Cleats with Hause Pipes - Midship</li> <li>(4) Lee’s Flush Mount Gunnel Rod Holders</li> <li>Recessed Bow Handrails</li> </ul>",
