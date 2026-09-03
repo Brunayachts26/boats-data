@@ -202,13 +202,13 @@
       ],
       "BoatClassCode": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
@@ -448,10 +448,10 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-07-13",
+      "LastModificationDate": "2026-09-03",
       "ItemReceivedDate": "2026-06-26",
-      "OriginalPrice": "410000 USD",
-      "Price": "410000.00 USD",
+      "OriginalPrice": "399900 USD",
+      "Price": "399900.00 USD",
       "PriceHideInd": false,
       "EmbeddedVideoPresent": false,
       "Image360PhotoPresent": false,
@@ -504,15 +504,16 @@
       "StockNumber": "",
       "NominalLength": "40 ft",
       "LengthOverall": "40 ft",
+      "ListingTitle": "Price just reduced",
       "BcnaID": "10233087",
       "BtolID": "105882792",
       "YachtWorldID": "10233087",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-07-13T17:47:59Z",
+      "IMTTimeStamp": "2026-09-03T11:35:50Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": true,
       "NormNominalLength": 12.19,
-      "NormPrice": 410000,
+      "NormPrice": 399900,
       "OptionActiveIndicator": false,
       "Engines": [
         {
@@ -863,6 +864,15 @@
         }
       ],
       "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "Price just reduced",
+          "ProgramID": "TagLine",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
         {
           "OpportunityType": "",
           "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
@@ -2408,13 +2418,13 @@
       ],
       "BoatClassCode": [
         "Center Consoles",
-        "Saltwater Fishing",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Saltwater Fishing"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Center Consoles",
-        "Saltwater Fishing",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Saltwater Fishing"
       ],
       "AdditionalDetailDescription": [
         "<strong>Standard Equipment</strong><br><p><strong>Hull & Deck</strong></p> <ul> <li>Hand-Laid Fiberglass Throughout High Tech Construction Using Multi-Directional Fabric & Foam Cored Solid Glass Stringer System</li> <li>Foam Floatation</li> <li>Integral Dive Platform, Full Transom & Transom Door</li> <li>Self-Bailing Cockpit</li> <li>Non-Skid Cockpit Sole & Deck</li> <li>Heavy Duty Rub Rail</li> <li>Choice of Hull & Deck Gelcoat Colors</li> <li>Hand-Painted Boot & Pin Stripe</li> </ul> <p><strong>Cockpit Sole & Deck Compartments</strong></p> <ul> <li>Forward Anchor Locker w/Storage</li> <li>(1) 208 Gal. Fully Lined & Insulated Forward Fish Box</li> <li>(1) 115 Gal. Fully Lined & Insulated Forward Fish Box</li> <li>(2) 85 Gal. Fully Lined & Insulated Forward Aft Fish Boxes (Port & Strbd)</li> <li>(2) 40 Gal. Round Livewells, Aft Above Deck (Excludes Plumbing)</li> </ul> <p><strong>Console</strong></p> <ul> <li>Extra Large Walk-In Console w/Head Compartment</li> <li>Oversized Electronics Panel</li> <li>Molded in Front Console Seat</li> <li>Lockable Storage Inside Console</li> <li>Custom Helm Pod</li> </ul> <p><strong>Mechanical</strong></p> <ul> <li>International Lighting</li> <li>Recessed Pop-Up Bow Light</li> <li>Dual Hydraulic Steering w/Custom Steering Wheel</li> <li>Kiekaffer Recessed Trim Tabs</li> <li>Waterproof Switches & Breaker Panel w/Indicator Lights</li> <li>2000 GPH Auto/Manual Bilge Pump</li> <li>Compass</li> </ul> <p><strong>Hardware</strong></p> <ul> <li>Chrome on Bronze or Stainless Steel Hardware</li> <li>Heavy Duty Recessed Bow Lifting Ring w/Cleat (Pop-Up)</li> <li>(2) Heavy Duty Stern Lifting Rings</li> <li>(2) 10” Stern Cleats</li> <li>(2) 8” Spring Line Cleats with Hause Pipes - Midship</li> <li>(4) Lee’s Flush Mount Gunnel Rod Holders</li> <li>Recessed Bow Handrails</li> </ul>",
