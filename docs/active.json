@@ -561,13 +561,13 @@
       ],
       "BoatClassCode": [
         "Bowrider",
-        "Walkarounds",
-        "Cruisers"
+        "Cruisers",
+        "Walkarounds"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Bowrider",
-        "Walkarounds",
-        "Cruisers"
+        "Cruisers",
+        "Walkarounds"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
@@ -2305,13 +2305,13 @@
       ],
       "BoatClassCode": [
         "Sports Fishing Boats",
-        "Cruisers",
-        "Saltwater Fishing"
+        "Saltwater Fishing",
+        "Cruisers"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Sports Fishing Boats",
-        "Cruisers",
-        "Saltwater Fishing"
+        "Saltwater Fishing",
+        "Cruisers"
       ],
       "AdditionalDetailDescription": [
         "<strong>Cabin Interior</strong><br><ul> <li>120-V receptacle - port side</li> <li>12-V USB charging ports - port and starboard sides</li> <li>26\" flat screen HDTV</li> <li>Air conditioner (16,000 BTU)</li> <li>Carbon monoxide detector</li> <li>Central vacuum system with hose and attachments with dedicated storage</li> <li>Console side windows with (2) opening port lights with shades</li> <li>Convertible double berth with filler cushion; comes with fitted sheet, comforter and two regular size pillowcases</li> <li>Convertible pull-out settee</li> <li>Easy to clean interior materials</li> <li>Hanging locker</li> <li>Hardwood cabin sole</li> <li>Hull side windows with shades</li> <li>Lighting - LED diffused courtesy lights (blue)</li> <li>Lighting - LED diffused overhead lights (white)</li> <li>Lighting - LED reading lights (2)</li> <li>Rod storage (4)</li> <li>Skylight with integrated shade system</li> <li>Stereo includes the following: (FUSION® integration into Raymarine with Navigation Package)<br>- FUSION® stereo DVD/CD/AMFM/VHF, USB AUX input<br>- iPod / iPhone / Android compatible via integrated Bluetooth<br>- Sirius XM option ready<br>- Stereo remote controls - helm and bow<br>- MP3/Aux input<br>- JL Audio waterproof speakers - exterior, 7.7\"aft cockpit (2), helm deck (4), bow (2), 10\" sub-woofer, helm deck (2)<br>- JL Audio amplifiers (2)<br>- JL Audio speakers - interior, 6.5\" cabin (4)</li> <li>Table - wood table that lowers to support filler cushion for forward double berth</li> <li>Throw pillows (3)</li></ul><p> </p>",
@@ -2819,13 +2819,13 @@
       ],
       "BoatClassCode": [
         "Power Catamarans",
-        "Motor Yachts",
-        "Flybridge"
+        "Flybridge",
+        "Motor Yachts"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Power Catamarans",
-        "Motor Yachts",
-        "Flybridge"
+        "Flybridge",
+        "Motor Yachts"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
