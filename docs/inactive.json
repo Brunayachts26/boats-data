@@ -1,5 +1,5 @@
 {
-  "numResults": 5,
+  "numResults": 6,
   "results": [
     {
       "Source": "IMT",
@@ -1351,6 +1351,784 @@
           "MarketingID": ""
         }
       ]
+    },
+    {
+      "Source": "IMT",
+      "DocumentID": "10231771",
+      "SalesStatus": "Inactive",
+      "CoOpIndicator": "true",
+      "NumberOfEngines": 2,
+      "RegistrationCountryCode": "0",
+      "Owner": {
+        "PartyId": "879366"
+      },
+      "SalesRep": {
+        "PartyId": "879383",
+        "Name": "Esteban Bruna"
+      },
+      "CompanyName": "Bruna Yacht Group",
+      "Office": {
+        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
+        "City": "Coral Gables",
+        "State": "FL",
+        "PostCode": "33134",
+        "Country": "US",
+        "Email": "esteban@brunayachtgroup.com",
+        "Phone": "3054315855",
+        "Name": "Bruna Yacht Group"
+      },
+      "LastModificationDate": "2026-10-05",
+      "ItemReceivedDate": "2026-06-25",
+      "OriginalPrice": "1199000 USD",
+      "Price": "1199000.00 USD",
+      "PriceHideInd": false,
+      "EmbeddedVideoPresent": false,
+      "Image360PhotoPresent": false,
+      "ImmersiveTourPresent": false,
+      "BoatLocation": {
+        "BoatCityName": "Coral Gables",
+        "BoatCountryID": "US",
+        "BoatStateCode": "FL"
+      },
+      "BoatCityNameNoCaseAlnumOnly": "Coral Gables",
+      "MakeString": "Sunseeker",
+      "MakeStringExact": "Sunseeker",
+      "MakeStringNoCaseAlnumOnly": "Sunseeker",
+      "ModelYear": 2018,
+      "SaleClassCode": "Used",
+      "Model": "Predator 68",
+      "ModelExact": "Predator 68",
+      "ModelNoCaseAlnumOnly": "Predator 68",
+      "BoatCategoryCode": "Power",
+      "BoatName": "",
+      "BoatNameNoCaseAlnumOnly": "",
+      "BuilderName": "",
+      "DesignerName": "",
+      "CruisingSpeedMeasure": null,
+      "PropellerCruisingSpeed": "",
+      "MaximumSpeedMeasure": "42 kn",
+      "RangeMeasure": "345.23 mi",
+      "BridgeClearanceMeasure": null,
+      "BeamMeasure": "16.75 ft",
+      "FreeBoardMeasure": null,
+      "CabinHeadroomMeasure": null,
+      "WaterTankCountNumeric": 1,
+      "WaterTankCapacityMeasure": "211|gallon",
+      "WaterTankMaterialCode": "",
+      "FuelTankCountNumeric": 1,
+      "FuelTankCapacityMeasure": "925|gallon",
+      "FuelTankMaterialCode": "",
+      "DryWeightMeasure": "82,209 lb",
+      "BallastWeightMeasure": null,
+      "DisplacementMeasure": null,
+      "DisplacementTypeCode": "",
+      "TotalEnginePowerQuantity": "3,100 hp",
+      "DriveTypeCode": "Direct",
+      "BoatKeelCode": "",
+      "ConvertibleSaloonIndicator": false,
+      "WindlassTypeCode": "",
+      "DeadriseMeasure": null,
+      "ElectricalCircuitMeasure": null,
+      "TrimTabsIndicator": false,
+      "HeadsCountNumeric": 3,
+      "CabinsCountNumeric": 3,
+      "BoatHullMaterialCode": "Fiberglass",
+      "BoatHullID": "XSK07015F718",
+      "StockNumber": "",
+      "NominalLength": "68 ft",
+      "LengthOverall": "71.17 ft",
+      "MaxDraft": "5.17 ft",
+      "TaxStatusCode": "",
+      "IMTTimeStamp": "2026-10-05T21:39:44Z",
+      "HasBoatHullID": true,
+      "IsAvailableForPls": false,
+      "NormNominalLength": 20.73,
+      "NormPrice": 1199000,
+      "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "MAN",
+          "Model": "V12-1550",
+          "DriveTransmissionDescription": "Direct",
+          "Fuel": "diesel",
+          "EnginePower": "1550|horsepower",
+          "Type": "Inboard",
+          "Year": 2018,
+          "Hours": 1050
+        },
+        {
+          "Make": "MAN",
+          "Model": "v12-1550",
+          "DriveTransmissionDescription": "Direct",
+          "Fuel": "diesel",
+          "EnginePower": "1550|horsepower",
+          "Type": "Inboard",
+          "Year": 2018,
+          "Hours": 1050
+        }
+      ],
+      "Service": [
+        "yachtcloser.navbar",
+        "package.advantage.select",
+        "bw3.provisioning",
+        "verified-popup",
+        "verifiedcustomer",
+        "mobile-phone-popup",
+        "bwreports.searchdemand",
+        "bwreports.listingoptimizer",
+        "bwreports.marketinsights",
+        "proseller.market.eval",
+        "btol.homepage.rotational.listings",
+        "yw.homepage.rotational.listings",
+        "btol.enhanced.all.listings",
+        "yw.enhanced.all.listings",
+        "btol.sponsored.all.listings",
+        "yw.sponsored.all.listings",
+        "btol.advantagesort.select",
+        "yw.advantagesort.select",
+        "trident.hidetridentfeatures",
+        "btol.advantageemail",
+        "yw.advantageemail",
+        "boats.com.callrecording",
+        "yw.callrecording",
+        "btol.callrecording",
+        "boats.com.calltracking",
+        "yw.calltracking",
+        "btol.calltracking",
+        "import.yachtcloser",
+        "imt.beta",
+        "branding.imt.features.boats.display",
+        "imt.product.boat",
+        "imt.vbs.auto",
+        "lead.export.leadsmart.premium.buyerintent",
+        "lead.export.leadsmart.premium",
+        "lead.export.leadsmart",
+        "lead.export.dealer",
+        "imt.expiry",
+        "btol.callbuttonimtreporting",
+        "btol.inventorylistingpage",
+        "btol.dealergallary",
+        "btol.dealerreporting",
+        "btol",
+        "export.yw",
+        "boats.com.service.level.premium",
+        "branding.imt.features.trailers.display",
+        "branding.imt.features.engines.display",
+        "account.type.dealer",
+        "account.type.broker",
+        "lm.pbs",
+        "soldboats",
+        "soldboats.contracted",
+        "yw",
+        "imt.product.trailer",
+        "imt.product.engine",
+        "imt.vbs",
+        "boats.com.c2a.buy",
+        "boats.com.c2a.more",
+        "boats.com.c2a.brochure",
+        "boats.com.c2a.appointment",
+        "boats.com.c2a.tradein",
+        "boats.com",
+        "branding.imt.bw",
+        "export.btol",
+        "export.boats",
+        "imt.tracker.regular"
+      ],
+      "GeneralBoatDescription": [
+        "<p style=\"text-align: center;\" id=\"isPasted\"><strong>2018 Sunseeker Predator 68</strong></p><p>This 2018 Sunseeker Predator 68 represents an excellent opportunity to own one of the most sought-after express sport yachts in her class. Combining unmistakable British styling with top tier performance, luxurious accommodations, and impressive entertaining spaces, this Predator 68 has been exceptionally maintained and it shows.  Fresh off an extensive yard period in May of 2026 - she is in turn key condition for her next owner. She is currently the most aggressively priced 2018 Predator 68 in the world. </p><p>Her sleek profile is complemented by an expansive retractable glass sunroof, opening and retracting salon doors, and a seamless indoor/outdoor layout that makes entertaining effortless. Whether enjoying a weekend getaway or an extended vacation cruise, the Predator 68 delivers a refined yachting experience that will keep her guests wanting more.</p><p>The spacious cockpit features generous sunbrella seating, a folding teak dining table, wet bar, grill, and large sun pad aft, while the hydraulic swim platform provides easy access to the water and tender garage.</p><p>Below deck, the contemporary interior is finished in a light wood with panoramic hull windows that fill the cabin with natural light. The all en-suite three-stateroom, three-head layout includes a full-beam master suite, a forward VIP stateroom, and a twin guest cabin, all complemented by a fully equipped galley and spacious salon.</p><p>Highlights</p><ul> <li>Upgraded Twin MAN V12 1550 HP </li> <li>Retractable glass hardtop sunroof</li> <li>Hydraulic swim platform</li> <li>Side Power Stabilizers</li> <li>Full suite of Simrad electronics</li> <li>Xenta Joystick </li> <li>Hydraulic Bow and Stern thrusters</li> <li>Flex-Teak cockpit and swim platform</li> <li>Cockpit wet bar with grill and refrigerator/freezer</li> <li>Captain maintained</li></ul><p><br></p><p><br></p>"
+      ],
+      "BoatClassCode": [
+        "Sports Cruiser",
+        "Motor Yachts"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Sports Cruiser",
+        "Motor Yachts"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Steering System</strong><br>Joystick Control",
+        "<strong>Construction</strong><br><ul> <li>Hand-laid GRP</li> <li>Gel coat including stripes</li> <li>Vinylester skin coat with powderbound mat</li> <li>Stitched multi-axial reinforced single skin bottom</li> <li>Balsa cored hull topsides</li> <li>PVC foam cored deck and superstructure</li> <li>Hull stiffened with longitudinal stringers supported by transverse bulkheads and floors</li></ul>",
+        "<strong>Deck</strong><br><ul> <li>Fittings all in stainless steel</li> <li>8 x stainless steel deck cleats</li> <li>Pulpit and cockpit rails</li> <li>Stainless steel fendering with rubber insert</li> <li>Curved safety glass windscreen</li> <li>Stainless steel bow roller with anchor stop</li> <li>Stainless steel bow plate</li> <li>Delta anchor and 60m chain (galvanised)</li> <li>Electric winch and capstan with deck and Interior helm controls</li> <li>Chain locker/fender stowage</li> <li>Fender tie bar under anchor locker lid</li> <li>Fore deck coach-roof storage lockers</li> <li>Fuel fillers port and starboard</li> <li>Fresh-water filler</li> <li>IMCOnavigation lights</li> <li>2 x Pantograph windscreen wipers and washers</li> <li>Garage for tender</li> <li>Ensign staff and socket</li></ul>",
+        "<strong>Aft Cockpit</strong><br><ul> <li>Self draining</li> <li>Teak-laid Cockpit Decking</li> <li>Stern safety door</li> <li>Cockpit speakers</li> <li>Wetbar sink with cockpit grill and refrigerator </li> <li>Sunbrella Upholstered seating around cockpit table</li> <li>Large stern sunbather</li> <li>Lockers beneath seating</li> <li>Overhead cockpit lights 24v</li> <li>Low-level courtesy lights 24v</li> <li>Engine room access hatch</li></ul>",
+        "<strong>Accommodations</strong><br><p><strong>Deck saloon</strong></p><ul> <li>Separate dining area with table</li> <li>Stowage beneath seats</li> <li>55” Television on fall and rise system</li> <li>Drinks cupboard</li> <li>Overhead lighting LED 24v</li> <li>Stainless steel sliding door to cockpit</li> <li>Main control panel (AC/DC)</li> <li>Generator controls</li> <li>Air Conditioning</li> <li>3 x Double AC sockets</li> <li>Wood flooring</li> <li>Choice of interior finishes and veneers</li> <li>Scatter cushion</li></ul><p><strong>Forward stateroom</strong></p><ul> <li>Double berth</li> <li>Storage beneath</li> <li>Drawer in base-end</li> <li>2 x reading lights 24v</li> <li>Outboard shelving and cupboards</li> <li>Overhead bedside cupboards</li> <li>Hanging wardrobes with mirrored panel</li> <li>Overhead lights LED 24v</li> <li>2 x opening portholes with mosquito screens</li> <li>Port-light blinds</li> <li>Deck hatch with blind and mosquito screen</li> <li>Sky-light</li> <li>2 x Double AC sockets</li> <li>Door to shower room</li> <li>Fitted carpet</li> <li>Air Conditioning</li> <li>32” television</li> <li>Blu-ray/DVD/CD player with speakers</li></ul><p><strong>Forward en suite shower room</strong></p><ul> <li>Washbasin</li> <li>Taps and accessories</li> <li>Hot and cold water supply</li> <li>Separate shower compartment</li> <li>Electric toilet</li> <li>Extractor fan</li> <li>Mirrored vanity unit</li> <li>Shelved cupboard</li> <li>Toothbrush and glass holder</li> <li>Soap dispenser</li> <li>Towel ring and towels</li> <li>Overhead lights</li> <li>Opening porthole with mosquito screen and blind</li> <li>Razor socket 240/110v</li></ul><p><strong>Starboard guest cabin</strong></p><ul> <li>2 x single berths</li> <li>Under berth storage</li> <li>2 x reading lights 24v</li> <li>Hanging wardrobe</li> <li>Overhead lighting LED 24v</li> <li>Opening porthole with mosquito screen and blinds</li> <li>Double AC socket</li> <li>Fitted carpet</li> <li>Air Conditioning</li> <li>22” television</li> <li>Blu-ray/DVD/CD player with speakers</li></ul><p><strong>Starboard en suite shower room</strong></p><ul> <li>Washbasin</li> <li>Taps and accessories</li> <li>Hot and cold water supply</li> <li>Separate shower compartment</li> <li>Electric toilet</li> <li>Extractor fan</li> <li>Mirrored vanity unit</li> <li>Shelved cupboard</li> <li>Toothbrush and glass holder</li> <li>Soap dispenser</li> <li>Towel ring and towels</li> <li>Overhead lights LED</li> <li>Opening porthole with mosquito screen and blind</li> <li>Razor socket 240/110v</li></ul><p><strong>Master aft stateroom</strong></p><ul> <li>Double berth</li> <li>Cupboard and drawer stowage</li> <li>2 x reading lights 24v</li> <li>Bedside drawers</li> <li>Walk-in wardrobe</li> <li>Overhead lights LED 24v</li> <li>2 x large windows with opening portholes, mosquito screens and blinds</li> <li>Two Double AC sockets</li> <li>Door to shower room</li> <li>Fitted carpet</li> <li>Settee</li> <li>Air Conditioning</li> <li>32” television</li> <li>Blu-ray/DVD/CD player with speakers</li></ul><p><strong>Aft en suite shower room</strong></p><ul> <li>Washbasin</li> <li>Taps and accessories</li> <li>Hot and cold water supply</li> <li>Separate shower compartment</li> <li>Electric toilet</li> <li>Extractor fan</li> <li>Mirrored vanity unit</li> <li>Shelved cupboard</li> <li>Toothbrush and glass holder</li> <li>Soap dispenser</li> <li>Towel ring and towels</li> <li>Overhead lights LED</li> <li>Opening porthole with mosquito screen and blind</li> <li>Razor socket 240/110vs</li></ul><p> </p>",
+        "<strong>Galley</strong><br><ul> <li>Sink and drainer</li> <li>3 ring ceramic touch control hob and extractor fan</li> <li>Electric refrigerator</li> <li>Electric freezer</li> <li>Microwave convection oven</li> <li>Hot and cold water</li> <li>Rubbish bin</li> <li>Cupboard and drawer storage</li> <li>8 place crockery set</li> <li>8 place cutlery set</li> <li>2 x Double AC sockets</li> <li>Hand-held fire extinguisher</li> <li>First aid kit</li> <li>Wood flooring</li></ul>",
+        "<strong>Engines</strong><br><ul> <li>Soundproofing throughout</li> <li>Fuel filters/water separators to engines</li> <li>Fuel filters/water separators to generators</li> <li>Automatic bilge and flood pumps with high level alarms</li> <li>Generator exhaust silencers and water separators</li> <li>Engine exhaust dry risers and water injection</li> <li>Strainers to all raw water inlets</li> <li>Power steering - hydraulic control steering</li> <li>Garage door and trim tabs hydraulic control unit</li> <li>Lifting platform hydraulic control unit</li> <li>Air intakes fitted with emergency shut down flaps (automatically operated)</li> <li>Air extraction fans (AC) fitted with butterfly shutdown dampers</li> <li>Exhaust gas temperature sensor</li> <li>Fluorescent lights (AC)</li> <li>Engine room fire extinguishing system (FM200)</li> <li>1 x AC 220V Socket</li> <li>1 x 24v Socket</li> <li>Portable C02 fire extinguisher</li> <li>Inspection Lamp</li></ul>",
+        "<strong>Electrical</strong><br><ul> <li>MAN V12 1550</li> <li>19kw 50hz generator with underwater silent exhaust and sound shield</li> <li>AC dockside connection</li> <li>Galvanic isolator</li> <li>24v and 12v DC electrical system with full circuit breaker protection</li> <li>8 x engine batteries 24v circuit</li> <li>4 x domestic batteries 24v circuit</li> <li>2 x generator batteries 12v circuit</li> <li>Alternator split charging system</li> <li>Remote battery switches controlled from locker in cockpit</li> <li>Batterycharger for 24v circuits</li> <li>Batterycharger for 12v circuits</li> <li>Water heater</li> <li>AC electrical sockets through out the boat</li> <li>24v hand light and cable</li></ul>",
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
+      ],
+      "ExternalLink": [
+        {
+          "Uri": "http://www.sunseeker.com",
+          "Text": "",
+          "Type": "Manufacturer Website"
+        }
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "Luxury Sunseeker Predator 68 yacht, 2018 model, cruising on calm waters under a clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095237096-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm water with city skyline and clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095244688-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "Luxury Sunseeker Predator 68 yacht, 2018 model, cruising on calm waters under a blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095235981-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm ocean waters under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095238160-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:40-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean under blue sky with clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095239024-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:40-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht cruising on calm waters under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095240556-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:42-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht cruising on a serene, sunny day.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095241410-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:43-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm water under a blue sky with clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095242270-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:44-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean with city skyline in background.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095243082-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T10:07:45-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean with blue sky and clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095245504-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095246331-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "Top view of a 2018 Sunseeker Predator 68 yacht on dark water.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095246949-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095248636-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm water under a blue sky with clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095249519-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm waters under a blue sky with clouds.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095250350-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht cruising under a vibrant blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095251230-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm ocean waters under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095253083-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm blue waters under clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095254087-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm waters under a blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095255191-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean waters under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095256304-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm water under blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095258260-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "Luxury Sunseeker Predator 68 yacht on calm sea, 2018 model, under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095259532-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm blue waters under a clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095300625-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with elegant seating and wooden table, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095301544-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with cushioned seating, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095303385-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "25",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm ocean with clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095304279-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "26",
+          "Caption": "2018 Sunseeker Predator 68 yacht with outdoor seating, cruising on calm waters under a blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095305197-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "27",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht with spacious outdoor seating and dining area.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095306058-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "28",
+          "Caption": "Sunseeker Predator 68 yacht, 2018 model, featuring TracVision satellite domes against a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095307861-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "29",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht deck with seating and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095308732-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "30",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with ocean view, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095309615-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "31",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht interior with wooden table and ocean view, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095310557-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "32",
+          "Caption": "Outdoor kitchen on 2018 Sunseeker Predator 68 yacht, featuring grill and sink, ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095312361-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "33",
+          "Caption": "Sunseeker Predator 68 yacht deck, 2018 model, overlooking calm blue water.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095313248-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "34",
+          "Caption": "Staircase on 2018 Sunseeker Predator 68 yacht with sleek design and teak decking.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095314053-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "35",
+          "Caption": "Sunseeker Predator 68 yacht deck, 2018 model, featuring sleek design and teak flooring.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095314961-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "36",
+          "Caption": "2018 Sunseeker Predator 68 yacht with extended swim platform on calm sea.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095316965-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "37",
+          "Caption": "Sunseeker Predator 68 yacht, 2018 model, overlooking serene ocean waters under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095317873-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "38",
+          "Caption": "2018 Sunseeker Predator 68 yacht interior with storage compartment and hydraulic system.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095318731-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "39",
+          "Caption": "Sunseeker Predator 68 yacht's spacious sunbathing deck, 2018 model, on calm waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095319611-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "40",
+          "Caption": "Sunseeker Predator 68 yacht's sunbed area, 2018 model, with ocean view in the background.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095321714-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "41",
+          "Caption": "2018 Sunseeker Predator 68 yacht cruising on calm ocean waters under clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095322616-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "42",
+          "Caption": "2018 Sunseeker Predator 68 yacht on calm sea under blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095323506-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "43",
+          "Caption": "2018 Sunseeker Predator 68 yacht deck with open storage compartment and sunbathing area.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095324417-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "44",
+          "Caption": "Sunseeker Predator 68 yacht deck, 2018 model, overlooking calm ocean and cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095326353-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "45",
+          "Caption": "Sunseeker Predator 68 yacht, 2018 model, cruising on calm waters under a cloudy sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095327277-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "46",
+          "Caption": "Sunseeker Predator 68 yacht, 2018 model, featuring advanced Simrad and TracVision technology on open water.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095328164-3.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "47",
+          "Caption": "2018 Sunseeker Predator 68 yacht's swim platform on calm water.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095329059-4.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "48",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with ocean view and American flag, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095331103-1.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "49",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht interior with ocean view, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095332055-2.jpg",
+          "LastModifiedDateTime": "2026-06-26T14:41:38-08:00"
+        },
+        {
+          "Priority": "50",
+          "Caption": "Luxurious interior view of 2018 Sunseeker Predator 68 yacht with ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095337409-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "51",
+          "Caption": "Luxurious Sunseeker Predator 68 yacht deck with ocean view, 2018 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095333186-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "52",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with modern seating and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095357942-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "53",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with modern design and spacious seating.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095431478-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "54",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095428243-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "55",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with elegant white seating and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095420686-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "56",
+          "Caption": "Cockpit of 2018 Sunseeker Predator 68 yacht with advanced navigation systems and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095353355-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "57",
+          "Caption": "Interior view of 2018 Sunseeker Predator 68 yacht cockpit with ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095401244-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "58",
+          "Caption": "Luxurious 2018 Sunseeker Predator 68 yacht cockpit with modern navigation systems and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095425077-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "59",
+          "Caption": "Cockpit of 2018 Sunseeker Predator 68 yacht with navigation equipment and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095400134-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "60",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with panoramic windows and elegant seating.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095427184-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "61",
+          "Caption": "Interior view of 2018 Sunseeker Predator 68 yacht, showcasing sleek wooden stairs and modern design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095430275-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "62",
+          "Caption": "Luxurious interior staircase of 2018 Sunseeker Predator 68 yacht, featuring sleek wooden design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095336272-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "63",
+          "Caption": "Interior of 2018 Sunseeker Predator 68 yacht, featuring modern kitchen and wooden staircase.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095343790-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "64",
+          "Caption": "Modern kitchen interior on 2018 Sunseeker Predator 68 yacht with sleek cabinetry and appliances.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095416390-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "65",
+          "Caption": "Modern kitchen interior of 2018 Sunseeker Predator 68 yacht with sleek appliances and wood finishes.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095338503-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "66",
+          "Caption": "Luxurious kitchen interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095352294-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "67",
+          "Caption": "Modern kitchen interior of 2018 Sunseeker Predator 68 yacht with sleek black countertops.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095414314-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "68",
+          "Caption": "Modern kitchen interior of 2018 Sunseeker Predator 68 yacht with sleek black countertops.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095408771-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "69",
+          "Caption": "Interior view of 2018 Sunseeker Predator 68 yacht with ocean view through window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095339510-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "70",
+          "Caption": "Luxurious cabin interior of 2018 Sunseeker Predator 68 yacht with twin beds and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095341643-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "71",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095342716-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "72",
+          "Caption": "Luxurious bathroom on 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095344811-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "73",
+          "Caption": "Luxurious cabin interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095346798-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "74",
+          "Caption": "Luxurious bathroom in 2018 Sunseeker Predator 68 yacht with modern fixtures and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095347950-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "75",
+          "Caption": "Luxurious bathroom in 2018 Sunseeker Predator 68 yacht with modern fixtures and glass shower.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095349045-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "76",
+          "Caption": "Luxurious bedroom interior of 2018 Sunseeker Predator 68 yacht with elegant furnishings.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095350057-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "77",
+          "Caption": "Luxurious bedroom interior of 2018 Sunseeker Predator 68 yacht with skylight and modern design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095354491-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "78",
+          "Caption": "Luxurious bathroom on 2018 Sunseeker Predator 68 yacht with ocean view porthole.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095334224-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "79",
+          "Caption": "Luxurious bedroom interior of 2018 Sunseeker Predator 68 yacht with ocean view windows.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095355634-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "80",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095359059-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "81",
+          "Caption": "Luxurious twin cabin interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095403583-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "82",
+          "Caption": "Luxurious twin cabin interior of 2018 Sunseeker Predator 68 yacht, featuring modern design and amenities.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095404625-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "83",
+          "Caption": "Luxurious bathroom in 2018 Sunseeker Predator 68 yacht, featuring modern shower and sleek sink design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095405698-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "84",
+          "Caption": "Luxurious bathroom interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095406699-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "85",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095409815-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "86",
+          "Caption": "Luxurious cabin interior of 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095411887-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "87",
+          "Caption": "Luxurious bathroom on 2018 Sunseeker Predator 68 yacht with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095415310-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "88",
+          "Caption": "Luxurious bathroom interior of 2018 Sunseeker Predator 68 yacht with glass shower enclosure.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095417384-4.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "89",
+          "Caption": "Luxurious bathroom on 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095419621-1.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "90",
+          "Caption": "Luxurious bathroom in 2018 Sunseeker Predator 68 yacht with modern shower and sleek sink design.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095421703-3.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        },
+        {
+          "Priority": "91",
+          "Caption": "Luxurious interior of 2018 Sunseeker Predator 68 yacht with ocean view window.",
+          "Uri": "https://images.boatsgroup.com/images/1/17/71/2018-sunseeker-predator-68-power-10231771-20260626095426120-2.jpg",
+          "LastModifiedDateTime": "2026-06-29T11:22:33-08:00"
+        }
+      ],
+      "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        }
+      ],
+      "TotalEngineHoursNumeric": 2100
     },
     {
       "Source": "IMT",
