@@ -530,7 +530,7 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-10-07",
+      "LastModificationDate": "2026-10-12",
       "ItemReceivedDate": "2026-10-07",
       "OriginalPrice": "775000 USD",
       "Price": "775000.00 USD",
@@ -582,7 +582,7 @@
       "StockNumber": "",
       "NominalLength": "42 ft",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-10-07T15:45:03Z",
+      "IMTTimeStamp": "2026-10-12T16:22:45Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": false,
       "NormNominalLength": 12.8,
@@ -660,8 +660,280 @@
       ],
       "BoatClassCode": [
         "Center Consoles",
-        "Saltwater Fishing",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Saltwater Fishing"
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "2022 Freeman 42LR boat cruising swiftly on open ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090708313-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:09-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "2022 Freeman 42LR boat speeding on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090709184-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:10-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "2022 Freeman 42LR boat cruising on open water under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090713696-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:14-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2022 Freeman 42LR boat cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090705902-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:07-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2022 Freeman 42LR boat cruising on open water with cityscape in background.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090712668-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:14-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "Freeman 42LR 2022 boat cruising on open ocean under clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090706218-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:07-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "2022 Freeman 42LR boat cruising swiftly on open water.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090706645-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:07-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "2022 Freeman 42LR boat cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090707914-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:09-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2022 Freeman 42LR boat cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090708711-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:10-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "Freeman 42LR 2022 boat speeding on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090710378-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:11-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "2022 Freeman 42LR boat cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090710719-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:12-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "2022 Freeman 42LR boat cruising swiftly on open ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090711075-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:13-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "2022 Freeman 42LR boat cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090711464-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:12-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "2022 Freeman 42LR boat cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090712986-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:14-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "2022 Freeman 42LR boat cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090713350-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:14-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "Aerial view of 2022 Freeman 42LR boat speeding on water, creating dynamic wake patterns.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090705466-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:06-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "2022 Freeman 42LR boat with triple engines on open ocean under clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090714562-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:24-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "Freeman 42LR 2022 boat deck with ocean view and powerful engines.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090714872-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:16-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "Luxurious seating on 2022 Freeman 42LR boat with ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090715175-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:16-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "Luxurious seating on a 2022 Freeman 42LR boat, with ocean backdrop and clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090715426-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:16-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "Luxurious seating on a 2022 Freeman 42LR boat, with ocean backdrop and clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090716310-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:18-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "Luxurious seating on a 2022 Freeman 42LR boat, overlooking the ocean under a clear sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090716621-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:18-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "Luxurious 2022 Freeman 42LR boat with spacious deck, cruising on open ocean under clear skies.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090716949-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:18-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "Freeman 42LR 2022 boat with Garmin radar and Sionyx camera on deck.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090717996-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:20-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "Luxurious 2022 Freeman 42LR boat interior with ocean view and clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090719984-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:21-08:00"
+        },
+        {
+          "Priority": "25",
+          "Caption": "Freeman 42LR 2022 boat on open sea under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090717224-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:18-08:00"
+        },
+        {
+          "Priority": "26",
+          "Caption": "Dashboard of a 2022 Freeman 42LR boat with Garmin navigation display.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090718284-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:22-08:00"
+        },
+        {
+          "Priority": "27",
+          "Caption": "Control panel of 2022 Freeman 42LR boat with electronic displays and switches.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090718552-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:19-08:00"
+        },
+        {
+          "Priority": "28",
+          "Caption": "Freeman 42LR 2022 boat cockpit with advanced navigation screens, steering wheel, and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090718776-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:19-08:00"
+        },
+        {
+          "Priority": "29",
+          "Caption": "Control panel of a 2022 Freeman 42LR boat with navigation screens and steering wheel.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090719652-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:20-08:00"
+        },
+        {
+          "Priority": "30",
+          "Caption": "Interior view of 2022 Freeman 42LR boat cockpit with navigation screens and steering wheel.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090724717-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:45-08:00"
+        },
+        {
+          "Priority": "31",
+          "Caption": "Control panel of a 2022 Freeman 42LR boat with navigation screens and steering wheel.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090724980-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:35-08:00"
+        },
+        {
+          "Priority": "32",
+          "Caption": "Close-up of 2022 Freeman 42LR boat throttle controls and dashboard display.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090725251-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:26-08:00"
+        },
+        {
+          "Priority": "33",
+          "Caption": "Boat control panel with joystick on a 2022 Freeman 42LR, featuring Optimus 360 system.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090725569-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:34-08:00"
+        },
+        {
+          "Priority": "34",
+          "Caption": "Control panel on a 2022 Freeman 42LR boat dashboard with audio system.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090726180-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:27-08:00"
+        },
+        {
+          "Priority": "35",
+          "Caption": "Rooftop rod holders on a 2022 Freeman 42LR boat under a sunny sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090720264-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:21-08:00"
+        },
+        {
+          "Priority": "36",
+          "Caption": "2022 Freeman 42LR boat on open sea, featuring sleek design and spacious deck.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090721372-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:22-08:00"
+        },
+        {
+          "Priority": "37",
+          "Caption": "Luxury seating and storage on 2022 Freeman 42LR boat under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090723066-1.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:25-08:00"
+        },
+        {
+          "Priority": "38",
+          "Caption": "2022 Freeman 42LR boat on open water, featuring sleek white design and spacious deck.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090723317-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:26-08:00"
+        },
+        {
+          "Priority": "39",
+          "Caption": "2022 Freeman 42LR boat interior with open storage compartment, white seating, and ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090723547-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:26-08:00"
+        },
+        {
+          "Priority": "40",
+          "Caption": "Freeman 42LR 2022 boat deck with coiled hose and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090723833-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:24-08:00"
+        },
+        {
+          "Priority": "41",
+          "Caption": "Freeman 42LR 2022 boat deck with fishing rod holders and ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090720519-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:23-08:00"
+        },
+        {
+          "Priority": "42",
+          "Caption": "Interior of 2022 Freeman 42LR boat featuring control panel, toilet, and fire extinguisher.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090721962-3.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:42-08:00"
+        },
+        {
+          "Priority": "43",
+          "Caption": "2022 Freeman 42LR boat interior with control panel and marine toilet.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090721678-2.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:22-08:00"
+        },
+        {
+          "Priority": "44",
+          "Caption": "Boat bathroom interior with toilet and fire extinguisher, Freeman 42LR, 2022 model.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090722249-4.jpg",
+          "LastModifiedDateTime": "2026-10-12T09:22:34-08:00"
+        }
       ],
       "Marketing": [
         {
@@ -676,8 +948,8 @@
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Center Consoles",
-        "Saltwater Fishing",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Saltwater Fishing"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice."
