@@ -510,7 +510,7 @@
       "DocumentID": "10359681",
       "SalesStatus": "Inactive",
       "CoOpIndicator": "true",
-      "NumberOfEngines": 0,
+      "NumberOfEngines": 4,
       "RegistrationCountryCode": "0",
       "Owner": {
         "PartyId": "879366"
@@ -530,7 +530,7 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-10-12",
+      "LastModificationDate": "2026-10-13",
       "ItemReceivedDate": "2026-10-07",
       "OriginalPrice": "775000 USD",
       "Price": "775000.00 USD",
@@ -569,7 +569,7 @@
       "BallastWeightMeasure": null,
       "DisplacementMeasure": null,
       "DisplacementTypeCode": "",
-      "TotalEnginePowerQuantity": null,
+      "TotalEnginePowerQuantity": "1,600 hp",
       "DriveTypeCode": "",
       "BoatKeelCode": "",
       "ConvertibleSaloonIndicator": false,
@@ -582,12 +582,54 @@
       "StockNumber": "",
       "NominalLength": "42 ft",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-10-12T16:22:45Z",
+      "IMTTimeStamp": "2026-10-13T17:23:17Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": false,
       "NormNominalLength": 12.8,
       "NormPrice": 775000,
       "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "Mercury",
+          "Model": "Verado",
+          "Fuel": "unleaded",
+          "EnginePower": "400|horsepower",
+          "Type": "Outboard",
+          "PropellerType": "4 Blade, Stainless Steel",
+          "Year": 2022,
+          "Hours": 698
+        },
+        {
+          "Make": "Mercury",
+          "Model": "Verado",
+          "Fuel": "unleaded",
+          "EnginePower": "400|horsepower",
+          "Type": "Outboard",
+          "PropellerType": "4 Blade, Stainless Steel",
+          "Year": 2022,
+          "Hours": 698
+        },
+        {
+          "Make": "Mercury",
+          "Model": "Verado",
+          "Fuel": "unleaded",
+          "EnginePower": "400|horsepower",
+          "Type": "Outboard",
+          "PropellerType": "4 Blade, Stainless Steel",
+          "Year": 2022,
+          "Hours": 698
+        },
+        {
+          "Make": "Mercury",
+          "Model": "Verado",
+          "Fuel": "unleaded",
+          "EnginePower": "400|horsepower",
+          "Type": "Outboard",
+          "PropellerType": "4 Blade, Stainless Steel",
+          "Year": 2022,
+          "Hours": 698
+        }
+      ],
       "Service": [
         "yachtcloser.navbar",
         "package.advantage.select",
@@ -656,43 +698,51 @@
         "imt.tracker.regular"
       ],
       "GeneralBoatDescription": [
-        ""
+        "<p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\" id=\"isPasted\">2022 Freeman 42 LR</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Unique opportunity to perfectly spec'd, like-new 2022 Freeman 42LR — available for immediate delivery without the 2 year wait of a new build. This particular vessel was custom built by a highly knowledgeable owner with nearly every available option to create the ultimate do-it-all platform. Recently serviced and freshly detailed with updated upholstery and new isinglass, she is in truly turnkey condition. a 2025 Rocket Trailer is also included with the vessel.</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Notable highlights:</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Whisper Grey Hull with Matterhorn White Powder Coating</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Custom pipe design hardtop </p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Quad Mercury Verado 400s (Factory Warranty through 2027)</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Optimus Joystick Piloting System </p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Dual Garmin 8624 MFDs with Garmin Fantom Radar</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Dual SeaSwivel Mounts </p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Dual Lithium Batteries for trolling motors</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Extensive JL Audio System </p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Dual Icom VHF Radios</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Lumishore Full-Spectrum LED Lighting</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Dual-row Lebroc Helm Seating with folding armrests</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Upgraded Medium Grey Upholstery (2024)</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Actuated Hardtop Antennas</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Marsh Tacky Carbon Fiber Outriggers</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Leaning Post Tackle Center with insulated coolers</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Custom Mezzanine style removable upholstery</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Dual Seachests feeding four separate livewells</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Forward Coffin Box Lounge with folding armrests</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Custom Recessed Windlass System with wireless remote</p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">This Freeman 42LR represents a rare opportunity to step into a top-spec, professionally maintained vessel without delay. Whether you're chasing pelagics offshore, cruising the Bahamas , or entertaining at the sandbar this boat delivers on all fronts. </p><p style=\"font-size: 16px; font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; box-sizing: border-box; margin: 0px 0px 30px; line-height: 1.5; color: rgb(72, 70, 67); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;\">Available for showings by appointment only. </p><p><br></p><p><br></p>"
       ],
       "BoatClassCode": [
         "Center Consoles",
-        "Sports Fishing Boats",
-        "Saltwater Fishing"
+        "Saltwater Fishing",
+        "Sports Fishing Boats"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Center Consoles",
+        "Saltwater Fishing",
+        "Sports Fishing Boats"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
       ],
       "Images": [
         {
           "Priority": "0",
-          "Caption": "2022 Freeman 42LR boat cruising swiftly on open ocean waters.",
-          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090708313-2.jpg",
-          "LastModifiedDateTime": "2026-10-12T09:22:09-08:00"
+          "Caption": "2022 Freeman 42LR boat cruising on open water under a clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090713696-4.jpg",
+          "LastModifiedDateTime": "2026-10-13T10:23:17-08:00"
         },
         {
           "Priority": "1",
-          "Caption": "2022 Freeman 42LR boat speeding on open ocean under clear blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090709184-4.jpg",
-          "LastModifiedDateTime": "2026-10-12T09:22:10-08:00"
+          "Caption": "2022 Freeman 42LR boat cruising on open water with cityscape in background.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090712668-1.jpg",
+          "LastModifiedDateTime": "2026-10-13T10:23:17-08:00"
         },
         {
           "Priority": "2",
-          "Caption": "2022 Freeman 42LR boat cruising on open water under a clear blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090713696-4.jpg",
-          "LastModifiedDateTime": "2026-10-12T09:22:14-08:00"
+          "Caption": "2022 Freeman 42LR boat cruising swiftly on open ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090708313-2.jpg",
+          "LastModifiedDateTime": "2026-10-13T10:23:17-08:00"
         },
         {
           "Priority": "3",
-          "Caption": "2022 Freeman 42LR boat cruising on open ocean under clear blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090705902-2.jpg",
-          "LastModifiedDateTime": "2026-10-12T09:22:07-08:00"
+          "Caption": "2022 Freeman 42LR boat speeding on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090709184-4.jpg",
+          "LastModifiedDateTime": "2026-10-13T10:23:17-08:00"
         },
         {
           "Priority": "4",
-          "Caption": "2022 Freeman 42LR boat cruising on open water with cityscape in background.",
-          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090712668-1.jpg",
-          "LastModifiedDateTime": "2026-10-12T09:22:14-08:00"
+          "Caption": "2022 Freeman 42LR boat cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/96/81/2022-freeman-42lr-power-10359681-20261012090705902-2.jpg",
+          "LastModifiedDateTime": "2026-10-13T10:23:17-08:00"
         },
         {
           "Priority": "5",
@@ -946,14 +996,7 @@
           "MarketingID": ""
         }
       ],
-      "BoatClassCodeNoCaseAlnumOnly": [
-        "Center Consoles",
-        "Sports Fishing Boats",
-        "Saltwater Fishing"
-      ],
-      "AdditionalDetailDescription": [
-        "<strong>Disclaimer</strong><br>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice."
-      ]
+      "TotalEngineHoursNumeric": 2792
     },
     {
       "Source": "IMT",
