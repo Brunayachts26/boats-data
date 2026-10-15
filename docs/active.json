@@ -3,494 +3,6 @@
   "results": [
     {
       "Source": "IMT",
-      "DocumentID": "10357985",
-      "SalesStatus": "Active",
-      "CoOpIndicator": "true",
-      "NumberOfEngines": 3,
-      "RegistrationCountryCode": "0",
-      "Owner": {
-        "PartyId": "879366"
-      },
-      "SalesRep": {
-        "PartyId": "879383",
-        "Name": "Esteban Bruna"
-      },
-      "CompanyName": "Bruna Yacht Group",
-      "Office": {
-        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
-        "City": "Coral Gables",
-        "State": "FL",
-        "PostCode": "33134",
-        "Country": "US",
-        "Email": "esteban@brunayachtgroup.com",
-        "Phone": "3054315855",
-        "Name": "Bruna Yacht Group"
-      },
-      "LastModificationDate": "2026-10-05",
-      "ItemReceivedDate": "2026-10-05",
-      "OriginalPrice": "599000 USD",
-      "Price": "599000.00 USD",
-      "PriceHideInd": false,
-      "EmbeddedVideoPresent": true,
-      "Image360PhotoPresent": false,
-      "ImmersiveTourPresent": false,
-      "BoatLocation": {
-        "BoatCityName": "Naples",
-        "BoatCountryID": "US",
-        "BoatStateCode": "FL"
-      },
-      "BoatCityNameNoCaseAlnumOnly": "Naples",
-      "MakeString": "Yellowfin",
-      "MakeStringExact": "Yellowfin",
-      "MakeStringNoCaseAlnumOnly": "Yellowfin",
-      "ModelYear": 2022,
-      "SaleClassCode": "Used",
-      "Model": "42 Offshore",
-      "ModelExact": "42 Offshore",
-      "ModelNoCaseAlnumOnly": "42 Offshore",
-      "BoatCategoryCode": "Power",
-      "BoatName": "",
-      "BoatNameNoCaseAlnumOnly": "",
-      "BuilderName": "",
-      "DesignerName": "",
-      "CruisingSpeedMeasure": null,
-      "PropellerCruisingSpeed": "",
-      "MaximumSpeedMeasure": null,
-      "RangeMeasure": null,
-      "BridgeClearanceMeasure": null,
-      "BeamMeasure": "12 ft",
-      "FreeBoardMeasure": null,
-      "CabinHeadroomMeasure": null,
-      "WaterTankCountNumeric": 1,
-      "WaterTankCapacityMeasure": "60|gallon",
-      "WaterTankMaterialCode": "",
-      "FuelTankCountNumeric": 1,
-      "FuelTankCapacityMeasure": "571|gallon",
-      "FuelTankMaterialCode": "",
-      "DryWeightMeasure": "15,000 lb",
-      "BallastWeightMeasure": null,
-      "DisplacementMeasure": null,
-      "DisplacementTypeCode": "",
-      "TotalEnginePowerQuantity": "1,275 hp",
-      "DriveTypeCode": "",
-      "BoatKeelCode": "",
-      "ConvertibleSaloonIndicator": false,
-      "WindlassTypeCode": "",
-      "DeadriseMeasure": null,
-      "ElectricalCircuitMeasure": null,
-      "TrimTabsIndicator": false,
-      "BoatHullMaterialCode": "Fiberglass",
-      "BoatHullID": "YFY421731122",
-      "StockNumber": "",
-      "NominalLength": "42 ft",
-      "LengthOverall": "42 ft",
-      "ListingTitle": "New arrival",
-      "BcnaID": "10357985",
-      "BtolID": "105963255",
-      "YachtWorldID": "10357985",
-      "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-10-05T22:45:57Z",
-      "HasBoatHullID": true,
-      "IsAvailableForPls": true,
-      "NormNominalLength": 12.8,
-      "NormPrice": 599000,
-      "OptionActiveIndicator": false,
-      "Engines": [
-        {
-          "Make": "Yamaha",
-          "Model": "425 XTO",
-          "Fuel": "unleaded",
-          "EnginePower": "425|horsepower",
-          "Type": "Outboard",
-          "PropellerType": "Stainless Steel",
-          "Year": 2022,
-          "Hours": 138,
-          "BoatEngineLocationCode": "Port"
-        },
-        {
-          "Make": "Yamaha",
-          "Model": "425 XTO",
-          "Fuel": "unleaded",
-          "EnginePower": "425|horsepower",
-          "Type": "Outboard",
-          "PropellerType": "Stainless Steel",
-          "Year": 2022,
-          "Hours": 138,
-          "BoatEngineLocationCode": "Center"
-        },
-        {
-          "Make": "Yamaha",
-          "Model": "425 XTO",
-          "Fuel": "unleaded",
-          "EnginePower": "425|horsepower",
-          "Type": "Outboard",
-          "PropellerType": "Stainless Steel",
-          "Year": 2022,
-          "Hours": 138,
-          "BoatEngineLocationCode": "Starboard"
-        }
-      ],
-      "Service": [
-        "yachtcloser.navbar",
-        "package.advantage.select",
-        "bw3.provisioning",
-        "verified-popup",
-        "verifiedcustomer",
-        "mobile-phone-popup",
-        "bwreports.searchdemand",
-        "bwreports.listingoptimizer",
-        "bwreports.marketinsights",
-        "proseller.market.eval",
-        "btol.homepage.rotational.listings",
-        "yw.homepage.rotational.listings",
-        "btol.enhanced.all.listings",
-        "yw.enhanced.all.listings",
-        "btol.sponsored.all.listings",
-        "yw.sponsored.all.listings",
-        "btol.advantagesort.select",
-        "yw.advantagesort.select",
-        "trident.hidetridentfeatures",
-        "btol.advantageemail",
-        "yw.advantageemail",
-        "boats.com.callrecording",
-        "yw.callrecording",
-        "btol.callrecording",
-        "boats.com.calltracking",
-        "yw.calltracking",
-        "btol.calltracking",
-        "import.yachtcloser",
-        "imt.beta",
-        "branding.imt.features.boats.display",
-        "imt.product.boat",
-        "imt.vbs.auto",
-        "lead.export.leadsmart.premium.buyerintent",
-        "lead.export.leadsmart.premium",
-        "lead.export.leadsmart",
-        "lead.export.dealer",
-        "imt.expiry",
-        "btol.callbuttonimtreporting",
-        "btol.inventorylistingpage",
-        "btol.dealergallary",
-        "btol.dealerreporting",
-        "btol",
-        "export.yw",
-        "boats.com.service.level.premium",
-        "branding.imt.features.trailers.display",
-        "branding.imt.features.engines.display",
-        "account.type.dealer",
-        "account.type.broker",
-        "lm.pbs",
-        "soldboats",
-        "soldboats.contracted",
-        "yw",
-        "imt.product.trailer",
-        "imt.product.engine",
-        "imt.vbs",
-        "boats.com.c2a.buy",
-        "boats.com.c2a.more",
-        "boats.com.c2a.brochure",
-        "boats.com.c2a.appointment",
-        "boats.com.c2a.tradein",
-        "boats.com",
-        "branding.imt.bw",
-        "export.btol",
-        "export.boats",
-        "imt.tracker.regular"
-      ],
-      "GeneralBoatDescription": [
-        "2022 Yellowfin 42 Offshore<p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" id=\"isPasted\">Unique opportunity to acquire one of the last Wylie Nagler-built Yellowfin 42 Offshores in pristine condition. Owned by a multiple-Yellowfin owner, this 42 has been thoughtfully outfitted with everything you need and nothing you don’t.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Finished in a super-clean Ice Blue and powered by the highly desirable triple Yamaha 425 XTOs with less than 150 hours, this particular 42 Offshore has been lightly used, always lift-kept, and exceptionally well cared for.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Highlights include dual Garmin 8624 displays, 12kW open-array radar, dual-row seating, new custom upholstery, cabin A/C, bow thruster, solid-glass windshield, Gemlux carbon outriggers, side dive door, aft bait station with refrigerator, and a massive JL Audio system.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">A rare opportunity to own a low-hour, properly equipped 42 Offshore with the right power, options, and ownership history.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Notable Features & Equipment:</p><ul> <li><p>Triple Yamaha 425 XTO outboards with less than 150 hours (under warranty)</p></li> <li><p>Dual Garmin 8624 MFD</p></li> <li><p>Garmin 12kW open-array radar</p></li> <li><p>Dual-row helm seating</p></li> <li><p>New custom upholstery</p></li> <li><p>Solid-glass windshield</p></li> <li><p>Bow thruster</p></li> <li><p>Air-conditioned cabin</p></li> <li><p>Massive JL Audio sound system</p></li> <li><p>Gemlux carbon-fiber outriggers</p></li> <li><p>Side dive door</p></li> <li><p>Aft bait station</p></li> <li><p>Aft refrigerator</p></li></ul><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">With extremely low hours, warranty remaining on her Yamaha 425 XTOs, and a desirable combination of fishing and cruising options, this represents a turn-key opportunity for a buyer looking for one of the premier large center consoles on the market.</p><p style=\"orphans: 2; text-align: start; text-indent: 0px; widows: 2;\"><span style=\"font-weight: 400;\">Showings </span>available<span style=\"font-weight: 400;\"> by appointment only in Naples, FL.</span></p>"
-      ],
-      "Videos": {
-        "title": [
-          "Yellowfin 42 running in Naples, FL"
-        ],
-        "desc": [
-          ""
-        ],
-        "thumbnailUrl": [
-          "https://images.boatsgroup.com/resize/1/79/85/10357985_20261005215704000.jpg"
-        ],
-        "url": [
-          "https://images.boats.com/videos/1/79/85/10357985_20261005215704000.mp4"
-        ]
-      },
-      "BoatClassCode": [
-        "Center Consoles",
-        "Sports Fishing Boats",
-        "Saltwater Fishing"
-      ],
-      "EmbeddedVideo": [
-        "https://images.boats.com/videos/1/79/85/10357985_20261005215704000.mp4|Yellowfin 42 running in Naples, FL"
-      ],
-      "BoatClassCodeNoCaseAlnumOnly": [
-        "Center Consoles",
-        "Sports Fishing Boats",
-        "Saltwater Fishing"
-      ],
-      "AdditionalDetailDescription": [
-        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
-      ],
-      "ExternalLink": [
-        {
-          "Uri": "http://www.yellowfin.com",
-          "Text": "",
-          "Type": "Manufacturer Website"
-        }
-      ],
-      "Images": [
-        {
-          "Priority": "0",
-          "Caption": "2022 Yellowfin 42 Offshore boat on open sea under clear blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145118468-1.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "1",
-          "Caption": "2022 Yellowfin 42 Offshore boat on open sea under clear blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145119024-2.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "2",
-          "Caption": "2022 Yellowfin 42 Offshore boat with triple engines on open sea.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145119544-3.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "3",
-          "Caption": "2022 Yellowfin 42 Offshore boat on calm ocean under blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145120007-4.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "4",
-          "Caption": "2022 Yellowfin 42 Offshore boat on calm ocean waters under blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145129125-1.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "5",
-          "Caption": "Aerial view of 2022 Yellowfin 42 Offshore boat on green water.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145129641-2.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "6",
-          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open ocean under clear blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152611084-1.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:41:12-08:00"
-        },
-        {
-          "Priority": "7",
-          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open ocean waters.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152611366-2.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:41:12-08:00"
-        },
-        {
-          "Priority": "8",
-          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open ocean waters.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152611697-3.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:41:13-08:00"
-        },
-        {
-          "Priority": "9",
-          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open sea under clear blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152611988-4.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:41:13-08:00"
-        },
-        {
-          "Priority": "10",
-          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open water under clear blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152612747-1.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:41:13-08:00"
-        },
-        {
-          "Priority": "11",
-          "Caption": "2022 Yellowfin 42 Offshore boat deck with triple Yamaha XTO V8 engines.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145130305-3.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "12",
-          "Caption": "2022 Yellowfin 42 Offshore boat with open transom door, ocean view.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145131129-4.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "13",
-          "Caption": "2022 Yellowfin 42 Offshore boat with triple Yamaha V8 engines on open water.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145146570-1.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "14",
-          "Caption": "Triple Yamaha V8 engines on a 2022 Yellowfin 42 Offshore boat.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145147437-2.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "15",
-          "Caption": "2022 Yellowfin 42 Offshore boat on open water, showcasing sleek design and spacious deck.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145148378-3.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "16",
-          "Caption": "2022 Yellowfin 42 Offshore boat deck with ocean view, featuring sleek design and comfortable seating.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145149310-4.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "17",
-          "Caption": "2022 Yellowfin 42 Offshore boat interior with ocean view, featuring seating and fishing rods.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145203063-1.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "18",
-          "Caption": "2022 Yellowfin 42 Offshore boat interior with storage compartment and stainless steel door.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145204247-2.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "19",
-          "Caption": "2022 Yellowfin 42 Offshore boat with onboard sink and counter, ocean backdrop.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145205173-3.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "20",
-          "Caption": "2022 Yellowfin 42 Offshore boat interior with helm, ocean view, and luxury seating.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145206205-4.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "21",
-          "Caption": "2022 Yellowfin 42 Offshore boat helm with dual navigation screens on open sea.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145230229-1.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "22",
-          "Caption": "2022 Yellowfin 42 Offshore boat canopy with ocean view.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145231050-2.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "23",
-          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat with ocean backdrop.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145231877-3.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "24",
-          "Caption": "2022 Yellowfin 42 Offshore boat with tan and blue seating, ocean backdrop.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145232729-4.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "25",
-          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat, featuring diamond-stitched upholstery.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145244117-1.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "26",
-          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat, featuring tan and blue upholstery.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145244928-2.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "27",
-          "Caption": "2022 Yellowfin 42 Offshore boat with cushioned seating, ocean view, and clear blue sky.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145245904-3.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "28",
-          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat, featuring diamond-stitched upholstery.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145246678-4.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "29",
-          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat with tan and blue accents.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145257465-1.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "30",
-          "Caption": "2022 Yellowfin 42 Offshore cabin interior with seating, microwave, and wooden flooring.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145258373-2.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        },
-        {
-          "Priority": "31",
-          "Caption": "2022 Yellowfin 42 Offshore boat interior with toilet, sink, and control panels.",
-          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145259527-3.jpg",
-          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
-        }
-      ],
-      "Marketing": [
-        {
-          "OpportunityType": "",
-          "OpportunityMethod": "New arrival",
-          "ProgramID": "TagLine",
-          "ProgramDescription": "",
-          "ProgramOffer": "",
-          "PublicationID": "",
-          "MarketingID": ""
-        },
-        {
-          "OpportunityType": "",
-          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
-          "ProgramID": "PUBLIC",
-          "ProgramDescription": "",
-          "ProgramOffer": "",
-          "PublicationID": "",
-          "MarketingID": ""
-        },
-        {
-          "OpportunityType": "imt",
-          "OpportunityMethod": "",
-          "ProgramID": "remoteProductId",
-          "ProgramDescription": "",
-          "ProgramOffer": "",
-          "PublicationID": "boats",
-          "MarketingID": "10357985"
-        },
-        {
-          "OpportunityType": "imt",
-          "OpportunityMethod": "",
-          "ProgramID": "remoteProductId",
-          "ProgramDescription": "",
-          "ProgramOffer": "",
-          "PublicationID": "btol",
-          "MarketingID": "105963255"
-        },
-        {
-          "OpportunityType": "imt",
-          "OpportunityMethod": "",
-          "ProgramID": "remoteProductId",
-          "ProgramDescription": "",
-          "ProgramOffer": "",
-          "PublicationID": "yw",
-          "MarketingID": "10357985"
-        },
-        {
-          "OpportunityType": "imt",
-          "OpportunityMethod": "",
-          "ProgramID": "remoteProductId",
-          "ProgramDescription": "",
-          "ProgramOffer": "",
-          "PublicationID": "adobe.saint",
-          "MarketingID": "10357985"
-        }
-      ],
-      "TotalEngineHoursNumeric": 414
-    },
-    {
-      "Source": "IMT",
       "DocumentID": "10315429",
       "SalesStatus": "Active",
       "CoOpIndicator": "true",
@@ -514,7 +26,7 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-09-09",
+      "LastModificationDate": "2026-10-14",
       "ItemReceivedDate": "2026-09-06",
       "OriginalPrice": "115000 USD",
       "Price": "115000.00 USD",
@@ -574,7 +86,7 @@
       "YachtWorldID": "10315429",
       "DriveUp": "1.58 ft",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-09-09T20:39:47Z",
+      "IMTTimeStamp": "2026-10-14T19:01:09Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": true,
       "NormNominalLength": 7.92,
@@ -850,6 +362,494 @@
     },
     {
       "Source": "IMT",
+      "DocumentID": "10357985",
+      "SalesStatus": "Active",
+      "CoOpIndicator": "true",
+      "NumberOfEngines": 3,
+      "RegistrationCountryCode": "0",
+      "Owner": {
+        "PartyId": "879366"
+      },
+      "SalesRep": {
+        "PartyId": "879383",
+        "Name": "Esteban Bruna"
+      },
+      "CompanyName": "Bruna Yacht Group",
+      "Office": {
+        "PostalAddress": "1600 Ponce De Leon Blvd 1201",
+        "City": "Coral Gables",
+        "State": "FL",
+        "PostCode": "33134",
+        "Country": "US",
+        "Email": "esteban@brunayachtgroup.com",
+        "Phone": "3054315855",
+        "Name": "Bruna Yacht Group"
+      },
+      "LastModificationDate": "2026-10-14",
+      "ItemReceivedDate": "2026-10-05",
+      "OriginalPrice": "599000 USD",
+      "Price": "599000.00 USD",
+      "PriceHideInd": false,
+      "EmbeddedVideoPresent": true,
+      "Image360PhotoPresent": false,
+      "ImmersiveTourPresent": false,
+      "BoatLocation": {
+        "BoatCityName": "Naples",
+        "BoatCountryID": "US",
+        "BoatStateCode": "FL"
+      },
+      "BoatCityNameNoCaseAlnumOnly": "Naples",
+      "MakeString": "Yellowfin",
+      "MakeStringExact": "Yellowfin",
+      "MakeStringNoCaseAlnumOnly": "Yellowfin",
+      "ModelYear": 2022,
+      "SaleClassCode": "Used",
+      "Model": "42 Offshore",
+      "ModelExact": "42 Offshore",
+      "ModelNoCaseAlnumOnly": "42 Offshore",
+      "BoatCategoryCode": "Power",
+      "BoatName": "",
+      "BoatNameNoCaseAlnumOnly": "",
+      "BuilderName": "",
+      "DesignerName": "",
+      "CruisingSpeedMeasure": null,
+      "PropellerCruisingSpeed": "",
+      "MaximumSpeedMeasure": null,
+      "RangeMeasure": null,
+      "BridgeClearanceMeasure": null,
+      "BeamMeasure": "12 ft",
+      "FreeBoardMeasure": null,
+      "CabinHeadroomMeasure": null,
+      "WaterTankCountNumeric": 1,
+      "WaterTankCapacityMeasure": "60|gallon",
+      "WaterTankMaterialCode": "",
+      "FuelTankCountNumeric": 1,
+      "FuelTankCapacityMeasure": "571|gallon",
+      "FuelTankMaterialCode": "",
+      "DryWeightMeasure": "15,000 lb",
+      "BallastWeightMeasure": null,
+      "DisplacementMeasure": null,
+      "DisplacementTypeCode": "",
+      "TotalEnginePowerQuantity": "1,275 hp",
+      "DriveTypeCode": "",
+      "BoatKeelCode": "",
+      "ConvertibleSaloonIndicator": false,
+      "WindlassTypeCode": "",
+      "DeadriseMeasure": null,
+      "ElectricalCircuitMeasure": null,
+      "TrimTabsIndicator": false,
+      "BoatHullMaterialCode": "Fiberglass",
+      "BoatHullID": "YFY421731122",
+      "StockNumber": "",
+      "NominalLength": "42 ft",
+      "LengthOverall": "42 ft",
+      "ListingTitle": "New arrival",
+      "BcnaID": "10357985",
+      "BtolID": "105963255",
+      "YachtWorldID": "10357985",
+      "TaxStatusCode": "",
+      "IMTTimeStamp": "2026-10-14T19:01:09Z",
+      "HasBoatHullID": true,
+      "IsAvailableForPls": true,
+      "NormNominalLength": 12.8,
+      "NormPrice": 599000,
+      "OptionActiveIndicator": false,
+      "Engines": [
+        {
+          "Make": "Yamaha",
+          "Model": "425 XTO",
+          "Fuel": "unleaded",
+          "EnginePower": "425|horsepower",
+          "Type": "Outboard",
+          "PropellerType": "Stainless Steel",
+          "Year": 2022,
+          "Hours": 138,
+          "BoatEngineLocationCode": "Port"
+        },
+        {
+          "Make": "Yamaha",
+          "Model": "425 XTO",
+          "Fuel": "unleaded",
+          "EnginePower": "425|horsepower",
+          "Type": "Outboard",
+          "PropellerType": "Stainless Steel",
+          "Year": 2022,
+          "Hours": 138,
+          "BoatEngineLocationCode": "Center"
+        },
+        {
+          "Make": "Yamaha",
+          "Model": "425 XTO",
+          "Fuel": "unleaded",
+          "EnginePower": "425|horsepower",
+          "Type": "Outboard",
+          "PropellerType": "Stainless Steel",
+          "Year": 2022,
+          "Hours": 138,
+          "BoatEngineLocationCode": "Starboard"
+        }
+      ],
+      "Service": [
+        "yachtcloser.navbar",
+        "package.advantage.select",
+        "bw3.provisioning",
+        "verified-popup",
+        "verifiedcustomer",
+        "mobile-phone-popup",
+        "bwreports.searchdemand",
+        "bwreports.listingoptimizer",
+        "bwreports.marketinsights",
+        "proseller.market.eval",
+        "btol.homepage.rotational.listings",
+        "yw.homepage.rotational.listings",
+        "btol.enhanced.all.listings",
+        "yw.enhanced.all.listings",
+        "btol.sponsored.all.listings",
+        "yw.sponsored.all.listings",
+        "btol.advantagesort.select",
+        "yw.advantagesort.select",
+        "trident.hidetridentfeatures",
+        "btol.advantageemail",
+        "yw.advantageemail",
+        "boats.com.callrecording",
+        "yw.callrecording",
+        "btol.callrecording",
+        "boats.com.calltracking",
+        "yw.calltracking",
+        "btol.calltracking",
+        "import.yachtcloser",
+        "imt.beta",
+        "branding.imt.features.boats.display",
+        "imt.product.boat",
+        "imt.vbs.auto",
+        "lead.export.leadsmart.premium.buyerintent",
+        "lead.export.leadsmart.premium",
+        "lead.export.leadsmart",
+        "lead.export.dealer",
+        "imt.expiry",
+        "btol.callbuttonimtreporting",
+        "btol.inventorylistingpage",
+        "btol.dealergallary",
+        "btol.dealerreporting",
+        "btol",
+        "export.yw",
+        "boats.com.service.level.premium",
+        "branding.imt.features.trailers.display",
+        "branding.imt.features.engines.display",
+        "account.type.dealer",
+        "account.type.broker",
+        "lm.pbs",
+        "soldboats",
+        "soldboats.contracted",
+        "yw",
+        "imt.product.trailer",
+        "imt.product.engine",
+        "imt.vbs",
+        "boats.com.c2a.buy",
+        "boats.com.c2a.more",
+        "boats.com.c2a.brochure",
+        "boats.com.c2a.appointment",
+        "boats.com.c2a.tradein",
+        "boats.com",
+        "branding.imt.bw",
+        "export.btol",
+        "export.boats",
+        "imt.tracker.regular"
+      ],
+      "GeneralBoatDescription": [
+        "2022 Yellowfin 42 Offshore<p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" id=\"isPasted\">Unique opportunity to acquire one of the last Wylie Nagler-built Yellowfin 42 Offshores in pristine condition. Owned by a multiple-Yellowfin owner, this 42 has been thoughtfully outfitted with everything you need and nothing you don’t.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Finished in a super-clean Ice Blue and powered by the highly desirable triple Yamaha 425 XTOs with less than 150 hours, this particular 42 Offshore has been lightly used, always lift-kept, and exceptionally well cared for.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Highlights include dual Garmin 8624 displays, 12kW open-array radar, dual-row seating, new custom upholstery, cabin A/C, bow thruster, solid-glass windshield, Gemlux carbon outriggers, side dive door, aft bait station with refrigerator, and a massive JL Audio system.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">A rare opportunity to own a low-hour, properly equipped 42 Offshore with the right power, options, and ownership history.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Notable Features & Equipment:</p><ul> <li><p>Triple Yamaha 425 XTO outboards with less than 150 hours (under warranty)</p></li> <li><p>Dual Garmin 8624 MFD</p></li> <li><p>Garmin 12kW open-array radar</p></li> <li><p>Dual-row helm seating</p></li> <li><p>New custom upholstery</p></li> <li><p>Solid-glass windshield</p></li> <li><p>Bow thruster</p></li> <li><p>Air-conditioned cabin</p></li> <li><p>Massive JL Audio sound system</p></li> <li><p>Gemlux carbon-fiber outriggers</p></li> <li><p>Side dive door</p></li> <li><p>Aft bait station</p></li> <li><p>Aft refrigerator</p></li></ul><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-line: none; text-decoration-thickness: auto; text-decoration-style: solid; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">With extremely low hours, warranty remaining on her Yamaha 425 XTOs, and a desirable combination of fishing and cruising options, this represents a turn-key opportunity for a buyer looking for one of the premier large center consoles on the market.</p><p style=\"orphans: 2; text-align: start; text-indent: 0px; widows: 2;\"><span style=\"font-weight: 400;\">Showings </span>available<span style=\"font-weight: 400;\"> by appointment only in Naples, FL.</span></p>"
+      ],
+      "Videos": {
+        "title": [
+          "Yellowfin 42 running in Naples, FL"
+        ],
+        "desc": [
+          ""
+        ],
+        "thumbnailUrl": [
+          "https://images.boatsgroup.com/resize/1/79/85/10357985_20261005215704000.jpg"
+        ],
+        "url": [
+          "https://images.boats.com/videos/1/79/85/10357985_20261005215704000.mp4"
+        ]
+      },
+      "BoatClassCode": [
+        "Center Consoles",
+        "Saltwater Fishing",
+        "Sports Fishing Boats"
+      ],
+      "EmbeddedVideo": [
+        "https://images.boats.com/videos/1/79/85/10357985_20261005215704000.mp4|Yellowfin 42 running in Naples, FL"
+      ],
+      "BoatClassCodeNoCaseAlnumOnly": [
+        "Center Consoles",
+        "Saltwater Fishing",
+        "Sports Fishing Boats"
+      ],
+      "AdditionalDetailDescription": [
+        "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
+      ],
+      "ExternalLink": [
+        {
+          "Uri": "http://www.yellowfin.com",
+          "Text": "",
+          "Type": "Manufacturer Website"
+        }
+      ],
+      "Images": [
+        {
+          "Priority": "0",
+          "Caption": "2022 Yellowfin 42 Offshore boat on open sea under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145118468-1.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "1",
+          "Caption": "2022 Yellowfin 42 Offshore boat on open sea under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145119024-2.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "2",
+          "Caption": "2022 Yellowfin 42 Offshore boat with triple engines on open sea.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145119544-3.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "3",
+          "Caption": "2022 Yellowfin 42 Offshore boat on calm ocean under blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145120007-4.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "4",
+          "Caption": "2022 Yellowfin 42 Offshore boat on calm ocean waters under blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145129125-1.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "5",
+          "Caption": "Aerial view of 2022 Yellowfin 42 Offshore boat on green water.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145129641-2.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "6",
+          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open ocean under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152611084-1.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:41:12-08:00"
+        },
+        {
+          "Priority": "7",
+          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152611366-2.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:41:12-08:00"
+        },
+        {
+          "Priority": "8",
+          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open ocean waters.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152611697-3.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:41:13-08:00"
+        },
+        {
+          "Priority": "9",
+          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open sea under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152611988-4.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:41:13-08:00"
+        },
+        {
+          "Priority": "10",
+          "Caption": "2022 Yellowfin 42 Offshore boat cruising on open water under clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005152612747-1.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:41:13-08:00"
+        },
+        {
+          "Priority": "11",
+          "Caption": "2022 Yellowfin 42 Offshore boat deck with triple Yamaha XTO V8 engines.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145130305-3.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "12",
+          "Caption": "2022 Yellowfin 42 Offshore boat with open transom door, ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145131129-4.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "13",
+          "Caption": "2022 Yellowfin 42 Offshore boat with triple Yamaha V8 engines on open water.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145146570-1.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "14",
+          "Caption": "Triple Yamaha V8 engines on a 2022 Yellowfin 42 Offshore boat.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145147437-2.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "15",
+          "Caption": "2022 Yellowfin 42 Offshore boat on open water, showcasing sleek design and spacious deck.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145148378-3.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "16",
+          "Caption": "2022 Yellowfin 42 Offshore boat deck with ocean view, featuring sleek design and comfortable seating.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145149310-4.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "17",
+          "Caption": "2022 Yellowfin 42 Offshore boat interior with ocean view, featuring seating and fishing rods.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145203063-1.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "18",
+          "Caption": "2022 Yellowfin 42 Offshore boat interior with storage compartment and stainless steel door.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145204247-2.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "19",
+          "Caption": "2022 Yellowfin 42 Offshore boat with onboard sink and counter, ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145205173-3.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "20",
+          "Caption": "2022 Yellowfin 42 Offshore boat interior with helm, ocean view, and luxury seating.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145206205-4.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "21",
+          "Caption": "2022 Yellowfin 42 Offshore boat helm with dual navigation screens on open sea.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145230229-1.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "22",
+          "Caption": "2022 Yellowfin 42 Offshore boat canopy with ocean view.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145231050-2.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "23",
+          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat with ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145231877-3.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "24",
+          "Caption": "2022 Yellowfin 42 Offshore boat with tan and blue seating, ocean backdrop.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145232729-4.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "25",
+          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat, featuring diamond-stitched upholstery.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145244117-1.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "26",
+          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat, featuring tan and blue upholstery.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145244928-2.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "27",
+          "Caption": "2022 Yellowfin 42 Offshore boat with cushioned seating, ocean view, and clear blue sky.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145245904-3.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "28",
+          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat, featuring diamond-stitched upholstery.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145246678-4.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "29",
+          "Caption": "Luxurious seating on 2022 Yellowfin 42 Offshore boat with tan and blue accents.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145257465-1.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "30",
+          "Caption": "2022 Yellowfin 42 Offshore cabin interior with seating, microwave, and wooden flooring.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145258373-2.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        },
+        {
+          "Priority": "31",
+          "Caption": "2022 Yellowfin 42 Offshore boat interior with toilet, sink, and control panels.",
+          "Uri": "https://images.boatsgroup.com/images/1/79/85/2022-yellowfin-42-offshore-power-10357985-20261005145259527-3.jpg",
+          "LastModifiedDateTime": "2026-10-05T15:27:04-08:00"
+        }
+      ],
+      "Marketing": [
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "New arrival",
+          "ProgramID": "TagLine",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "",
+          "OpportunityMethod": "CUSTOM_CONTACT_SHOW_BROKER",
+          "ProgramID": "PUBLIC",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "",
+          "MarketingID": ""
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "boats",
+          "MarketingID": "10357985"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "btol",
+          "MarketingID": "105963255"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "yw",
+          "MarketingID": "10357985"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
+          "PublicationID": "adobe.saint",
+          "MarketingID": "10357985"
+        }
+      ],
+      "TotalEngineHoursNumeric": 414
+    },
+    {
+      "Source": "IMT",
       "DocumentID": "10228119",
       "SalesStatus": "Active",
       "CoOpIndicator": "true",
@@ -873,7 +873,7 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-06-22",
+      "LastModificationDate": "2026-10-14",
       "ItemReceivedDate": "2026-06-22",
       "OriginalPrice": "425000 USD",
       "Price": "425000.00 USD",
@@ -942,7 +942,7 @@
       "YachtWorldID": "10228119",
       "MaxDraft": "3.67 ft",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-06-22T18:07:29Z",
+      "IMTTimeStamp": "2026-10-14T19:01:09Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": true,
       "NormNominalLength": 11.58,
@@ -1295,7 +1295,7 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-09-03",
+      "LastModificationDate": "2026-10-14",
       "ItemReceivedDate": "2026-06-26",
       "OriginalPrice": "399900 USD",
       "Price": "399900.00 USD",
@@ -1356,7 +1356,7 @@
       "BtolID": "105882792",
       "YachtWorldID": "10233087",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-09-03T11:35:50Z",
+      "IMTTimeStamp": "2026-10-14T19:01:09Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": true,
       "NormNominalLength": 12.19,
@@ -1793,7 +1793,7 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-09-09",
+      "LastModificationDate": "2026-10-14",
       "ItemReceivedDate": "2026-08-31",
       "OriginalPrice": "450000 USD",
       "Price": "450000.00 USD",
@@ -1860,7 +1860,7 @@
       "YachtWorldID": "10308357",
       "DriveUp": "2.58 ft",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-09-09T20:38:54Z",
+      "IMTTimeStamp": "2026-10-14T19:01:09Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": true,
       "NormNominalLength": 12.8,
@@ -1976,13 +1976,13 @@
       ],
       "BoatClassCode": [
         "Sports Fishing Boats",
-        "Saltwater Fishing",
-        "Cruisers"
+        "Cruisers",
+        "Saltwater Fishing"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Sports Fishing Boats",
-        "Saltwater Fishing",
-        "Cruisers"
+        "Cruisers",
+        "Saltwater Fishing"
       ],
       "AdditionalDetailDescription": [
         "<strong>Cabin Interior</strong><br><ul> <li>120-V receptacle - port side</li> <li>12-V USB charging ports - port and starboard sides</li> <li>26\" flat screen HDTV</li> <li>Air conditioner (16,000 BTU)</li> <li>Carbon monoxide detector</li> <li>Central vacuum system with hose and attachments with dedicated storage</li> <li>Console side windows with (2) opening port lights with shades</li> <li>Convertible double berth with filler cushion; comes with fitted sheet, comforter and two regular size pillowcases</li> <li>Convertible pull-out settee</li> <li>Easy to clean interior materials</li> <li>Hanging locker</li> <li>Hardwood cabin sole</li> <li>Hull side windows with shades</li> <li>Lighting - LED diffused courtesy lights (blue)</li> <li>Lighting - LED diffused overhead lights (white)</li> <li>Lighting - LED reading lights (2)</li> <li>Rod storage (4)</li> <li>Skylight with integrated shade system</li> <li>Stereo includes the following: (FUSION® integration into Raymarine with Navigation Package)<br>- FUSION® stereo DVD/CD/AMFM/VHF, USB AUX input<br>- iPod / iPhone / Android compatible via integrated Bluetooth<br>- Sirius XM option ready<br>- Stereo remote controls - helm and bow<br>- MP3/Aux input<br>- JL Audio waterproof speakers - exterior, 7.7\"aft cockpit (2), helm deck (4), bow (2), 10\" sub-woofer, helm deck (2)<br>- JL Audio amplifiers (2)<br>- JL Audio speakers - interior, 6.5\" cabin (4)</li> <li>Table - wood table that lowers to support filler cushion for forward double berth</li> <li>Throw pillows (3)</li></ul><p> </p>",
