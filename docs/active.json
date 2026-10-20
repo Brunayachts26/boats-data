@@ -1295,10 +1295,10 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-10-14",
+      "LastModificationDate": "2026-10-19",
       "ItemReceivedDate": "2026-06-26",
-      "OriginalPrice": "399900 USD",
-      "Price": "399900.00 USD",
+      "OriginalPrice": "385000 USD",
+      "Price": "385000.00 USD",
       "PriceHideInd": false,
       "EmbeddedVideoPresent": false,
       "Image360PhotoPresent": false,
@@ -1356,11 +1356,11 @@
       "BtolID": "105882792",
       "YachtWorldID": "10233087",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-10-14T19:01:09Z",
+      "IMTTimeStamp": "2026-10-20T00:18:48Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": true,
       "NormNominalLength": 12.19,
-      "NormPrice": 399900,
+      "NormPrice": 385000,
       "OptionActiveIndicator": false,
       "Engines": [
         {
@@ -1468,13 +1468,13 @@
       ],
       "BoatClassCode": [
         "Power Catamarans",
-        "Center Consoles",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Center Consoles"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Power Catamarans",
-        "Center Consoles",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Center Consoles"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
