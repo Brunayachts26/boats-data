@@ -1049,13 +1049,13 @@
       ],
       "BoatClassCode": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
@@ -1295,10 +1295,10 @@
         "Phone": "3054315855",
         "Name": "Bruna Yacht Group"
       },
-      "LastModificationDate": "2026-10-19",
+      "LastModificationDate": "2026-11-01",
       "ItemReceivedDate": "2026-06-26",
-      "OriginalPrice": "385000 USD",
-      "Price": "385000.00 USD",
+      "OriginalPrice": "365000 USD",
+      "Price": "365000.00 USD",
       "PriceHideInd": false,
       "EmbeddedVideoPresent": false,
       "Image360PhotoPresent": false,
@@ -1356,11 +1356,11 @@
       "BtolID": "105882792",
       "YachtWorldID": "10233087",
       "TaxStatusCode": "",
-      "IMTTimeStamp": "2026-10-20T00:18:48Z",
+      "IMTTimeStamp": "2026-11-01T13:29:22Z",
       "HasBoatHullID": true,
       "IsAvailableForPls": true,
       "NormNominalLength": 12.19,
-      "NormPrice": 385000,
+      "NormPrice": 365000,
       "OptionActiveIndicator": false,
       "Engines": [
         {
@@ -1464,7 +1464,7 @@
         "imt.tracker.regular"
       ],
       "GeneralBoatDescription": [
-        "<p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" id=\"isPasted\"><strong>2018 Invincible 40 Catamaran</strong></p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\"><strong>Motivated Seller - Offers Encouraged</strong></p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Offered by a knowledgeable, multi-boat owner and professionally captain maintained since new, this Invincible 40 Cat represents one of the best values currently available in the catamaran center console market. Finished in a timeless Whisper Grey and White color scheme, she boasts an impressive Garmin electronics package, recent upgrades and updates throughout, and a level of care that's immediately evident from the moment you step aboard.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Whether your mission is offshore fishing, cruising the islands, or entertaining family and friends, this Invincible 40 Cat is equipped to do it all. Fresh off a recent yard period, all preventative maintenance is up to date making this vessel ready for immediate delivery. </p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\"><strong>Notable Features Include:</strong></p><ul> <li>Quad Mercury 350 Verados</li> <li>Brand-new upholstery throughout</li> <li>New Starlink Satellite Internet</li> <li>Extensive Garmin electronics suite featuring: <ul> <li>(2) Garmin GPSMAP 8622 multifunction displays</li> <li>Garmin GPSMAP 1242xsv dedicated forward-facing sonar display</li> <li>Garmin 12kW Open Array Radar</li> <li>Numerous transducers</li> </ul></li> <li>FLIR night vision system</li> <li>Premium JL Audio system</li> <li>Gemlux carbon fiber outriggers with Gemlux bases</li> <li>Side dive door</li> <li>Removable aft bench seating</li> <li>Custom covers</li> <li>4 electric reel plugs </li></ul><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Conveniently located in Coral Gables, Florida, this exceptional Invincible 40 Catamaran is available for private showings by appointment only.</p>"
+        "<p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\" id=\"isPasted\"><strong>2018 Invincible 40 Catamaran</strong></p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Most Aggressively Priced 40 Cat on the market! </p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\"><strong>Motivated Seller - Offers Encouraged</strong></p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Offered by a knowledgeable, multi-boat owner and professionally captain maintained since new, this Invincible 40 Cat represents one of the best values currently available in the catamaran center console market. Finished in a timeless Whisper Grey and White color scheme, she boasts an impressive Garmin electronics package, recent upgrades and updates throughout, and a level of care that's immediately evident from the moment you step aboard.</p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Whether your mission is offshore fishing, cruising the islands, or entertaining family and friends, this Invincible 40 Cat is equipped to do it all. Fresh off a recent yard period, all preventative maintenance is up to date making this vessel ready for immediate delivery. </p><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\"><strong>Notable Features Include:</strong></p><ul> <li>Quad Mercury 350 Verados</li> <li>Brand-new upholstery throughout</li> <li>New Starlink Satellite Internet</li> <li>Extensive Garmin electronics suite featuring: <ul> <li>(2) Garmin GPSMAP 8622 multifunction displays</li> <li>Garmin GPSMAP 1242xsv dedicated forward-facing sonar display</li> <li>Garmin 12kW Open Array Radar</li> <li>Numerous transducers</li> </ul></li> <li>FLIR night vision system</li> <li>Premium JL Audio system</li> <li>Gemlux carbon fiber outriggers with Gemlux bases</li> <li>Side dive door</li> <li>Removable aft bench seating</li> <li>Custom covers</li> <li>4 electric reel plugs </li></ul><p style=\"font-style: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration: none; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0);\">Conveniently located in Coral Gables, Florida, this exceptional Invincible 40 Catamaran is available for private showings by appointment only.</p>"
       ],
       "BoatClassCode": [
         "Power Catamarans",
