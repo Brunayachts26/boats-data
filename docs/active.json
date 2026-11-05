@@ -216,16 +216,16 @@
       },
       "BoatClassCode": [
         "Center Consoles",
-        "Saltwater Fishing",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Saltwater Fishing"
       ],
       "EmbeddedVideo": [
         "https://images.boats.com/videos/1/79/85/10357985_20261005215704000.mp4|Yellowfin 42 running in Naples, FL"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Center Consoles",
-        "Saltwater Fishing",
-        "Sports Fishing Boats"
+        "Sports Fishing Boats",
+        "Saltwater Fishing"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
@@ -571,11 +571,12 @@
       "LengthOverall": "25.67 ft",
       "BcnaID": "10387417",
       "BtolID": "105985233",
+      "YachtWorldID": "10387417",
       "DriveUp": "1.58 ft",
       "TaxStatusCode": "",
       "IMTTimeStamp": "2026-11-04T19:02:07Z",
       "HasBoatHullID": true,
-      "IsAvailableForPls": false,
+      "IsAvailableForPls": true,
       "NormNominalLength": 7.92,
       "NormPrice": 110000,
       "OptionActiveIndicator": false,
@@ -832,6 +833,15 @@
           "ProgramID": "remoteProductId",
           "ProgramDescription": "",
           "ProgramOffer": "",
+          "PublicationID": "yw",
+          "MarketingID": "10387417"
+        },
+        {
+          "OpportunityType": "imt",
+          "OpportunityMethod": "",
+          "ProgramID": "remoteProductId",
+          "ProgramDescription": "",
+          "ProgramOffer": "",
           "PublicationID": "adobe.saint",
           "MarketingID": "10387417"
         }
@@ -1039,13 +1049,13 @@
       ],
       "BoatClassCode": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "BoatClassCodeNoCaseAlnumOnly": [
         "Bowrider",
-        "Cruisers",
-        "Walkarounds"
+        "Walkarounds",
+        "Cruisers"
       ],
       "AdditionalDetailDescription": [
         "<strong>Disclaimer</strong><br><p>The Company offers the details of this vessel in good faith but cannot guarantee or warrant the accuracy of this information nor warrant the condition of the vessel. A buyer should instruct his agents, or his surveyors, to investigate such details as the buyer desires validated. This vessel is offered subject to prior sale, price change, or withdrawal without notice.</p>"
